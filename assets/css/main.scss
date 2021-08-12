@@ -156,6 +156,8 @@ a:hover::before {
     position: fixed;
     left: 0px;
     top: 0px;
+    margin-top: 0;
+    margin-left: 0;
     width: 100%;
     background: var(--background);
     padding: 20px 10px 10px 30px;
