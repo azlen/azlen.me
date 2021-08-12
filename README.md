@@ -1,6 +1,7 @@
 # Personal Website
 
 > "Life is a constant struggle between having a personal website and being happy with your personal website"
+>
 > — Anonymous
 
 I have long dreamed of having a place on the internet to call home; a place where I can share my work; a place where I can write. This is it. Welcome to the 34th iteration of Azlen's magnificent personal website, the I'm-actually-going-to-write-on-it-this-time-edition. My last website had too complex a build system that pulled data from both Notion and Roam which eventually led to my negligence to actually update the site with new information for over a year and a half (!). Not this time. This time is different, but of course, that's what I always say.
