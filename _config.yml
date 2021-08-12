@@ -23,7 +23,6 @@ exclude:
   - _pages/drafts
   - Gemfile
   - Gemfile.lock
-  - README.md
   - tufte-pandoc-jekyll.gemspec
 
 jekyll-mentions:
