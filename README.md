@@ -36,5 +36,5 @@ Of course, it's not done yet. Never will be. These are some features I think wou
 - Table of contents in left sidebar for longer posts and articles
 - Bring back website stats like wordcount + number of pages
 - Automatic checking for dead or broken links
-- Commenting!
 - Link back up with the XXIVV Webring
+- Commenting!
