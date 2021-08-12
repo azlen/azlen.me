@@ -21,6 +21,10 @@ exclude:
   - _pages/.obsidian
   - _pages/_templates
   - _pages/drafts
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - tufte-pandoc-jekyll.gemspec
 
 jekyll-mentions:
   base_url: https://twitter.com
