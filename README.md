@@ -22,6 +22,10 @@ I adopted the [100 Rabbits-style theme support](https://github.com/hundredrabbit
 
 I want to invite you into my website as one invites someone into their home — because that's what it is, my digital home! So I've been experimenting with a friendlier, more conversational tone, And so far, I like it a lot!
 
+### Human error codes
+
+I thought it might be funny to [invent a new error code block](https://twitter.com/azlenelza/status/1424528012582678531) to add a little human element to errors, for example: "Error 703: Not Written Yet" might appear on certain pages that I've linked to but not yet written any content for.
+
 ## But it'd be cooler if...
 
 Of course, it's not done yet. Never will be. These are some features I think would be pretty neat to have, if I get around to implementing them sometime:
@@ -31,5 +35,6 @@ Of course, it's not done yet. Never will be. These are some features I think wou
 - List of backlinks to a particular page to aid exploration
 - Table of contents in left sidebar for longer posts and articles
 - Bring back website stats like wordcount + number of pages
-
-
+- Automatic checking for dead or broken links
+- Commenting!
+- Link back up with the XXIVV Webring
