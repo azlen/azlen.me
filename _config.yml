@@ -1,0 +1,29 @@
+plugins:
+  - jekyll-pandoc
+  - jekyll-twitter-plugin
+  - jekyll-mentions
+  - jekyll-scholar
+  - jekyll-last-modified-at
+
+markdown: Pandoc
+pandoc:
+  extensions:
+    - section-divs
+    - from: 'markdown+tex_math_single_backslash'
+    - filter: 'pandoc-sidenote'
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+exclude:
+  - _pages/.obsidian
+  - _pages/_templates
+  - _pages/drafts
+
+jekyll-mentions:
+  base_url: https://twitter.com
+
+last-modified-at:
+    date-format: '%Y-%m-%d'
