@@ -3,9 +3,9 @@ layout: default
 title: "Blog"
 ---
 
-Hi! Welcome to my personal blog
+Welcome to my writing space, here I collect my thoughts and publish longer pieces to share.
 
-- [Writing as distilled thought](/blog/writing_as_distilled_thought)
+- [Writing as distilled thought](/blog/writing-as-distilled-thought)
 
 <!-- {% capture numposts %}{{ site.posts | size }}{% endcapture %}
 {% if numposts != '0' %}
