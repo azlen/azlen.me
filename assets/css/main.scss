@@ -150,6 +150,23 @@ a:hover::before {
   text-shadow: none;
 }
 
+code {
+  color: var(--f_med);
+}
+
+.grayscale {
+  filter: saturate(0);
+}
+
+figcaption {
+  float: none;
+  width: 100%;
+  text-align: center;
+  max-width: unset !important;
+  // opacity: 0.7;
+  // color: var(--f_low)
+}
+
 
 @media (max-width: 760px) {
   .sidepanel {

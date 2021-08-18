@@ -5,7 +5,7 @@ title: "Hello!"
 
 My work revolves around *spaces*—both *the digital* and *physical* places we inhabit in our everyday lives: *interfaces*, *cyberspace*, *cities*, and the like
 
-I weave [metaphors](/metaphors), explore open [questions](/questions), and [write](/blog) occasionally about my discoveries. I'd love to show you around some of my [projects](/projects) sometime!
+I weave metaphors, explore open questions, and [write](/writing) occasionally about my discoveries. I'd love to show you around some of my [projects](/projects) sometime!
 
 *Please*, make your self at home,
 
