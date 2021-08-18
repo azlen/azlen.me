@@ -7,4 +7,5 @@ tags
 _site
 Gemfile.lock
 
+_pages/.obsidian
 _pages/drafts
