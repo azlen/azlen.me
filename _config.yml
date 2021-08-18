@@ -25,6 +25,9 @@ exclude:
   - Gemfile.lock
   - tufte-pandoc-jekyll.gemspec
 
+include:
+  - _redirects
+
 jekyll-mentions:
   base_url: https://twitter.com
 
