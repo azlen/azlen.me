@@ -1,0 +1,15 @@
+# netlify redirects
+
+/blog                   /writing
+/news                   /blog
+/home                   /
+/hello                  hello@azlen.me
+
+/favourite/color        https://en.wikipedia.org/wiki/Red
+/favourite/food         https://en.wikipedia.org/wiki/Sarma_(food)
+/favourite/designer     https://uvula.jp/
+/favourite/community    https://merveilles.town/
+/favourite/place        https://en.wikipedia.org/wiki/False_Creek
+/favourite/word         https://en.wikipedia.org/wiki/Yes_and_no
+/favourite/book         https://en.wikipedia.org/wiki/Metaphors_We_Live_By
+/favorite/*             /favourite/:splat
