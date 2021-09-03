@@ -67,7 +67,7 @@ I was thinking something like an "X" that marks where you're moving to, kind of 
 
 But the funniest idea I came up with is that when you drag you cozy you instead drag your shadow ([see #11](#11)), and then your cozy, having lost its shadow, tries quickly to recover it!
 
-<!-- TODO: switch to using {% includes %} here -->
+<!-- TODO: switch to using includes here -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NqmWRagbgTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
