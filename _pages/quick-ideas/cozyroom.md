@@ -173,7 +173,7 @@ I think option #1 works best, and then when the eraser is selected it can switch
 
 <a name="50"></a>
 
-## 50: Hotkey indicators
+## #50: Hotkey indicators
 
 In same vein as [idea #31](#31), I wonder if the interface can naturally teach you key commands by simply putting letters on each of the tools indicating which key to press to select that tool?
 
@@ -182,7 +182,7 @@ In same vein as [idea #31](#31), I wonder if the interface can naturally teach y
 
 <a name="49"></a>
 
-## 49: Sonification
+## #49: Sonification
 
 If the pen width slider makes clicky sounds as you drag it, that makes me feel that other interface elements could have their own sounds attached!
 
@@ -200,11 +200,11 @@ That would be pretty neat— and maybe could help someone who's colorblind be ab
 
 <a name="48"></a>
 
-## 48: Thickness slider
+## #48: Thickness slider
 
 Do you remember those little clicky erasers where you can keep sliding the eraser out as it runs down?
 
-![](/images/clicky-eraser.png)
+![I have to admit, I haven't seen one of these things since elementary school](/images/clicky-eraser.png)
 
 Thinking about these just gave me an idea— what if you can control the pen thickness with a slider on the pen itself!?
 
@@ -214,7 +214,7 @@ It would also be fun if as you slide the pen-thickness it makes a *click* *click
 
 <a name="47"></a>
 
-## 47: Palette
+## #47: Palette
 
 If I have this in-context color picker I also want a way to save colors as a palette 
 
@@ -224,7 +224,7 @@ Here are a few different variations of the idea. Personally I like #2 because it
 
 <a name="46"></a>
 
-## 46: In-context color picker
+## #46: In-context color picker
 
 I really don't like when tools give a limited set of colors on their pen tools, it feels constraining to lose the agency of picking my own colors
 
@@ -240,7 +240,7 @@ And then if you drag right moving along the color bar, it will make the color da
 
 <a name="45"></a>
 
-## 45: Skeuomorphic
+## #45: Skeuomorphic
 
 ![](/images/cozy-toolbar-sketch.png)
 
@@ -252,7 +252,7 @@ Feels nicer than [idea #12](#12) where I can just see icons and open up menus
 
 <a name="44"></a>
 
-## 44: What if rooms = cards
+## #44: What if rooms = cards
 
 Had this crazy idea the other day to treat different rooms and spaces as cards that you can stack, sort, flip, and drag around. Somehow this feels like it solves 90% of my big design questions around cozyroom.
 
