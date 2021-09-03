@@ -257,8 +257,8 @@ Feels nicer than [idea #12](#12) where I can just see icons and open up menus
 Had this crazy idea the other day to treat different rooms and spaces as cards that you can stack, sort, flip, and drag around. Somehow this feels like it solves 90% of my big design questions around cozyroom.
 
 It also opens up many different new use cases, sort of pushing cozyroom to a point where it can't be put into any one particular category.
+
 ![](/images/cozy-cards-no-toolbar.png)
-![](/images/cozy-cards.png)
 
 <a name="43"></a>
 
