@@ -16,6 +16,8 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 
 **Quick Ideas**: [Hyperthoughts in Hyperspace](/quick-ideas/interfaces)
 
+
+
 ## Cities
 **Quick Ideas**: [City Fragments](/quick-ideas/cities)
 
