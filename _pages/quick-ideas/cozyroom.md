@@ -9,9 +9,35 @@ Ideas are listed in generally-reverse-chronological order, meaning that as I add
 
 <a href="#1">Scroll to start ↓</a>
 
+<a name="64"></a>
+
+## #65: Facepaint
+
+In pen mode 
+
+## #64: Metaballs
+
+Imagine if cozies were actually metaballs and merged when they got close to one another...
+
+![](/images/cozy-metaballs.png)
+
+Not a core feature for sure but could be a fun plugin!
+
+<a name="63"></a>
+
+## #63: Backpack
+
+It'd be nice sometimes to have a little sidebar / clipboard with things I want to move from one place to another, or am unsure where exactly to put yet
+
+Conceptually I might think of this as a:
+
+- `Backpack`: carry from one place to another
+- `Hand`: like a hand of cards, it is private only you can see what's there
+- `Inventory`: similar to an "inventory" in video games of all the things you've picked up
+
 <a name="62"></a>
 
-## 62: Search shelf
+## #62: Search shelf
 
 I'm thinking of making a multipurpose search button
 
@@ -29,7 +55,7 @@ Also, if I search for a "piano" in the search box, it would be kind of neat if t
 
 <a name="61"></a>
 
-## 61: Flying cozies
+## #61: Flying cozies
 
 Another idea for the cursor in creative mode is that you keep your cozy but it becomes part of your cursor
 
@@ -45,7 +71,7 @@ But I have to say, pacman cursor would be funny![^wakkawakka]
 
 <a name="60"></a>
 
-## 60: Settings icon
+## #60: Settings icon
 
 I was thinking it would be funny if the settings icon looked like a face instead of a gear
 
@@ -59,7 +85,7 @@ It is rather cute though!
 
 <a name="59"></a>
 
-## 59: Shadow drag
+## #59: Shadow drag
 
 Since I switched from dragging the cozy directly to dragging the target position which the cozy will then walk ([and squish](#1)) towards that new position, I have wondered how might I be able to represent this target.
 
@@ -73,7 +99,7 @@ But the funniest idea I came up with is that when you drag you cozy you instead 
 
 <a name="58"></a>
 
-## 58: Ferris wheel menu
+## #58: Ferris wheel menu
 
 I've been trying to avoid menus as much as possible in the toolbar, I want everything to be able to accessed immediately rather than delving into submenus and subsubmenus and subsubsubmenus...
 
@@ -85,13 +111,13 @@ So I think I'll allow for a single menu here that I call the "ferris wheel menu"
 
 <a name="57"></a>
 
-## 57: Disappearing ink!
+## #57: Disappearing ink!
 
 It would be fun to have a vanishing-ink mode on the pen tol so that you can use the pen as a conversational / gestural tool without making permanent marks...
 
 <a name="56"></a>
 
-## 56: Locked in conversation
+## #56: Locked in conversation
 
 Last night the phrase "locked in conversation" popped into my head as I was falling asleep and I wrote it down thinking that it'd be an nice metaphor for private conversations / whispering to another person in a way that only they can hear
 
@@ -103,7 +129,7 @@ Particularly when I was playing board games in figma with my friends, sometimes 
 
 <a name="55"></a>
 
-## 55: Globe
+## #55: Globe
 
 Show a little globe icon in the path for public rooms
 
@@ -115,7 +141,7 @@ And a little house for private rooms?
 
 <a name="54"></a>
 
-## 54: Icon swoosh
+## #54: Icon swoosh
 
 The icons I have been thinking about to represent the "cozy" and "creative" modes are both centered around a kind of circle motif:
 
@@ -131,7 +157,7 @@ When selecting modes in a dropdown menu, to avoid the same icon appearing twice,
 
 <a name="53"></a>
 
-## 53: Magic select
+## #53: Magic select
 
 Inspired by [Kinopio](https://kinopio.club), what if when you drag on the background you draw a path of selection and can wave this around to select multiple objects at once?
 
@@ -139,7 +165,7 @@ Although dragging on the background on mobile, it makes more sense that the inte
 
 <a name="52"></a>
 
-## 52: Creative mode
+## #52: Creative mode
 
 Sometimes I want to brainstorm together and other times I want to gather together...
 
@@ -157,7 +183,7 @@ Harkening back to the creative mode in Minecraft that frees you from the normal 
 
 <a name="51"></a>
 
-## 51: Eraser!
+## #51: Eraser!
 
 I almost forgot about the eraser, when you have a pen tool you also need a way to erase things!
 
@@ -256,9 +282,16 @@ Feels nicer than [idea #12](#12) where I can just see icons and open up menus
 
 Had this crazy idea the other day to treat different rooms and spaces as cards that you can stack, sort, flip, and drag around. Somehow this feels like it solves 90% of my big design questions around cozyroom.
 
-It also opens up many different new use cases, sort of pushing cozyroom to a point where it can't be put into any one particular category.
-
 ![](/images/cozy-cards-no-toolbar.png)
+
+Key ideas:
+
+- Cards can be arranged in the space, or put into decks, drawn, shuffled, etc.
+- Each card can be opened up into its own space (the card is like a door)
+- The space a card opens up into by default scrolls vertically down and not horizontally
+- Text, drawings, and images can be placed on the face of the card
+
+It also opens up many different new use cases, sort of pushing cozyroom to a point where it can't be put into any one particular category.
 
 <a name="43"></a>
 
