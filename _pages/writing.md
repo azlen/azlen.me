@@ -36,8 +36,8 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 ## Linguistics
 **Quick Ideas**: [A Shot of Morpheme](/quick-ideas/linguistics)
 
-- [Architecture of Writing](/blog/architecture-of-writing)
-- [Writing as distilled thought](/blog/writing-as-distilled-thought)
+- [Architecture of Writing](/writing/architecture-of-writing)
+- [Writing as distilled thought](/writing/writing-as-distilled-thought)
 
 ## Other
 
