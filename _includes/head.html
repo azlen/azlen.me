@@ -15,8 +15,17 @@
 <link rel="stylesheet" href="https://use.typekit.net/sxc6rjm.css">
 
 <!-- TODO(jez): canonical URL -->
-<!-- TODO(jez): OpenGraph tags -->
+<!-- OpenGraph tags -->
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.description | default: '' }}">
+<meta property="og:image" content="https://azlen.me/og-image.png">
 
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://azlen.me/twitter-image.png">
+<meta name="twitter:site" content="@azlenelza">
+<meta name="twitter:creator" content="@azlenelza">
+
+<!-- font + styles -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/font-et-book/0.1/et-book.min.css">
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
