@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, .subtitle {
   animation: colorshift 120s linear infinite;
 }
 
-a:link, .tufte-underline, .hover-tufte-underline:hover {
+a:not(.no-link-style):link, .tufte-underline, .hover-tufte-underline:hover {
   position: relative;
   font-family: 'jaf-lapture';
   font-style: italic;
@@ -48,13 +48,13 @@ a:link, .tufte-underline, .hover-tufte-underline:hover {
   text-shadow: 0.03em 0 var(--background), -0.03em 0 var(--background), 0 0.03em var(--background), 0 -0.03em var(--background), 0.06em 0 var(--background), -0.06em 0 var(--background), 0.09em 0 var(--background), -0.09em 0 var(--background), 0.12em 0 var(--background), -0.12em 0 var(--background), 0.15em 0 var(--background), -0.15em 0 var(--background);
   background-position: 0% 93%, 100% 93%, 0% 93%;
 }
-a:hover {
+a:not(.no-link-style):hover {
   // color: var(--f_med);
   text-shadow: none;
   color: var(--f_low);
   color: var(--b_high);
 }
-a::before {
+a:not(.no-link-style)::before {
   content: "";
   position: absolute;
   bottom: 0; left: 0; width: 100%; height: 0%;
@@ -63,12 +63,17 @@ a::before {
   z-index: -1;
   transition: .10s ease-out;
 }
-a:hover::before {
+a:not(.no-link-style):hover::before {
   height: 100%;
 }
 // a:hover {
 //   color: var(--f_med);
 // }
+
+.no-link-style {
+  background: none !important;
+  text-shadow: none !important;
+}
 
 .sidepanel {
   position: absolute;
@@ -192,4 +197,31 @@ figcaption {
   h1 {
     font-size: 2.8rem;
   }
+}
+
+strong {
+  font-family: "jaf-lapture";
+  font-size: 19px;
+}
+
+
+
+.arrow:before { content: "↳"; font-family: sans-serif; padding: 0px 20px 0px 2px; opacity: 0.5 }
+	.new:before { content: "NEW"; font-family: sans-serif; font-size: 10px; padding: 3px 5px 2px 5px; background: var(--f_med); color: var(--background); font-weight: bold; border-radius: 3px; margin-left: 10px; }
+
+// .red { color: var(--f_low) }
+
+// img {
+//   max-height: 300px;
+// }
+
+
+blockquote {
+  margin-left: 0;
+  padding-left: 40px;
+  border-left: 3px solid var(--f_med)
+}
+
+.half {
+  opacity: 0.5;
 }

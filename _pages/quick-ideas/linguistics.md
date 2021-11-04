@@ -7,6 +7,25 @@ created: 2021-08-15
 
 *Language continually fascinates me from every angle; every word, every metaphor, language shapes how we think, it is the shadow of society's collective mind.*
 
+## #8: Possible paradoxes
+
+Simply by the way we categorize ideas, it can be possible for something to exhibit two seemingly paradoxical or opposing properties at the same time. Perhaps, for example, a place can be both welcoming and uninviting at the same time?
+
+I started thinking about this while writing up my post on [Cyberspace to Cyberplace](/writing/cyberspace-to-cyberplace.md). Some of the qualities that make a something place-like were seemingly opposites: **predictability** vs. **serendipity**; **permanence** vs. **ephemerality**; etc.
+
+However I don't think either of those are contradictory at all, they only appear so based on their mental categorizations. Not only can something exhibit both permanence and ephemerality, but perhaps both are *required* to work towards creating a *sense of place*.
+
+This idea leads me to think there ought to be a word for two concepts that appear contradictory yet unify towards the same purpose or goal. Some ideas:
+
+- Contrastruct (contradict + construct)
+- Conflerge (conflicting + merge)
+- Balancers
+- Antidoxian (anti- + paradox)
+- Super-supposition (super position + idea)
+- Mentanglement (mental + entanglement)
+
+Personally I'm most drawn to **Conflerge** and **Contrastruct**, but I will continue to be on the look out for new words that might fit this concept.
+
 ## #7: Metaphors we design by
 
 Whether or not you agree with Lakoff's central premise in *Metaphors We Live By*, there is absolutely no doubt that metaphors play an immense role when it comes to design. Once you start to look, our world is practically built on metaphors—it is the mortar of ideas and inventions.

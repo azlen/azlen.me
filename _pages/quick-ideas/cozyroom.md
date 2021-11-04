@@ -5,15 +5,299 @@ subtitle: "Quick design ideas for Cozyroom"
 created: 2021-08-15
 ---
 
-Ideas are listed in generally-reverse-chronological order, meaning that as I add new ideas to this page they will show up at the top. However if you want to start at #1
+Ideas are listed in generally-reverse-chronological order, meaning that as I add new ideas to this page they will show up at the top. However if you want to start at #1, press the button below.
 
 <a href="#1">Scroll to start ↓</a>
 
+<a name="82"></a>
+
+## #82: Programming Blocks
+
+I've been thinking for a while about how to create a kind of modding experience
+
+<a name="81"></a>
+
+## #81: Modding Staircase
+
+One of the biggest ideas I'd been trying to explore with cozyroom 2.0 is the idea of creating a modding / plugin system
+
+After extensive research and thinking about modding I began to think of modding as a sort of spectrum — or perhaps a staircase might be a better metaphor!
+
+- **First step**: Being able to modify and customize the world around you, in cozyroom you can *already* do this by dragging objects into the space and arranging them however you like. Even better if you're able to share spaces and creations with others.
+- **Second step**: Using other people's mods / plugins / interactive objects. Simply by using other people's creations opens your eyes to the possibility that you can make your own
+- **Third step**: Starting to create your own small mods. Creating your own custom pointers, cosmetics, interactive objects, etc.
+- **Fourth step**: More complex modding, things that bend the physics of your world in new ways you had not expected. Possibly introducing entirely new forms of gameplay.
+- **Fifth step**: Complete overhaul. The software becomes merely the engine on which you craft an entirely new game or experience.
+
+![](/images/modding-staircase.jpg)
+
+Installing and using other people's mods tends to be relatively easy, but the step between the using and actually creating your own plugins is often so high that it requires a bit of climbing. This is the case with games, and this is the case with software[^realworld].
+
+[^realworld]: and it is likely the case with any other medium that has an analogue to the idea of modding
+
+The distance between the second and third step is tied to two factors: effort and learning curve. If you bring either or both of these factors down then you've likely started to make a system that is very friendly to end-user programming. Lowering the third step is the goal of all no-code tools.
+
+The fourth and fifth steps take effort and are rarely walked but powerful incubators of ideas. Some of the most popular game genres today have emerged from mods that subvert their original game in order to change the rules and gameplay mechanics in new ways[^subvert].
+
+[^subvert]: *in rare cases*, some people are able to skip from the first to the fourth step by realizing that creating new experiences can sometimes be just about setting new social rules rather than codifying technical ones. For this to occur, the world must be flexible enough already to support a wide range of use-cases, allowing new games to emerge from within the overall game structure. Take minecraft spleef arenas or hunger games for example, you can absolutely set up a game of hunger games among a group of friends without any mods or technical knowledge.
+
+*My* goal in exploring a plugin system for cozyroom is to both lower the third step—lowering the learning curve for anyone to be able to experiment and dabble with more advanced customizations, creating interactive objects, etc.— and also to create a powerful sandbox and spatial environment where people can experiment with creating new experiences altogether.
+
+If new genres like MOBAs and Battle Royales can emerge from video game modding communities, just imagine what kinds of new genres of software might be discovered if only we made software moddable.
+
+<a name="reflection"></a>
+<a name="interlude"></a>
+
+## Interlude: Reflection
+
+I haven't felt like working on cozyroom lately, why?
+
+- Intimidated by connecting together different backend services
+- Not sure if I'm barking up the wrong tree w/ latest design ideas
+- Bored of working on same thing for too long
+- Not enough excitement / motivation
+- No longer so excited about programming
+- Simply so many tasks to get done
+- Ambivalence on whether or not to seek funding
+- The pen tool...
+
+The "big ideas" that I was exploring (and was motivated by) a couple months ago — they seem a little far-fetched... I'm not sure if they are really good ideas anymore.
+
+It is essential that the primitives of cozyroom all work really well together, and if I feel like they don't then there's a big problem.
+
+The toolbar has probably been one of the biggest things holding me back. I put a lot of effort into it and yet I still feel dissatisfied.
+
+![](/images/cozy-toolbars.png)
+
+Fundamentally, the biggest problem with the toolbar is the pen tool — which introduces many layers of complexity, most key of which is that it is unlike any other tool and that drawing is more like a "mode" than a "tool"
+
+**"BIG IDEAS":**
+
+- Toolbar + pen tool
+- Cozy mode and creative mode
+- Infinite canvas vs. vertical scroll
+- Cards = sub-spaces
+
+![](/images/cozy-modes.png)
+
+![](/images/cozy-infinite-canvas-vs-vertical-scroll.png)
+
+![](/images/cozy-cards-drawing.png)
+
+I think the problem is that I took all these "big ideas" and tried to lump them all together at once without letting them evolve naturally on their own. Just like jamming two puzzle pieces together that shouldn't go together, sometimes you can delude yourself for a moment that they do until you start noticing the inconsistencies.
+
+The clear solution to me right now is to scrap my current conception of creative mode, pen tool, cards, pocket dimensions, vertical canvases, etc.
+
+<!--- Perhaps cards may have a place in cozyroom but they will no longer be a core "primitive"
+- Cards are no longer tied to the idea of "pocket dimensions"
+- Creative mode will not be needed for now because it was tied up with my ideas of pocket dimensions and vertical canvases
+- ...-->
+
+If they really are pieces of this puzzle then they will surely find a more natural fit sometime down the road. And if not, then perhaps I may find that scrapping these pieces for now might open my eyes to all kinds of new pieces of the puzzle that I had blinded myself to before.
+
+<a name="80"></a>
+
+## #80: Finger Control
+
+This is a little silly but what if you had a hand and could control each of its fingers?
+
+![](/images/cozy-finger-control-1.png)
+
+![](/images/cozy-finger-control-2.png)
+
+![](/images/cozy-finger-control-3.png)
+
+It would be interesting to experiment with something like this, perhaps it could make interactions more immersive? intuitive?
+
+What would different hand gestures mean?
+
+Probably wouldn't make sense to incorporate into cozyroom but it would be fun to play around with sometime!
+
+<a name="79"></a>
+
+## #79: AI Objects
+
+What if you could type in anything an an AI will automatically generate an object for you with that text?
+
+![](/images/cozy-ai-pink-high-chair.png)
+
+![](/images/cozy-ai-avocado-chair.png)
+
+That would be quite interesting, I wonder how this would change the whole dynamics of interaction...
+
+Maybe you can longpress anywhere on the background, type in the kind of object you want, press enter, and voila!
+
+
+<a name="78"></a>
+
+## #78: Wheel of conversation
+
+![](/images/cozy-conversation-wheel.png)
+
+Spin the wheel and it gives you an interesting idea or topic to talk about :)
+
+<a name="77"></a>
+
+## #77: Indicators
+
+I want to be able to see where people are. Who is up from me and who is down from me?[^vertical]
+
+[^vertical]: If I'm in a vertical space. I'm not sure if I've written about this yet but the idea would be that if you "enter" a card then you are in a new room but it only scrolls vertically — as a sort of brainstorming space<br><br>This would also enable you to be able to easily publish any of these vertical spaces as a webpage...
+
+![](/images/cozy-up-down-indicators.png)
+
+And when someone is talking (if we can hear each other in the space) then they can pop up bigger!
+
+![](/images/cozy-indicator-popout.png)
+
+<a name="76"></a>
+
+## #76: Flying carpet
+
+It would be funny when you enter a room / card if you are on a little floating magic carpet...
+
+You can see each other on the carpet no matter how far you scroll away from each other, but you can also drag yourself off the carpet and into the space to regain spatial positioning.
+
+![](/images/cozy-magic-carpet.png)
+
+<a name="75"></a>
+
+## #75: Draw vs. Move
+
+I want to be able to both draw from and move a deck (and for these both to be very immediate / top-level interactions), but how can they both be tied to dragging?
+
+One solution is to say that any drag from the bottom half of the deck moves it, and any drag from the top half draws a card — this can be anticipated by a card-tilt of the top card on hover.
+
+![](/images/cozy-deck-half-drag.png)
+
+<a name="74"></a>
+
+## #74: No Names
+
+Having everyone's names on screen at once leads to some visual noise...
+
+I don't know if its really necessary if I already know who someone is (although I mostly tune the nametags out)
+
+Instead maybe it shows the name when you click or hover on others, or when they join the room or move into your field of view. And then the name tag may fade out after a bit (as you'll probably be tuning it out anyway so it doesn't matter anymore)
+
+<a name="73"></a>
+
+## #73: Single Color
+
+To simplify the pen tool, what if you only have one color: the color of your cozy? that way you can always tell which lines have been drawn by who
+
+In what circumstances might you want to use a color that is not your own?
+
+I feel like a single color might fit 90 - 95% of use cases, it's possibly more important to be able to change the pen width than it is to change the pen color...
+
+Wait... now that I think about it I realize I'm part of that 5% use case where having multiple colors would be really really helpful to me haha
+
+<a name="72"></a>
+
+## #72: Cozy Color Wheel
+
+If I'm showing the pen tool in this "pointer switcher" with a color wheel around it for changing the color of the pen, then perhaps the default pointer tool could also have a color picker that lets you change the color of your cozy!
+
+![](/images/cozy-pointer-switcher-figma.png)
+
+Plus it might let me fit a few emotes into the UI — I'm not entirely sure this is a good place for them (ideally emotes would be more immediate rather than being something you have to go click on to the side) but it could certainly be helpful to have emotes, particularly a "wave" which could be used both as a greeting and a farewell...
+
+<a name="71"></a>
+
+## #71: Pointer Switcher
+
+I don't like that the pen tool and card/text are very different interaction-wise (see toolbar: [#45](#45), [#51](#51), [#58](#58)) but are layed out next to each other in the same toolbar
+
+The card/text you can drag into the space, whereas the pen tool is essentially an entire mode!
+
+![](/images/cozy-pointer-switcher.png)
+
+So what if instead, the "toolbar" is just a "pointer switcher" which would let me make (or let others make as plugins) lots of fun different pointers (see [#26](#26), [#27](#27), [#28](#28))
+
+<a name="70"></a>
+
+## #70: Card shapes
+
+Also there's no reason to restrict the size, or even shape of cards
+
+In fact it's not completely necessary that all cards in a single deck have the same shape. They just have to look roughly the same shape until you flip them over and "reveal" what they actually look like...
+
+![](/images/cozy-card-shapes.png)
+
+<a name="69"></a>
+
+## #69: Card backs
+
+Thinking about how cards can break beyond the physical medium... ([see #66](#66))
+
+Because it can be different each time, the card backs in a single deck don't have to be all the same!
+
+You could have generative-art algorithm generate a card back each time you draw a card, so despite having different backs it doesn't give any indication of what card might be underneath...
+
+<a name="68"></a>
+
+## #68: Facepaint
+
+In pen mode I wish I could draw on my cozy itself
+
+Maybe if your pen goes over/around your cozy, (s)he looks straight forward and the pen size becomes a bit smaller, letting you draw around your face or around your body.
+
+![](/images/cozyroom-personal-space.png)
+
+![](/images/cozyroom-facepaint-examples.png)
+
+If you draw directly on your face, maybe it will follow your face as you look around and get cropped by the edge of your body. Whereas if you draw outside your body maybe the drawing doesn't follow your face around?
+
+![](/images/cozyroom-facepaint-examples-2.png)
+
+<a name="67"></a>
+
+## #67: Check it out!
+
+If a page name on cozy garden is already taken, show a little message asking if you want to check out what's on that page. Maybe if someone else comes up with the same creative title for something you might be curious to see what they've put up there!
+
+![](/images/cozy-garden-check-it-out.png)
+
+<a name="66"></a>
+
+## #66: Card Feel
+
+How can you create a deck of cards in digital space?
+
+It's very difficult because there's simply so many things you can do with cards! they are a very flexible medium (just like paper)
+
+Rather I've found that to get to this card-feel you can incorporate digital aspects of cards that would be impossible in physical space — like particles, sound effectts, animations, etc.
+
+This is how games like Hearthstone and other games try to create that card-feel and make the experience more engaging (it' be rather dull if they tried to create a completely accurate simulation of playing cards, right?)
+
+[![How can you break out of the medium?](/images/joker.webp)](https://madebyabvh.tumblr.com/post/101591449377/playing-cards){.no-link-style}
+
+If I incorporate cards into cozyroom, how can the affordances of cards be digitally augmented? Some ideas:
+
+- Hyperlinks / interactivity
+- Space beyond card — that you can enter into as a brainstorming space / pocket dimension...
+- Spaced repetition
+- Automatic sorting
+- Animations on the cards
+- Resizing
+
+
+
+
+<a name="65"></a>
+
+## #65: Cozy Garden
+
+`https://cozy.garden`
+
+I couldn't resist. What will it be?
+
+I think I might make cozy garden into a mini publishing platform for cozyroom
+
+You can publish spaces as a website that people can visit (e.g. maybe you have a brainstorm/writing session inside of cozyroom and want to share the link with some friends?)
+
+
 <a name="64"></a>
-
-## #65: Facepaint
-
-In pen mode 
 
 ## #64: Metaballs
 
@@ -392,6 +676,8 @@ There's currently no way to make objects bigger or smaller, it's something that 
 What if while dragging an object I can press left and right arrow keys to rotate, or up and down to scale, or use the equivalent keys on WASD
 
 ![](/images/cozy-spin-scale.png)
+
+![](/images/cozy-spin-scale-2.png)
 
 Could be useful way to have fine-grained control of scale / rotation on desktop
 

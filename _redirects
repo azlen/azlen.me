@@ -1,10 +1,12 @@
 # netlify redirects
 
 /blog                   /writing
+/quick-ideas            /writing
 /news                   /blog
 /home                   /
 
-/favourite/color        https://en.wikipedia.org/wiki/Red
+/favourite/colour       https://en.wikipedia.org/wiki/Red
+/favourite/color        /favourite/colour
 /favourite/food         https://en.wikipedia.org/wiki/Sarma_(food)
 /favourite/designer     https://uvula.jp/
 /favourite/community    https://merveilles.town/

@@ -21,3 +21,4 @@ These are my experiments in [applied science fiction](/applied-science-fiction),
 *Education hubs, challenge platforms, new schools, piecing together the puzzle pieces to imagine new paths of learning, and possibilities to make school less about cramming for the test and more about playing with ideas.*
 
 - [Bouldering in the Classroom](/stories/bouldering-in-the-classroom)
+- [Department of Fictioneering](/stories/department-of-fictioneering)
