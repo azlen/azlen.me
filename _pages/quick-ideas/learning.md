@@ -39,7 +39,106 @@ Ideas are listed in generally-reverse-chronological order, meaning that as I add
 - landscape metaphor
 -->
 
+## #28: Tri-amphitheatre
 
+Inspired by the amphitheatre room-layout depicted in [#24](#24), I thought: what if you arranged multiple semi-circular amphitheatre spaces around in a circle?
+
+If you only have one amphitheatre then it can either be used as workshop / presentation space, or be an open space for people to sit, work, and hang out—it can't be both at once. If you have multiple amphitheatre's though you can have different events/non-events happening in each.
+
+![](/images/learning-tri-amphitheatre.png)
+
+1. tri-amphitheatre arrangement
+2. trees + nature in-between buildings, and large side-windows looking out
+3. bridges connecting amphitheatres
+4. stage walls can open up? merging into larger stage / stadium for bigger events, performances, or speakers
+5. supporting convergent + divergent social spaces
+6. undercover areas / arcades, and open-air workshops
+7. storage space or stairs down (basement?)
+8. places to walk + sit around building
+
+This is an interesting example of bottom-up design, where you don't imagine a structure first but start with the experiences that you want to create. The evolution of this concept can be traced (primarily) through: [#3](#3), [#18](#18), [#21](#21), [#24](#24), and [#25](#25). When I first wrote idea [#3](#3) I was certainly not yet imagining such a space as I have layed out here.
+
+## #27: Small room, long table
+
+I imagine for something like a "writer's room", while you *can* put prompts, resources, and other information up on the walls—the actual process of writing doesn't change much. In fact much of my explorations so far (see: [#3](#3), [#21](#21), [#22](#22)) have been more focused on reimagining a learning environment for mathematics, which lends itself particularly well to putting up difficult challenges to solve that activates people's problem-solving. However, for other activities, like writing or sewing or woodworking, 
+
+![](/images/learning-long-table.png)
+
+## #26: School doodle
+
+Just doodling some floor plan / layout for an imaginary school
+
+![](/images/learning-imaginary-school.png)
+
+Interesting what kinds of patterns you can reason about and fit together in a single sketch:
+
+- outer buildings providing a protective layer to create safe play space in the inner courtyard
+- a learning commons / library as a place of passage between spaces[^hmmmm]
+- no hallways (see [#18](#18))
+- lots of wall surface areas creates posibilities for play, as well as places to hide
+- network of paths helps facilitate games running around and to divide the space for games like "capture the flag"
+
+[^hmmmm]: not sure if this is a great idea, because then the library will get the noise from *all* the neighbouring classrooms and all the people passing through
+
+
+
+
+<a name="25"></a>
+
+## #25: Amphitheatre of Learning
+
+Thinking about verticality and elevated spaces ([#24](#24)) I was just reminded of the WeWork near the top of the Salesforce tower in SF. 
+
+![](/images/learning-amphitheatre.png)
+
+
+<a name="24"></a>
+
+## #24: Verticality
+
+Incorporating multiple levels of verticality can help distinguish different parts of a space from one another. Similarly to bouldering gyms where you step onto the mat to approach the wall, maybe it makes sense to separate the space with a slightly raised platform / elevated area near the wall...
+
+On top of the pull/push this creates to guide how you interact with the space, a ledge or raised platform can also create spaces to sit (maybe the elevated area should be padded?), as well as a place for storage or floor-level bookshelves:
+
+![](/images/learning-elevated-area.png)
+
+<a name="23"></a>
+
+## #23: Biology metaphor
+
+Students often describe classrooms as being rather like a cell...
+
+Just imagine if that was a metaphor to biological cells rather than prison cells! then maybe we can tweak a few of the educhemical reactions along the way...
+
+<a name="22"></a>
+
+## #22: Intestine-style design
+
+I was just thinking that if you have a space too open, it starts to feel awkward like you have many eyes watching, but if you make a space too closed, it feels like you're alone.
+
+As well, if the walls are used to put up prompts and challenges (see [#21](#21), [#3](#3)) then in some ways you want to maximize the surface area of the walls right?
+
+Both these principles lead me to imagine "squishing" the space so that you have social spaces along the middle in-between the walls on either side, as well as additional surface area:
+
+![](/images/learning-classroom-as-bouldering-gym.png)
+
+I think there needs different typologies of spaces so I included some tables in the corner (if you can really have a corner on a curved wall...) to allow for groups to gather around a table together.
+
+Here's another intestine-like space:
+
+![](/images/learning-continuous-space.png)
+
+<a name="21"></a>
+
+## #21: Theatre of the mind
+
+Furthering my explorations in [#3](#3), and the metaphor of ``CLASSROOM as BOULDERING GYM``[^bouldering]. What would a classroom designed as a divergent space look like?
+
+[^bouldering]: which I also explored through a short design-fiction titled, [Bouldering in the Classroom](/stories/bouldering-in-the-classroom)
+
+Imagining challenges posted on the walls, and seats in the middle for both working on problems and socializing:
+
+![](/images/learning-seats-outward.png)
 
 <a name="20"></a>
 
@@ -252,7 +351,7 @@ I write in [#4](#4) that "*role-play is a set of rules that structure social int
 
 I mentioned in [#3](#3) that divergent spaces shift social energy away from ourselves and towards our environment, which creates a more social space by lowering the barrier of interacting with each other. Role-playing takes it a step further. Acting as someone who is not yourself gives you permission to do, say, or interact in ways you wouldn't normally have done. Something which frees us from the normal constraints and restrictions we put upon ourselves.
 
-From the recent resurgence of Dungeons & Dragons, to eastern european [urban games](https://en.wikipedia.org/wiki/Encounter_(game)), LARPing, and 剧本杀 (jubensha) — a kind of scenario-based murder mystery game[^jubensha] that has taken hold in the Chinese social scene — the appeal of role-playing seems to be coming to a greater and greater audience.
+From the recent resurgence of Dungeons & Dragons, to eastern european [urban games](https://en.wikipedia.org/wiki/Encounter_(game)), LARPing, and <ruby>剧<rt>jù</rt></ruby><ruby>本<rt>běn</rt></ruby><ruby>杀<rt>shā</rt></ruby> — a kind of scenario-based murder mystery game[^jubensha] that has taken hold in the Chinese social scene — the appeal of role-playing seems to be coming to a greater and greater audience.
 
 [^jubensha]: sort of a cross between tabletop role-playing, LARPing, and escape rooms if I understand correctly
 
@@ -271,6 +370,8 @@ Our attention in a classroom is typically convergent, directed towards the singl
 [^eachother]: allowing attention to converge on either the teacher or the small group of students you're sitting with at the time
 
 It occurred to me at the climbing gym, where my friends and I would often go. It is a space far removed from a classroom context, yet a brilliant learning environment (see: [Bouldering in the Classroom](/stories/bouldering-in-the-classroom)). People often stand or sit, alone or in groups, facing the walls, thinking, and then approaching the wall to attempt one of the bouldering routes. It is a space where all skill-levels gather; I can watch a heavily muscled man breeze through a route that challenged me, or a young girl nimbly jump between holds so small and far between I could never dream of attempting the same feat. We all learn from each other, some might approach a challenge in new or unexpected ways, in others we might observe their technique and center of balance which may help us refine our own form.
+
+![](/images/learning-divergent-convergent.png)
 
 What other spaces are designed around divergent focus? library shelves, museums, certain types of art crits, some aspects of the old monitorial school system...
 

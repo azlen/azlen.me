@@ -33,6 +33,8 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 ## Cozyroom
 **Quick Ideas**: [Cozyroom Quick Ideas](/quick-ideas/cozyroom)
 
+**🖹** [Modding Staircase](/quick-ideas/cozyroom#81) (Quick Idea #81)
+
 
 ## Linguistics
 **Quick Ideas**: [A Shot of Morpheme](/quick-ideas/linguistics)

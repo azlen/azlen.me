@@ -23,6 +23,7 @@ This idea leads me to think there ought to be a word for two concepts that appea
 - Antidoxian (anti- + paradox)
 - Super-supposition (super position + idea)
 - Mentanglement (mental + entanglement)
+- Mutually inclusive
 
 Personally I'm most drawn to **Conflerge** and **Contrastruct**, but I will continue to be on the look out for new words that might fit this concept.
 

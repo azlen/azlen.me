@@ -11,6 +11,12 @@ Ideas are listed in generally-reverse-chronological order, meaning that as I add
 
 <a name="82"></a>
 
+## #??: Exit transitions
+
+When we leave a friend's house in physical space there is a transition that we go through: gathering up our belongings, putting our shoes on, stepping out the door, saying goodbye, however in digital space we often have sharp cuts rather than smooth transitions (see [interfaces #4](/quick-ideas/interfaces#4))
+
+I want it to feel good both to enter and exit a space in cozyroom. This is one aspect that all other meeting and spatial software fails horribly at: when I click the button to leave a zoom call, there is no transition but rather a jarringly sudden switch from being "in" the meeting to being "out" of the meeting.
+
 ## #82: Programming Blocks
 
 I've been thinking for a while about how to create a kind of modding experience

@@ -13,6 +13,22 @@ Cities are not alive, it is the people that make them feel alive. A city without
 
 I'm currently reading *Structuring Spaces: Oral Poetics and Architecture in Early Medieval England* by Lori Ann Garner, and she writes about the Anglo-Saxon word "Burh" which -->
 
+<!--
+
+tilted ceiling to create coziness gradient
+
+-->
+
+## #3: Transitions
+
+Saying thank you as you step off the bus, walking from one place to another, the great gates that often mark the entrance to a chinatown, a revolving door, transitions are everywhere in the city. It is natural for us to have transitions between different kinds of spaces. This is also one aspect which digital space tends to lack: if you click a button to leave a Zoom call for example you get a jarringly instant cut from being "in" the meeting to being "out" of the meeting. This sort of immediate cut should ideally be avoided, and in particular it would be difficult/impossible for physical space to immediately switch from one state to another—which would be akin to teleportation.
+
+> from the parking lot, you approach the Magic Kingdom via the Monorail. These specialized methods of arriving at the gates convey the sense that you are transitioning from the mundane world, and prepare you for a special experience
+
+Curry Chandler [writes](https://thecoolmedium.com/2015/07/17/fantasy-lands-5-urban-truths-i-learned-at-disneyland/#:~:text=from%20the%20parking%20lot%2C%20you%20approach%20the%20Magic%20Kingdom%20via%20the%20Monorail.%20These%20specialized%20methods%20of%20arriving%20at%20the%20gates%20convey%20the%20sense%20that%20you%20are%20transitioning%20from%20the%20mundane%20world%2C%20and%20prepare%20you%20for%20a%20special%20experience) above about entering Disneyland, and the transition away from the mundane world into a special one. I think perhaps this helps to highlight the importance of designing and thinking about transitions in urban space.
+
+And just like film transitions have evolved over the years, and new vocabulary has been formed, I still don't have the right vocabulary—or even mental models—for how to think about or explore urban transitions... there is certainly still much to be discovered!
+
 ## #2: Bottom-up design
 
 Often cities are often planned top-down. Laying out streets, then buildings, then floor layouts, then interiors, etc. Designing anything from the top-down creates assumptions of all the lower levels. I haven't figured out the right way to frame this idea just yet, but top-down is like being focused on your destination, whereas bottom-up is like being focused on your journey without assuming you know where you'll end up...

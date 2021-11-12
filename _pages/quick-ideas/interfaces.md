@@ -61,3 +61,42 @@ What if you could explore higher-dimensional spaces in two dimensions?
 I made a little starfish color picker where you can drag along three dimensions of hue, saturation, and lightness
 
 [insert video]
+
+## #4: Transitions
+
+When I pass through a door or threshold, I am transitioning from one space to another. I have written (see [cities #3](/quick-ideas/cities#3)) about the importance of thinking about urban transitions, and that in digital space—unlike physical space—we often have little or no transitions between different spaces and activities.
+
+> if you click a button to leave a Zoom call for example you get a jarringly instant cut from being "in" the meeting to being "out" of the meeting. This sort of immediate cut should ideally be avoided
+
+We need to think about 
+
+## #3: Door
+
+I am listening to this radio play called _Neverwhere_ and there is a character named _Door_ who can, with a short incantation, open up a door anywhere even where no door exists. Even a flat wall may become a temporary passageway in times of need
+
+I want something like this but for websites, what if I can select any piece of text and delve into related content, opening a door into the ideas or resources that inspired those ideas? things that build upon or reference this piece of content?
+
+## #2: Thresholds
+
+There are thresholds everywhere in life which separate one space from another. Walls define the boundaries of a space, doors link those spaces together.
+
+We are, in some ways, a reflection of our environment. Thoughts and ideas exist not only in our minds but are situated in the context in which we thought them. As I’m sure you’ve experienced yourself, walking into a room only to forget what you came there for. When you pass through a door you are moving both physically _and mentally_ into a new space.
+
+And this quirk of the mind is not limited to the physical world but exists within digital spaces too. I cannot tell you how many times I open up a new tab only to forget what I meant to look up!
+
+Whether designing physical or digital spaces, these tiny experiences highlight the importance of considering _where_ you construct doors and thresholds between spaces. If walls define the boundaries of a space, then the world of software is a true labyrinth _walled gardens_. There are too many doors and too many walls where there shouldn’t be any at all.
+
+And if we do construct thresholds between digital spaces—as often we must—it is important that we draw these separations intentionally and wisely. For example not to separate by apps and windows but by the overall workspaces and contexts that they are situated within. Having all our apps overlaid on top of each other is like living in a single small space that contains your kitchen, television, bed, desk, dumbbells, and toilet, without arrangement or spatial separation between different tasks.
+
+
+## #1: Dynamic Digital Workshop
+
+> _“Hidden within our notes are the seeds for stories that haven’t been told, papers that haven’t been written and ideas that haven’t been shared. What if we had a space to transform these notes into new forms? A kind of dynamic digital workshop that could give us access to all the tools we need.”_  
+> — Matthew Siu ([What’s next for augmented intelligence - The Stories We Tell](https://matthewsiu.substack.com/p/whats-next-for-augmented-intelligence))  
+
+My conversations these past few months have shifted towards a vision of software that adapts to its users, interfaces which are customizable and can switch between different views of data. I describe this vision as _composable interfaces_ — but it’s about more than just interfaces, _it’s about people_. It’s about creating a digital workshop that facilitates social interactions, and that cultivates collaboration both with ourselves and our companions. 
+
+We have many digital tools, but few digital workshops — places where those tools, and the people who use them, can come together to create and build new things. So I ask, how can we build toward this vision of the future?
+
+![](images/interfaces-dynamic-land.png)
+_Image credit to Dynamicland — Bret Victor_
