@@ -1093,3 +1093,7 @@ The movement of cozies is too hard and rigid, I think they should be a bit more 
 ![](/images/cozy-squish.png)
 
 <!-- <a name="start"></a> -->
+
+## #0: The journey begins
+
+![](/images/cozy-initial-sketch.jpeg)

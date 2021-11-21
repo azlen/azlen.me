@@ -39,6 +39,20 @@ Ideas are listed in generally-reverse-chronological order, meaning that as I add
 - landscape metaphor
 -->
 
+## #30: Child's perspective
+
+Children, of course, are the most intuitively knowledgable when it comes to designing spaces for children. Their opinion should be valued. If you listen, you'll likely discover something unexpected—like this one child who, while giving a child-guided tour chose the gym as one of his favourite places in the school, then when asked why he pointed up at the ceiling described how he liked the shadows cast by the wooden beams above. <!-- citationnnn... -->
+
+## #29: Third teacher
+
+Just stumbled upon this idea of the "third teacher." In designing spaces of learning, the architecture ought to embody the teaching in the way it's designed:
+
+![screenshot from "Architecture: The Third Teacher" master's thesis by Paola Vega](/images/learning-third-teacher.png)
+
+<!-- NOTE: turn into quoteback? -->
+
+I can also imagine this applying (perhaps to a lesser extent?) in digital spaces...
+
 ## #28: Tri-amphitheatre
 
 Inspired by the amphitheatre room-layout depicted in [#24](#24), I thought: what if you arranged multiple semi-circular amphitheatre spaces around in a circle?
