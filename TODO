@@ -1,8 +1,11 @@
 
 # HIGH PRIORITY #
 
-[-     ] clean up loose ends
-    + made all 
+[----  ] clean up loose ends
+    + made all 404 redirect to /703 page
+    + added new terms to the lexicon and defined some of the existing terms
+    + added page for digital spaces blog club
+    + renamed projects page so that current projects link ends in 703 redirect
 
 [      ] social + webring links
 
@@ -28,3 +31,25 @@
 [      ] bring in quotebacks, as an include?
 
 [      ] figure out how to use the citation plugin properly...
+
+[      ] figure out how to bring back chladni patterns... or should I? maybe only for hub pages?
+
+[      ] split links into a bunch of spans to bring back hover animation across multiple lines?
+
+[      ] create project page and documentation for various different projects both current, past and future
+    > I like the idea of "future" projects, and that can also tie in with the "sidequest" or "weekend project" idea
+    > What are my current projects?
+        - Cozyroom
+        - Neuropolis
+        - Goal of 50,000 words on website
+        - Challenge platform / hinterland university
+        - School VR project thingamajig
+        - Helping out with Spiel
+    > For past projects, how much should I include? maybe style BIG projects and small experiments differently? have some kind of categorization system...
+        > luckily I already have some of these projects documented (at least minorly) so I can start by copying over some of those
+        - Learning groups
+        - Interhackt
+        - Color picker (experiment)
+        - Scroll (experiment)
+        - Learning futures
+        - 

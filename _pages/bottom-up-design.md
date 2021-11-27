@@ -7,4 +7,4 @@ Often it's too easy to think about and design things at a very abstract level, m
 
 I want to explore ways to shift from this kind of top-down design process to one that is more bottom-up and grounded in human experience. But how can I design something bottom-up? *what methods and techniques might I be able to use here?* 
 
-As part of my design process I have been experimenting with writing *fiction* to explore 
+<!-- As part of my design process I have been experimenting with writing *fiction* to explore --> 

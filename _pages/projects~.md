@@ -3,7 +3,14 @@ layout: default
 title: "Projects"
 ---
 
-Under construction... Please come back later?
+[ UNDER CONSTRUCTION ]
+
+## Ongoing
+
+[Neuropolis](/projects/neuropolis)
+
+## Past
+<!--Under construction... Please come back later?
 
 —
 
@@ -11,7 +18,7 @@ Documenting my projects is extremely difficult, I honestly don't know where to s
 
 Also, what counts as a project? Versus an experiment?
 
-I think perhaps a project is something that is larger scale or can continue for a much longer length of time. For example coming up with an alternative way to play bananagrams might be an experiment, but the compilation of all these alternate modes of playing is an ongoing project.
+I think perhaps a project is something that is larger scale or can continue for a much longer length of time. For example coming up with an alternative way to play bananagrams might be an experiment, but the compilation of all these alternate modes of playing is an ongoing project.-->
 
 <!--
 - Architecture School (future project)

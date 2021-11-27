@@ -24,8 +24,9 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 ## Education
 **Quick Ideas**: [Micro Learning Futures](/quick-ideas/learning)
 
-**🗐** [Digital Campus Blog Chain](/writing/digital-campus-blog-chain)<span class="new"></span><br> 
-<span class="arrow"></span> **🖹** [What makes a campus?](/writing/what-makes-a-campus)<br>
+**🗐** [Digital Spaces Blog Club](/writing/digital-spaces-blog-club)<span class="new"></span><br> 
+<span class="arrow"></span> **🖹** [What makes a campus?](/writing/what-makes-a-campus/1/) (1/2)<br>
+<span class="arrow"></span> **🖹** [What makes a campus?](/writing/what-makes-a-campus/2/) (2/2)<br>
 <span class="arrow"></span>  **🖹** [Cyberspace to cyberplace](/writing/cyberspace-to-cyberplace)<br>
 <span class="arrow"></span>  **🖹** [Places of the imagination](/writing/places-of-the-imagination)<br>
 
