@@ -14,3 +14,5 @@
 /favourite/word         https://en.wikipedia.org/wiki/Yes_and_no
 /favourite/book         https://en.wikipedia.org/wiki/Metaphors_We_Live_By
 /favorite/*             /favourite/:splat
+
+/*                      /703    404
