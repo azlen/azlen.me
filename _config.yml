@@ -25,6 +25,7 @@ exclude:
   - Gemfile.lock
   - tufte-pandoc-jekyll.gemspec
   - run
+  - TODO
 
 include:
   - _redirects
