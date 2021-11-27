@@ -1,5 +1,5 @@
-[-     ] create backlinks
-    + found someone who's already implemented jekyll backlinks, as well as clustering by related tags: https://github.com/rgvr/simply-jekyll/blob/master/_includes/Backlinks.html
+
+# HIGH PRIORITY #
 
 [-     ] clean up loose ends
     + made all 
@@ -9,6 +9,22 @@
 [      ] shoes! I just need a couple pictures of shoes (I'll take a picture of might with different colors)
     > ask Matt (and Jon?) for pictures of their shooes
 
+[      ] set up redirects for every page on old site to point to old.azlen.me
+    ? is it possible to get some kind of sitemap
+
+[      ] figure out what I'd like as the default theme for the site
+
 -------------------------------------------------------------------
 
+# LOWER PRIORITY #
+
 [      ] theme switcher
+
+[      ] get interfaces journal off the ground
+
+[-     ] create backlinks
+    + found someone who's already implemented jekyll backlinks, as well as clustering by related tags: https://github.com/rgvr/simply-jekyll/blob/master/_includes/Backlinks.html
+
+[      ] bring in quotebacks, as an include?
+
+[      ] figure out how to use the citation plugin properly...
