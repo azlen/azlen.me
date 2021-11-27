@@ -19,6 +19,27 @@ tilted ceiling to create coziness gradient
 
 -->
 
+<a name="3.1"></a>
+
+## #3.1: Transition spaces
+
+There is, in fact, an idea of "transition space" in architecture, which is defined "as a link or a connection between two (or more) enclosed spaces"[^sautzer, 2018]
+
+[^sautzer, 2018]: Szauter, D. (2018). Transition Spaces. _Műszaki Tudományos Közlemények_, _9_(1), 223–226. [https://doi.org/10.33894/mtk-2018.09.51](https://doi.org/10.33894/mtk-2018.09.51)
+
+Transition spaces help to *connect* or even *blur the boundaries* between spaces, for example a covered porch that helps blur the line between indoor and out. I feel, however, that transition spaces are only one piece of the puzzle in my own conception of "transitions" within cities.
+
+Some thoughts:
+
+- Transitions take place at many scales (entering a room, neighbourhood, city, country)
+- Transitions be as much between social spaces as physical spaces
+- Transitions not as connections of space but as passages between frames of mind
+- Long transitions craft a more powerful experience: a journey
+- Cinema has developed many different types of transitions: what are different types of transitions of physical space?
+
+
+<a name="3"></a>
+
 ## #3: Transitions
 
 Saying thank you as you step off the bus, walking from one place to another, the great gates that often mark the entrance to a chinatown, a revolving door, transitions are everywhere in the city. It is natural for us to have transitions between different kinds of spaces. This is also one aspect which digital space tends to lack: if you click a button to leave a Zoom call for example you get a jarringly instant cut from being "in" the meeting to being "out" of the meeting. This sort of immediate cut should ideally be avoided, and in particular it would be difficult/impossible for physical space to immediately switch from one state to another—which would be akin to teleportation.
@@ -28,6 +49,9 @@ Saying thank you as you step off the bus, walking from one place to another, the
 Curry Chandler [writes](https://thecoolmedium.com/2015/07/17/fantasy-lands-5-urban-truths-i-learned-at-disneyland/#:~:text=from%20the%20parking%20lot%2C%20you%20approach%20the%20Magic%20Kingdom%20via%20the%20Monorail.%20These%20specialized%20methods%20of%20arriving%20at%20the%20gates%20convey%20the%20sense%20that%20you%20are%20transitioning%20from%20the%20mundane%20world%2C%20and%20prepare%20you%20for%20a%20special%20experience) above about entering Disneyland, and the transition away from the mundane world into a special one. I think perhaps this helps to highlight the importance of designing and thinking about transitions in urban space.
 
 And just like film transitions have evolved over the years, and new vocabulary has been formed, I still don't have the right vocabulary—or even mental models—for how to think about or explore urban transitions... there is certainly still much to be discovered!
+
+
+<a name="2"></a>
 
 ## #2: Bottom-up design
 
@@ -46,6 +70,9 @@ Reflecting on these different techniques, some patterns / key ideas:
 
 - **Think on a human-scale**: storytelling, collaging, small quick ideas
 - **High quantity of small iterations**: quick ideas, iterative design, enough small ideas over time lead to a better overall bigger picture
+
+
+<a name="1"></a>
 
 ## #1: No Floor Space Ratio
 

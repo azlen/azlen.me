@@ -7,6 +7,32 @@ created: 2021-08-15
 
 *Language continually fascinates me from every angle; every word, every metaphor, language shapes how we think, it is the shadow of society's collective mind.*
 
+<a name="10"></a>
+
+## #10: Post-narrative fiction
+
+What ideas cannot be explored through a narrative? conflict is at the heart of narrative, fighting against something or someone, a danger outside your control, a call to adventure... I can't help but get the feeling that there's something we're missing, that seeing all stories through the lens of narrative limits the kinds of stories we can tell.
+
+Have you ever read a work of utopian fiction? It goes against the nature of a narrative. You can't just have a world that works smoothly, there must be problems! mysteries! despair! So instead we see the meteoric rise of dystopias, so much so that sometimes it seems we're trying to turn our world into one.
+
+This idea of "post-narrative fiction" popped into my head the other day. [Design-fictions](/stories) without plot, literary collages, sketches, and more. I feel that once you abandon the need for narrative, you open yourself up to much more positive visions and possibilities.
+
+<a name="9"></a>
+
+## #9: Non-linguistic definitions
+
+What would a dictionary look like without words?
+
+Imagine the expressivity of film, sound, smell, or dance. How might a dictionary look if words were defined not in terms of other words but as an experience—in the language that we may all understand.
+
+I feel this would not only be beautiful but also immensely useful, though it would be quite a communal feat to gather thousands of videos, soundscapes, and experiences, one for each word in the dictionary. Not only that, but each language, although the definitions of two words might appear the same—the experiences of those words might not be. Is an american "cake" the same as a german "kuchen"? or is the italian idea of "tagliatelle" (noodles) the same as the chinese "面条"?
+
+![](/images/linguistics-kuchen-cake.png)
+
+Such a dictionary of experiences also becomes one of culture, and thus could be a powerful tool for learning languages on a deeper level beyond the vaneer of words and alphabets, it would give you the potential to tap into the cultural imagination.
+
+<a name="8"></a>
+
 ## #8: Possible paradoxes
 
 Simply by the way we categorize ideas, it can be possible for something to exhibit two seemingly paradoxical or opposing properties at the same time. Perhaps, for example, a place can be both welcoming and uninviting at the same time?
@@ -27,6 +53,9 @@ This idea leads me to think there ought to be a word for two concepts that appea
 
 Personally I'm most drawn to **Conflerge** and **Contrastruct**, but I will continue to be on the look out for new words that might fit this concept.
 
+
+<a name="7"></a>
+
 ## #7: Metaphors we design by
 
 Whether or not you agree with Lakoff's central premise in *Metaphors We Live By*, there is absolutely no doubt that metaphors play an immense role when it comes to design. Once you start to look, our world is practically built on metaphors—it is the mortar of ideas and inventions.
@@ -41,6 +70,9 @@ Thankfully Corbusier's vision never became realized, but he inspired an entire g
 
 ![Another view of the *Radiant City*, zoomed out to reveal the immense scale of Corbusier's plan](/images/corbusier_ville-radieuse.png)-->
 
+
+<a name="6"></a>
+
 ## #6: New conceptual metaphors
 
 George Lakoff writes that metaphors shape how we think, percieve, and understand the world[^lakoff]. For example we understand `ARGUMENT AS WAR`, which surfaces itself through everyday language such as "I shot down her argument," or "I defended my position." 
@@ -48,6 +80,9 @@ George Lakoff writes that metaphors shape how we think, percieve, and understand
 [^lakoff]: Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 1981.
 
 Lakoff poses a thought experiment to imagine a society that instead treats `ARGUMENT AS DANCE`, would understanding arguments in this way fundamentally change the way we interact?
+
+
+<a name="5"></a>
 
 ## #5: What is the oldest metaphor?
 
@@ -61,6 +96,9 @@ Metaphors are bridges really, they work in both directions. They simply tend to 
 
 I might imagine that the metaphor of something being "set in stone" could have originated around when laws were first being carved into the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu) or [Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 
+
+<a name="4"></a>
+
 ## #4: My Feed
 
 People always talk about how "user" is used primarily in two contexts: software and addiction
@@ -70,6 +108,9 @@ But how often do you think about "feed" (as a noun) which is used most in the co
 [^notjustpigs]: Of course, not *just* pigs—we generally use the term in regards to most farm animals, and also birds (apt for twitter, huh?), pigs just seemed like a more powerful way to end the sentence
 
 *Consumption, food for thought, digestion, information diets, "my feed"*—it's unnerving to me that we treat information, and by extension social media, as naught but intellectual chow
+
+
+<a name="3"></a>
 
 ## #3: Compound Chains
 
@@ -89,6 +130,9 @@ What is the longest possible chain? I imagine it could be hundreds of words long
 
 Maybe someday I'll try and find out...
 
+
+<a name="2"></a>
+
 ## #2: Character Matrix
 
 After exploring what might be the largest compound word grid in English I thought back to this Chinese character matrix:
@@ -98,6 +142,9 @@ After exploring what might be the largest compound word grid in English I though
 As someone learning Mandarin myself, I find this hilarious and am surprised that I can recognize at least a few of the characters on the right-hand side of the equation. Is this the largest possible matrix of Chinese characters? Or what about creating a compound word grid with chinese characters combining to form words?
 
 It brings up a thought of what a compound word grid might look like in different languages. I don't know enough to try this but I imagine in German you might be able to create a 12x12 word grid because there's so much compounding!
+
+
+<a name="1"></a>
 
 ## #1: What is the largest compound word grid?
 
