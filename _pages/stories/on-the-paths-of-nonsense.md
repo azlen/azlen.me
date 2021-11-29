@@ -5,9 +5,8 @@ subtitle: "GPT-3 Generated Design-Fiction"
 created: 2021-01-31
 ---
 
-*Experiments in applied science fiction*<br>
-*Stories as a design process*<br>
-...<br>
+Experiments in *applied science fiction*<br>
+Stories as a design process<br>
 *In one ear out the other*
 
 ### What does the future dictionary look like?
@@ -121,7 +120,7 @@ Are you the same as the user? The eyeglasses placed across the face of a man who
 
 Are you an unknowable answer? The interpretation of meaning.
 
-What is a Window?[^philisophical]
+What is a Window?[^philosophical]
 
 [^philosophical]: Imagine if restarting / setting up your computer was a deep philosophical journey?
 

@@ -4,6 +4,8 @@ title: "Department of Fictioneering"
 created: 2021-10-24
 ---
 
+![](/images/department-of-fictioneering-vibe.png)
+
 You walk into the musty room, books piled high around you. Nearly tripping over a pile of russian fairy tales, you spot a table in the corner covered dimly by the light of a few candles. Three shadowed figures surround the table in silence, all that can be heard are the scratching of pens on paper and the *\*click\** *\*clack\** of an old typewriter.
 
 They are, as it is known, part of the "Department of Fictioneering", spun out of a joke merger between the schools of engineering and creative writing at Hinterland University—the **Fictioneers**, as they call themselves, have taken to solving problems of design and engineering through "applied science fiction." Just as there exist applied and theoretical physicists, applied fiction seeks to imagine possible futures and to solve the problems of today.

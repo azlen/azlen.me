@@ -6,7 +6,7 @@ created: 2021-11-28
 
 *It should be noted that the following text is a fictional story, imagined as a "what if?" scenario. It is not a prediction of the future at all, but rather the process of writing these stories is a tool for me to think through different design questions and different possible futures.*
 
-It only took a few years for the entire software industry to crumble. Once people were able to take agency over their own software and workspaces, once programmers didn't have to bang their head against the wall for months reimplimenting the same things that've been implemented a thousand times before, once — to put it concisely — software had become composable, 99% of existing user-facing software was made obsolete overnight.
+It only took a few years for the entire software industry to crumble. Once people were able to take agency over their own software and workspaces, once programmers didn't have to bang their head against the wall for months reimplementing the same things that've been implemented a thousand times before, once — to put it concisely — software had become composable, 99% of existing user-facing software was made obsolete overnight.
 
 A lot of people didn't understand it at first, of course it was something new to learn. A strong and loyal following grew around the tool and it spread like wildfire through word of mouth alone. Mostly programmers and designers at first who felt empowered by the tool to augment their own process. It was these early power-users which really grew and polished WormOS[^WormOS] to the point it is at today — crafting new interface elements and transformations between data structures, sharing their own themes[^bullet-journal] and layouts with each other, etc.
 
