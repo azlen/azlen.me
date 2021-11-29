@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Geological Phonograph"
+created: 2019-12-12
+---
+
+Just like a needle of a phonograph moves along the grooves of a record, what would it sound like to move a needle along the grooves and topology of the Earth? Each mountain, valley, field, or ocean might have its own unique sound, a special timbre or series of harmonics never before heard but waiting to be discovered in the very land beneath our feet. To build such a physical contraption would be impossible, the scale of the earth is frankly a world apart from our quaint phonograph record—despite them both being round.
+
+But nothing is impossible, not even a planet-scale geological phonograph. So to make this geolograph a reality, I took out my trusty silicon-based inference machine, codename “COMPUTER”, and wrote in a series of alphanumeric instructions...
+
+The first experiment was not planet-scale, more of a proof-of-concept, testing the waters of my future earth-based music machine. I created a mathematical topology through an algorithm known as “perlin noise”, a kind of faux-earth of rolling hills in all directions. Then sculpted the sound by overlaying a circle on top of this terrain, and sampling a series of points along the circle to capture the dips, squiggles and bumps of the topology. This created a unique tone which, if visualized, looks like a drunken sine wave; and being annoying and loud, it rather sounded like one too! But with a few small changes, and mutating the topology over time by moving the two-dimensional function through three-dimensional space, the sonic potential of the sound became clear.
+
+Once I had proved that topological sound synthesis was not only possible but could produce unique sounds and timbres, it was time to test this algorithm in the real world; well, *on* the real world. After drifting through the derelict side-streets of dataset commercialization, I finally stumbled upon an open cache of topological data. Sourced from NASA’s Shuttle Radar Topography Mission back in the year 2000, the data was older than I was, and likely just as outdated. With a resolution of 30 metres over the United States, and 90 throughout the rest of the world, I could only hope the quality was sufficient for acoustic applications. It’s nothing to the sub-meter resolution boasted by vendors selling the earth on the free market, but I wasn’t going to spend the megabucks and sign off half my soul for a simple side-project.
+
+My second experiment was what I would call a successful failure. I pulled in chunks of the shuttle radar data, and spun up some circles and geospatial LFOs. The sounds were mesmerizing, such buzzing, industrial, or ethereal sounds as never had been heard before. But then I found a problem which threw a wrench in this entire operation. Despite some generous optimizations, it would take about 1.2 seconds to generate a single of audio, the CPU simply couldn’t handle sampling 44100 data points in sub-second speed. On top of this I have somehow managed to decouple the bootloader from my operating system and have temporarily lost access to half the computer. Oh well.
+
+I had been looking for an excuse to start over and the computer malfunction pushed me to completely rewrite the audio synthesis. Choosing a lower-level language for faster processing and multi-threading. I had never written in Rust before, but it sounded closer to the metal, I just hoped that it wouldn’t coat my hardware in iron-oxides. A few days later, I had the system back up and running; down to 100 milliseconds per second of audio, it was definitely worth the effort. Rust had the added benefit of hooking up to Nannou, a framework with graphical capabilities which I used to create a simple interface for interacting with the instrument.
+
+![](/images/geological-phonograph.png)
+
+The interface took inspiration from the OP-1. I picked up four rotary encoders, dials which turn infinitely and output signals known as grey code. Along with each encoder doubling up as a button, this gave me the ability to use four dials to control 16 different parameters.
+
+The project is not finished, but I have begun to explore an entirely new territory of audio synthesis. What started out as a planetary-scale project now has a much grander vision. The earth is only the beginning, but what sounds could you find on the moon, or mars? Imagine composing a musical composition based on the rings of Saturn, or listening to the constellations of stars. The universe is waiting, now go make some music!
