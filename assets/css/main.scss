@@ -33,20 +33,26 @@ h1, h2, h3, h4, h5, .subtitle {
   animation: colorshift 120s linear infinite;
 }
 
+.subtitle {
+  margin-top: -20px !important;
+  opacity: 0.5;
+}
+
 a:not(.no-link-style):link, .tufte-underline, .hover-tufte-underline:hover {
   position: relative;
   font-family: 'jaf-lapture';
   font-style: italic;
 
   text-decoration: none;
-  background: -webkit-linear-gradient(var(--background), var(--background)), -webkit-linear-gradient(var(--background), var(--background)), -webkit-linear-gradient(currentColor, currentColor);
-  background: linear-gradient(var(--background), var(--background)), linear-gradient(var(--background), var(--background)), linear-gradient(currentColor, currentColor);
-  -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-  -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-  background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-  background-repeat: no-repeat, no-repeat, repeat-x;
-  text-shadow: 0.03em 0 var(--background), -0.03em 0 var(--background), 0 0.03em var(--background), 0 -0.03em var(--background), 0.06em 0 var(--background), -0.06em 0 var(--background), 0.09em 0 var(--background), -0.09em 0 var(--background), 0.12em 0 var(--background), -0.12em 0 var(--background), 0.15em 0 var(--background), -0.15em 0 var(--background);
-  background-position: 0% 93%, 100% 93%, 0% 93%;
+  text-shadow: none !important;
+  // background: -webkit-linear-gradient(var(--background), var(--background)), -webkit-linear-gradient(var(--background), var(--background)), -webkit-linear-gradient(currentColor, currentColor);
+  // background: linear-gradient(var(--background), var(--background)), linear-gradient(var(--background), var(--background)), linear-gradient(currentColor, currentColor);
+  // -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  // -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  // background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+  // background-repeat: no-repeat, no-repeat, repeat-x;
+  // // text-shadow: 0.03em 0 var(--background), -0.03em 0 var(--background), 0 0.03em var(--background), 0 -0.03em var(--background), 0.06em 0 var(--background), -0.06em 0 var(--background), 0.09em 0 var(--background), -0.09em 0 var(--background), 0.12em 0 var(--background), -0.12em 0 var(--background), 0.15em 0 var(--background), -0.15em 0 var(--background);
+  // background-position: 0% 93%, 100% 93%, 0% 93%;
 }
 a:not(.no-link-style):hover {
   // color: var(--f_med);
@@ -228,4 +234,33 @@ blockquote {
 
 .half {
   opacity: 0.5;
+}
+
+
+figure {
+  position: relative;
+}
+
+.shoe {
+  max-width: 300px;
+  max-height: 300px;
+}
+.shoe + figcaption {
+  position: absolute;
+  display: inline-block;
+  width: auto !important;
+  bottom: 10px;
+  left: 10px;
+  background: #000000;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+  padding: 0px 5px;
+  font-size: 12pt;
+
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+.shoes figure {
+  display: inline-block;
+  margin: 0px 2rem 2rem 0px;
 }

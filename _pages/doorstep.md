@@ -8,6 +8,6 @@ created: 2021-10-24
 
 This page is a *digital shoe rack*, I invite you to pause for a moment, take a picture of your shoes, and send them to `shoes@azlen.me`, being sure to include both a picture and your name!
 
-![](/images/shoes-azlen.jpg){max-width:200px}
+<div class="shoes">
 
-## test
+![Azlen ⁘ @azlenelza](/images/shoes-azlen.jpg){.shoe}
