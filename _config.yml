@@ -21,6 +21,7 @@ exclude:
   - _pages/.obsidian
   - _pages/_templates
   - _pages/drafts
+  - _pages/.vault-stats
   - Gemfile
   - Gemfile.lock
   - tufte-pandoc-jekyll.gemspec
