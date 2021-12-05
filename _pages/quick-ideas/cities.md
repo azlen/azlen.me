@@ -19,13 +19,35 @@ tilted ceiling to create coziness gradient
 
 -->
 
-<a name="3.1"></a>
+<!--[](){name="5"}
+
+## #5: City as soil
+-->
+
+
+[](){name="4"}
+
+## #4: Cities are not alive
+
+Cities are not alive, it is the people that make them feel alive. A town without people is a ghost town, and a city without people is a *ghost city*.
+
+The prevalent metaphor of `CITY AS ORGANISM` has been around for hundreds, if not thousands of years in some form or another[^tracingback]. However this metaphor falsely perceives the *city* as being alive and fails to recognize that it's the *people* that make a city feel alive.
+
+[^tracingback]: A metaphor is, in a sense, a two-way bridge. We often think of the city as an organism because we can better wrap our minds around biology than the functioning and structure of our own cities. However in the time of ancient Greece, the metaphor went the other way. Plato spoke of human body as a city, of the human mind as a regime; at the time this was the natural direction of the metaphor as they knew much more about the functioning of the city than of human biology.
+
+Originally I had high hopes for the `CITY AS ORGANISM` metaphor. I imagined that it conveys well the complexity and interconnectedness of the *systems* of a city. However quickly I learned that architects took a more literal approach, taking inspiration from the form, repetition, and separation of functions in the body—which led to designing spaces and visions that felt, paradoxically, much less alive.
+
+![Le Corbusier's imagined "Ville Radieuse" inspired by the metaphor in all the wrong ways](/images/corbusier_ville-radieuse.png)
+
+*See also:* [Meta-form: Cities, Metaphors, and Sustainability](/writing/meta-form.md)
+
+[](){name="3.1"}
 
 ## #3.1: Transition spaces
 
-There is, in fact, an idea of "transition space" in architecture, which is defined "as a link or a connection between two (or more) enclosed spaces"[^sautzer, 2018]
+There is, in fact, an idea of "transition space" in architecture, which is defined "as a link or a connection between two (or more) enclosed spaces"[^sautzer]
 
-[^sautzer, 2018]: Szauter, D. (2018). Transition Spaces. _Műszaki Tudományos Közlemények_, _9_(1), 223–226. [https://doi.org/10.33894/mtk-2018.09.51](https://doi.org/10.33894/mtk-2018.09.51)
+[^sautzer]: Szauter, D. (2018). Transition Spaces. _Műszaki Tudományos Közlemények_, _9_(1), 223–226. [https://doi.org/10.33894/mtk-2018.09.51](https://doi.org/10.33894/mtk-2018.09.51)
 
 Transition spaces help to *connect* or even *blur the boundaries* between spaces, for example a covered porch that helps blur the line between indoor and out. I feel, however, that transition spaces are only one piece of the puzzle in my own conception of "transitions" within cities.
 
@@ -38,7 +60,7 @@ Some thoughts:
 - Cinema has developed many different types of transitions: what are different types of transitions of physical space?
 
 
-<a name="3"></a>
+[](){name="3"}
 
 ## #3: Transitions
 
@@ -51,7 +73,7 @@ Curry Chandler [writes](https://thecoolmedium.com/2015/07/17/fantasy-lands-5-urb
 And just like film transitions have evolved over the years, and new vocabulary has been formed, I still don't have the right vocabulary—or even mental models—for how to think about or explore urban transitions... there is certainly still much to be discovered!
 
 
-<a name="2"></a>
+[](){name="2"}
 
 ## #2: Bottom-up design
 
@@ -72,7 +94,7 @@ Reflecting on these different techniques, some patterns / key ideas:
 - **High quantity of small iterations**: quick ideas, iterative design, enough small ideas over time lead to a better overall bigger picture
 
 
-<a name="1"></a>
+[](){name="1"}
 
 ## #1: No Floor Space Ratio
 

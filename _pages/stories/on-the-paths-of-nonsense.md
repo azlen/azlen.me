@@ -9,9 +9,23 @@ Experiments in *applied science fiction*<br>
 Stories as a design process<br>
 *In one ear out the other*
 
-### What does the future dictionary look like?
+⁘
 
-It hits the page like a bomb, collapsing into itself suddenly, annihilating everything around it, only to rise and expand once again, like a great pillar holding the entire structure aloft. And as you turn the page, the column inches and the vast meaty instruction words litter it like the pages of an ancient manuscript. But not just one book. Not preserved words here but living words here that change as you change: the language, bleeding from your pages’ wounds and body and mouth and teeth. Speaking. This is the future dictionary. It blooms and it dies every time you use it; evaporating words every time you turn a page. It has grown out of the flesh of your hand.
+For a little extra context, I have been experimenting with writing *my own* design-fiction [stories](/stories) as a process of exploring different design questions and possible futures. While playing around with GPT-3 (when it was still free-to-use) I thought it would be fascinating to use the language model to generate hundreds of these stories. Where my own writing process explores an idea *in-depth*, this AI-assisted process does not replace but rather complements it with a broader breadth of exploration.
+
+I wrote out a list of questions that came to mind regarding interfaces and the future of technology, many questions paralleling ones I was myself thinking about with my project at the time. I left the prompt running and spent many hours scouring through story upon story[^scary], through tens of thousands of words, and saving particular ones I resonated with to a document which I named "On The Paths of Nonsense." This page is the result of a second pass, taking only the stories which I still feel are interesting or worth reading in some way. The highlights of the highlights so-to-speak.
+
+[^scary]: Okay, I may have stayed up all night. No book I've read has ever left me this enthralled. <br><br>At this point I realized with tinge of horror that AI-produced content does not need to be *good* or *better* than what people can create. There is a special kind of engagement it creates—that of *newness* and *sense of control* over the process. That I could simply generate ten more pages of stories at the slightest press of a button, kept me coming back for more again and again. <br><br>*It was like fast-food of the mind.*
+
+Hope you enjoy.
+
+### What does the future dictionary look like?
+  
+It hits the page like a bomb, collapsing into itself suddenly, annihilating everything around it, only to rise and expand once again, like a great pillar holding the entire structure aloft. And as you turn the page, the column inches and the vast meaty instruction words litter it like the pages of an ancient manuscript. But not just one book. Not preserved words here but [living words here that change as you change]{.highlight}:[^change] the language, bleeding from your pages’ wounds and body and mouth and teeth. Speaking. This is the future dictionary. It blooms and it dies every time you use it[^beautiful_writing]; evaporating words every time you turn a page. It has grown out of the flesh of your hand.
+
+[^change]: *Words that change as you change*
+
+[^beautiful_writing]: Beautifully evocative. That this was one of the first stories generated may have helped spark me to continue exploring—even if not all the stories contain any interesting ideas, at least some of them will be beautifully written
 
 ### What does the future dictionary look like?
 

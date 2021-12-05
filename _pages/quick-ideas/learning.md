@@ -39,6 +39,12 @@ Ideas are listed in generally-reverse-chronological order, meaning that as I add
 - landscape metaphor
 -->
 
+## #31: Enough recipes and you have a cook
+
+As I continue to experiment with the creativity recipes I described in [#5](#5) I continue to find new recipes through combinations of different constraints and themes that I like[^bananagrams]. It's very similar to cooking in a way—one might start out following recipes by the book but over time (if you don't solely rely on the recipe like a crutch) you'll start to get a sense, beyond the recipes, for how different flavours and ingredients interact.
+
+[^bananagrams]: Similarly, my friends and I like to come up with different variations and games using bananagrams tiles. Some of our favourite variations come from trying out really silly constraints (like made-up-word bananagrams, where you're not allowed to use any real word), and then combining them together to create something much more interesting (e.g. made-up-word *relations* bananagrams)<br><br>*In made-up-word relations bananagrams, each two made-up words that intersect must be related to each other in some way and you have to be able to describe why. In essence, this turns the game into a language/world-building exercise where by the end of the game nearly half the words you're speaking to each other sound like gibberish to the outside listener.*
+
 ## #30: Child's perspective
 
 Children, of course, are the most intuitively knowledgable when it comes to designing spaces for children. Their opinion should be valued. If you listen, you'll likely discover something unexpected—like this one child who, while giving a child-guided tour chose the gym as one of his favourite places in the school, then when asked why he pointed up at the ceiling described how he liked the shadows cast by the wooden beams above. <!-- citationnnn... -->

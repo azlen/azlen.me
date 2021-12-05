@@ -23,3 +23,8 @@ These are my experiments in [applied science fiction](/applied-science-fiction),
 
 - [Bouldering in the Classroom](/stories/bouldering-in-the-classroom)
 - [Department of Fictioneering](/stories/department-of-fictioneering)
+
+## Cozyroom
+*Into the cozyverse, and the realm of possibilities that emerge when you give people the tools to, essentially, be human together.*
+
+- [Cozyverse Traveler](/stories/cozyverse-traveler)

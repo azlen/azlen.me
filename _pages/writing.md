@@ -5,7 +5,9 @@ title: "Design Journal"
 
 Welcome to my *writing space*.
 
-I think the idea of a *blog* is a bit too daunting so instead I've decided to keep design journals on various topics, here I will share small thoughts, big thoughts, and everything in-between.
+I think the idea of a *blog* is a bit too daunting so instead I've decided to keep *design journals*[^fiction] on various topics, here I will share small thoughts, big thoughts, and everything in-between.
+
+[^fiction]: I also enjoy coalescing my thoughts and design ideas into short [design fictions](/stories), if you'd prefer reading stories over hastily scrawled notes
 
 And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends/qis/), I also like to keep a "Quick Ideas" notebook under each topic for small, rough, and silly ideas—sometimes the sillier the better!
 

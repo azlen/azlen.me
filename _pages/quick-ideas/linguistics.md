@@ -7,7 +7,50 @@ created: 2021-08-15
 
 *Language continually fascinates me from every angle; every word, every metaphor, language shapes how we think, it is the shadow of society's collective mind.*
 
-<a name="10"></a>
+[](){name="13"}
+
+## #13: Messglish
+
+I'm always glad English is my native language because it just seems so confusing and indomitably difficult to learn. It's easy to think of English as a bit of a mess, with a mileu of unpredictable pronunciations and words borrowed from dozens of different other languages.
+
+I wonder though, how much is *messiness* actually a boon to a language? Does English naturally lend itself to inventing new words and vocabulary due to the sheer sprawl of possibilities and leeway in pronunciation? Is it more poetic or expressive perhaps?
+
+I'm not fluent enough in any other language to really be equipped to answer this question, but just thought I'd put this stray thought out there.
+
+[](){name="12"}
+
+## #12: Snippet Journal
+
+No matter how horrible I am at playing music or remembering tunes, I've always been drawn to the idea of composing music. Recently I've experimented with composing my own song on piano simply by playing around with the notes until I find small snippets and patterns that I like—then begin combining those into a longer piece[^quickideas].
+
+[^quickideas]: Of course I could also draw a parallel here to these quick-idea journals, the purpose of which is to collect small snippets and ideas that I like and watch as they start to combine, fit together, or give me a glimpse into the bigger-picture behind these ideas
+
+I wonder if the same can be done for writing. Can I, perhaps, take note of different terms and phrases that I resonate with and slowly combine these together to form a longer piece or essay?
+
+Inspired by the snippets from [#11](#11), I wanted somewhere to collect these interesting phrases. So I started a little *snippet journal*
+
+[](){name="11"}
+
+## #11: Channeling imagery
+
+I like the idea of voice-acting. Sometimes I try to play around with what kinds of voices I can make. The other day I came up with an interesting technique that gives more personality and unique cadence to these voices. The idea was to conjure an image in my mind that evoked something of the voice I want to create, then try to channel that image through the sound of my voice[^cello].
+
+[^cello]: Really this was inspired in part by something my teacher told me while I was learning cello. To create smooth, legato movements, she said something along the lines of "imagine moving your bow as if through a pot of honey." I think applying this honey metaphor to my movements was very helpful and I could instantly hear a difference in my own playing.
+
+But then I thought, why stop there? Instead of just channeling through the *sound* of a voice, what if you also try to evoke a certain kind of image through the *words* that you speak?
+
+So to challenge myself I tried talking about cities, but while trying to evoke an image of bumblebees pollinating flowers. Some interesting snippets:
+
+- *the place was bumbling with activity and buzzing with excitement*
+- *community that is pollinated by the vision of a better future*
+- *community that is grown out of the roots of change*
+- *things are changing, the flowers are growing, unfolding under the presence of a new sun. And every day the sun rises, and every day there is opportunity for something new. I think another era is beginning, another sun is rising again, and it is time we take this opportunity to...*
+
+I was surprised by just how much more poetic these phrases became by trying to channel a particular image. Definitely must experiment further with this technique.
+
+*Also, just as a note: I think this activity works best spoken aloud as it lets you pay full attention to what you are saying. However this might be biased since I've only ever tried it aloud, so I'll have to experiment with what it's like while writing by hand sometime.*
+
+[](){name="10"}
 
 ## #10: Post-narrative fiction
 
@@ -17,7 +60,7 @@ Have you ever read a work of utopian fiction? It goes against the nature of a na
 
 This idea of "post-narrative fiction" popped into my head the other day. [Design-fictions](/stories) without plot, literary collages, sketches, and more. I feel that once you abandon the need for narrative, you open yourself up to much more positive visions and possibilities.
 
-<a name="9"></a>
+[](){name="9"}
 
 ## #9: Non-linguistic definitions
 
@@ -31,7 +74,7 @@ I feel this would not only be beautiful but also immensely useful, though it wou
 
 Such a dictionary of experiences also becomes one of culture, and thus could be a powerful tool for learning languages on a deeper level beyond the vaneer of words and alphabets, it would give you the potential to tap into the cultural imagination.
 
-<a name="8"></a>
+[](){name="8"}
 
 ## #8: Possible paradoxes
 
@@ -54,7 +97,7 @@ This idea leads me to think there ought to be a word for two concepts that appea
 Personally I'm most drawn to **Conflerge** and **Contrastruct**, but I will continue to be on the look out for new words that might fit this concept.
 
 
-<a name="7"></a>
+[](){name="7"}
 
 ## #7: Metaphors we design by
 
@@ -71,7 +114,7 @@ Thankfully Corbusier's vision never became realized, but he inspired an entire g
 ![Another view of the *Radiant City*, zoomed out to reveal the immense scale of Corbusier's plan](/images/corbusier_ville-radieuse.png)-->
 
 
-<a name="6"></a>
+[](){name="6"}
 
 ## #6: New conceptual metaphors
 
@@ -82,7 +125,7 @@ George Lakoff writes that metaphors shape how we think, percieve, and understand
 Lakoff poses a thought experiment to imagine a society that instead treats `ARGUMENT AS DANCE`, would understanding arguments in this way fundamentally change the way we interact?
 
 
-<a name="5"></a>
+[](){name="5"}
 
 ## #5: What is the oldest metaphor?
 
@@ -97,7 +140,7 @@ Metaphors are bridges really, they work in both directions. They simply tend to 
 I might imagine that the metaphor of something being "set in stone" could have originated around when laws were first being carved into the [Code of Ur-Nammu](https://en.wikipedia.org/wiki/Code_of_Ur-Nammu) or [Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 
 
-<a name="4"></a>
+[](){name="4"}
 
 ## #4: My Feed
 
@@ -110,7 +153,7 @@ But how often do you think about "feed" (as a noun) which is used most in the co
 *Consumption, food for thought, digestion, information diets, "my feed"*—it's unnerving to me that we treat information, and by extension social media, as naught but intellectual chow
 
 
-<a name="3"></a>
+[](){name="3"}
 
 ## #3: Compound Chains
 
@@ -131,7 +174,7 @@ What is the longest possible chain? I imagine it could be hundreds of words long
 Maybe someday I'll try and find out...
 
 
-<a name="2"></a>
+[](){name="2"}
 
 ## #2: Character Matrix
 
@@ -144,7 +187,7 @@ As someone learning Mandarin myself, I find this hilarious and am surprised that
 It brings up a thought of what a compound word grid might look like in different languages. I don't know enough to try this but I imagine in German you might be able to create a 12x12 word grid because there's so much compounding!
 
 
-<a name="1"></a>
+[](){name="1"}
 
 ## #1: What is the largest compound word grid?
 

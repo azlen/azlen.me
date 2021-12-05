@@ -11,3 +11,6 @@ created: 2021-11-25
 - https://socks-studio.com/
 - https://urbannext.net/
 - https://darkmatterlabs.org/
+
+
+- https://theconversation.com/designing-the-compassionate-city-to-overcome-built-in-biases-and-help-us-live-better-92726
