@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Cozyverse Traveler"
+title: "Cozyverse Traveller"
 created: 2021-12-05
 ---
 
