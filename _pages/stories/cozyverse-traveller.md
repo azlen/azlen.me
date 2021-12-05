@@ -4,7 +4,7 @@ title: "Cozyverse Traveller"
 created: 2021-12-05
 ---
 
-Dear diary,
+*Dear diary,*
 
 In my long journeys across the cozyverse I have discovered many a strange sight. The other day I stumbled upon a party of paintings — yes, paintings: portraits, landscapes, of all kinds. They walked and talked and wobbled and danced and looked to be having great fun.
 
