@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Places of the Imagination"
+descripton: "Stories as the essence of place"
 created: 2021-10-25
 ---
 

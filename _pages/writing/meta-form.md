@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Meta-form: Cities, Metaphors, and Sustainability"
+description: "Exploring the form and metaphors behind the design of the cities around us"
 created: 2020-04-30
 ---
 

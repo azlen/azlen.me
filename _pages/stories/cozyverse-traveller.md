@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Cozyverse Traveller"
+description: "a story about a traveller journeying across the cozyverse to understand the essence of digital places"
 created: 2021-12-05
 ---
 

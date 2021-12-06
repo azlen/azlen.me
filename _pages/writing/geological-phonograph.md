@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Geological Phonograph"
+description: "Creating a musical instrument that lets you play the topology of the Earth like a phonograph"
 created: 2019-12-12
 ---
 
