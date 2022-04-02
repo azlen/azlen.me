@@ -30,7 +30,7 @@ Checklist Education
 [](){name="conductive_substrate"}
 
 Conductive Substrate
-~ Factor that enables the formation of new connections and relatonships within an overall group or community. Strong number of connections leads to strong community, but a conductive substrate leads to a resilient one. These can be the rituals, the places, events, moments of gathering, even the way a space is designed to bring us together.
+~ Factor that enables the formation of new connections and relationships within an overall group or community. Strong number of connections leads to strong community, but a conductive substrate leads to a resilient one. These can be the rituals, the places, events, moments of gathering, even the way a space is designed to bring us together.
 ~ *See:* [L#20](/quick-ideas/learning#20)
 
 [](){name="conflerge"}
