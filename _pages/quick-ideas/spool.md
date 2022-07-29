@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Spool
+title: "Spool"
 subtitle: "Quick-idea journal for Spool"
 created: 2022-05-22
 ---
