@@ -1,28 +1,3 @@
-# netlify redirects
-
-/blog                   /writing
-/quick-ideas            /writing
-/news                   /blog
-/home                   /
-
-/shoes                  /doorstep
-/door                   /doorstep
-
-/favourite/colour       https://en.wikipedia.org/wiki/Red
-/favourite/color        /favourite/colour
-/favourite/food         https://en.wikipedia.org/wiki/Sarma_(food)
-/favourite/designer     https://uvula.jp/
-/favourite/community    https://merveilles.town/
-/favourite/place        https://en.wikipedia.org/wiki/False_Creek
-/favourite/word         https://en.wikipedia.org/wiki/Yes_and_no
-/favourite/book         https://en.wikipedia.org/wiki/Metaphors_We_Live_By
-/favorite/*             /favourite/:splat
-
-/*                      /703    404
-
-
-
-
 # old website redirects
 
 /about https://old.azlen.me/about 200
@@ -423,3 +398,26 @@
 /wiki/aphantasia https://old.azlen.me/wiki/aphantasia 200
 /wiki/aphantasia/index.html https://old.azlen.me/wiki/aphantasia/index.html 200
 / https://old.azlen.me/ 200
+
+
+# netlify redirects
+
+/blog                   /writing
+/quick-ideas            /writing
+/news                   /blog
+/home                   /
+
+/shoes                  /doorstep
+/door                   /doorstep
+
+/favourite/colour       https://en.wikipedia.org/wiki/Red
+/favourite/color        /favourite/colour
+/favourite/food         https://en.wikipedia.org/wiki/Sarma_(food)
+/favourite/designer     https://uvula.jp/
+/favourite/community    https://merveilles.town/
+/favourite/place        https://en.wikipedia.org/wiki/False_Creek
+/favourite/word         https://en.wikipedia.org/wiki/Yes_and_no
+/favourite/book         https://en.wikipedia.org/wiki/Metaphors_We_Live_By
+/favorite/*             /favourite/:splat
+
+/*                      /703    404
