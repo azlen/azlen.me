@@ -21,12 +21,14 @@ exclude:
   - _pages/.obsidian
   - _pages/_templates
   - _pages/drafts
+  - _pages/archive
   - _pages/.vault-stats
   - Gemfile
   - Gemfile.lock
   - tufte-pandoc-jekyll.gemspec
   - run
   - TODO
+  - publish.sh
 
 include:
   - _redirects
