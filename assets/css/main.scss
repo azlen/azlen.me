@@ -28,9 +28,9 @@ article {
 h1, h2, h3, h4, h5, .subtitle {
   font-family: 'jaf-lapture';
   font-style: italic;
-  color: var(--f_low);
+  color: var(--f_med);
 
-  animation: colorshift 120s linear infinite;
+  // animation: colorshift 120s linear infinite;
 }
 
 .subtitle {
@@ -98,25 +98,71 @@ a:hover {
 .sidepanel {
   position: absolute;
   position: fixed;
+  // display: flex;
+  // flex-direction: column;
+  // justify-content: center;
   // left: -100px;
   // top: 129px;
   margin-left: -100px;
   margin-top: 55px;
 }
+.sidepanel > *:not(:first-child) {
+  display: block;
+  margin: 15px auto 0px auto;
+
+  width: 20px;
+  height: 20px;
+
+  cursor: pointer;
+}
+
+
+svg *[fill="#000000"], svg *[fill="black"] {
+  fill: var(--f_med);
+  // animation: colorshift 120s linear infinite;
+}
+
+svg *[stroke="#000000"], svg *[stroke="black"] {
+  stroke: var(--f_med);
+  // animation: colorshift-stroke 120s linear infinite;
+}
+
+label {
+  position: relative;
+}
+
+#theme-picker {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+
+nav > * {
+  // background: none !important;
+  // border-bottom: none !important;
+  // text-decoration: none !important;
+
+  padding: 5px;
+  border-radius: 50px;
+  transition: background .15s ease-in;
+}
 
 
 
 .logo path {
-  fill: var(--f_low);
+  fill: var(--f_med);
   transition: .1s ease-out;
 
-  animation: colorshift 120s linear infinite;
+  // animation: colorshift 120s linear infinite;
 }
-.logo {
+.logo, nav > * {
   background: none !important;
   text-shadow: none !important; 
 }
-.logo:before {
+.logo:before, nav > *:before {
   display: none;
 }
 .logo svg {
@@ -151,10 +197,23 @@ a:hover {
 }
 
 @keyframes colorshift {
-  0% { color: var(--f_low); fill: var(--f_low) }
+  0% { color: var(--f_med); fill: var(--f_med) }
   50% { color: var(--b_inv); fill: var(--b_inv) }
-  100% { color: var(--f_low); fill: var(--f_low) }
+  100% { color: var(--f_med); fill: var(--f_med) }
 }
+
+@keyframes colorshift-stroke {
+  0% { color: var(--f_med); stroke: var(--f_med) }
+  50% { color: var(--b_inv); stroke: var(--b_inv) }
+  100% { color: var(--f_med); stroke: var(--f_med) }
+}
+
+// @keyframes colorshift {
+//   0% { color: var(--f_med); fill: var(--f_med) }
+//   33% { color: var(--f_low); fill: var(--f_low) }
+//   66% { color: var(--f_high); fill: var(--f_high) }
+//   100% { color: var(--f_med); fill: var(--f_med) }
+// }
 
 ::-moz-selection { /* Code for Firefox */
   color: var(--f_inv);
@@ -217,7 +276,23 @@ figcaption {
   h1 {
     font-size: 2.8rem;
   }
+
+  .sidepanel > * {
+    vertical-align: middle;
+    display: inline-block !important;
+  }
+
+  .sidepanel > *:not(:first-child) {
+    margin: 0px 0px 0px 10px;
+  }
 }
+
+// @media (min-width: 761px) {
+//   .sidepanel {
+//     display: flex;
+//     flex-direction: column;
+//   }
+// }
 
 strong {
   font-family: "jaf-lapture";
@@ -309,4 +384,20 @@ a:target::before {
 
   // background: var(--b_inv);
   background: linear-gradient(180deg, var(--b_med) 0%, var(--background) 100%);
+}
+
+
+
+.sidepanel > *:not(:first-child):hover {
+  background: var(--b_med) !important;
+}
+
+select {
+  cursor: pointer;
+}
+
+
+
+.darkmode .invertable {
+  filter: invert(1) hue-rotate(180deg);
 }

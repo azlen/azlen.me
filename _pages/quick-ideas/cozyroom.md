@@ -35,7 +35,7 @@ After extensive research and thinking about modding I began to think of modding 
 - **Fourth step**: More complex modding, things that bend the physics of your world in new ways you had not expected. Possibly introducing entirely new forms of gameplay.
 - **Fifth step**: Complete overhaul. The software becomes merely the engine on which you craft an entirely new game or experience.
 
-![](/images/modding-staircase.jpg)
+![](/images/modding-staircase.jpg){.invertable}
 
 Installing and using other people's mods tends to be relatively easy, but the step between the using and actually creating your own plugins is often so high that it requires a bit of climbing. This is the case with games, and this is the case with software[^realworld].
 
@@ -73,7 +73,7 @@ It is essential that the primitives of cozyroom all work really well together, a
 
 The toolbar has probably been one of the biggest things holding me back. I put a lot of effort into it and yet I still feel dissatisfied.
 
-![](/images/cozy-toolbars.png)
+![](/images/cozy-toolbars.png){.invertable}
 
 Fundamentally, the biggest problem with the toolbar is the pen tool — which introduces many layers of complexity, most key of which is that it is unlike any other tool and that drawing is more like a "mode" than a "tool"
 
@@ -84,11 +84,11 @@ Fundamentally, the biggest problem with the toolbar is the pen tool — which in
 - Infinite canvas vs. vertical scroll
 - Cards = sub-spaces
 
-![](/images/cozy-modes.png)
+![](/images/cozy-modes.png){.invertable}
 
-![](/images/cozy-infinite-canvas-vs-vertical-scroll.png)
+![](/images/cozy-infinite-canvas-vs-vertical-scroll.png){.invertable}
 
-![](/images/cozy-cards-drawing.png)
+![](/images/cozy-cards-drawing.png){.invertable}
 
 I think the problem is that I took all these "big ideas" and tried to lump them all together at once without letting them evolve naturally on their own. Just like jamming two puzzle pieces together that shouldn't go together, sometimes you can delude yourself for a moment that they do until you start noticing the inconsistencies.
 
@@ -107,11 +107,11 @@ If they really are pieces of this puzzle then they will surely find a more natur
 
 This is a little silly but what if you had a hand and could control each of its fingers?
 
-![](/images/cozy-finger-control-1.png)
+![](/images/cozy-finger-control-1.png){.invertable}
 
-![](/images/cozy-finger-control-2.png)
+![](/images/cozy-finger-control-2.png){.invertable}
 
-![](/images/cozy-finger-control-3.png)
+![](/images/cozy-finger-control-3.png){.invertable}
 
 It would be interesting to experiment with something like this, perhaps it could make interactions more immersive? intuitive?
 
@@ -125,9 +125,9 @@ Probably wouldn't make sense to incorporate into cozyroom but it would be fun to
 
 What if you could type in anything an an AI will automatically generate an object for you with that text?
 
-![](/images/cozy-ai-pink-high-chair.png)
+![](/images/cozy-ai-pink-high-chair.png){.invertable}
 
-![](/images/cozy-ai-avocado-chair.png)
+![](/images/cozy-ai-avocado-chair.png){.invertable}
 
 That would be quite interesting, I wonder how this would change the whole dynamics of interaction...
 
@@ -138,7 +138,7 @@ Maybe you can longpress anywhere on the background, type in the kind of object y
 
 ## #78: Wheel of conversation
 
-![](/images/cozy-conversation-wheel.png)
+![](/images/cozy-conversation-wheel.png){.invertable}
 
 Spin the wheel and it gives you an interesting idea or topic to talk about :)
 
@@ -150,11 +150,11 @@ I want to be able to see where people are. Who is up from me and who is down fro
 
 [^vertical]: If I'm in a vertical space. I'm not sure if I've written about this yet but the idea would be that if you "enter" a card then you are in a new room but it only scrolls vertically — as a sort of brainstorming space<br><br>This would also enable you to be able to easily publish any of these vertical spaces as a webpage...
 
-![](/images/cozy-up-down-indicators.png)
+![](/images/cozy-up-down-indicators.png){.invertable}
 
 And when someone is talking (if we can hear each other in the space) then they can pop up bigger!
 
-![](/images/cozy-indicator-popout.png)
+![](/images/cozy-indicator-popout.png){.invertable}
 
 <a name="76"></a>
 
@@ -164,7 +164,7 @@ It would be funny when you enter a room / card if you are on a little floating m
 
 You can see each other on the carpet no matter how far you scroll away from each other, but you can also drag yourself off the carpet and into the space to regain spatial positioning.
 
-![](/images/cozy-magic-carpet.png)
+![](/images/cozy-magic-carpet.png){.invertable}
 
 <a name="75"></a>
 
@@ -174,7 +174,7 @@ I want to be able to both draw from and move a deck (and for these both to be ve
 
 One solution is to say that any drag from the bottom half of the deck moves it, and any drag from the top half draws a card — this can be anticipated by a card-tilt of the top card on hover.
 
-![](/images/cozy-deck-half-drag.png)
+![](/images/cozy-deck-half-drag.png){.invertable}
 
 <a name="74"></a>
 
@@ -216,7 +216,7 @@ I don't like that the pen tool and card/text are very different interaction-wise
 
 The card/text you can drag into the space, whereas the pen tool is essentially an entire mode!
 
-![](/images/cozy-pointer-switcher.png)
+![](/images/cozy-pointer-switcher.png){.invertable}
 
 So what if instead, the "toolbar" is just a "pointer switcher" which would let me make (or let others make as plugins) lots of fun different pointers (see [#26](#26), [#27](#27), [#28](#28))
 
@@ -228,7 +228,7 @@ Also there's no reason to restrict the size, or even shape of cards
 
 In fact it's not completely necessary that all cards in a single deck have the same shape. They just have to look roughly the same shape until you flip them over and "reveal" what they actually look like...
 
-![](/images/cozy-card-shapes.png)
+![](/images/cozy-card-shapes.png){.invertable}
 
 <a name="69"></a>
 
@@ -248,13 +248,13 @@ In pen mode I wish I could draw on my cozy itself
 
 Maybe if your pen goes over/around your cozy, (s)he looks straight forward and the pen size becomes a bit smaller, letting you draw around your face or around your body.
 
-![](/images/cozyroom-personal-space.png)
+![](/images/cozyroom-personal-space.png){.invertable}
 
-![](/images/cozyroom-facepaint-examples.png)
+![](/images/cozyroom-facepaint-examples.png){.invertable}
 
 If you draw directly on your face, maybe it will follow your face as you look around and get cropped by the edge of your body. Whereas if you draw outside your body maybe the drawing doesn't follow your face around?
 
-![](/images/cozyroom-facepaint-examples-2.png)
+![](/images/cozyroom-facepaint-examples-2.png){.invertable}
 
 <a name="67"></a>
 
@@ -262,7 +262,7 @@ If you draw directly on your face, maybe it will follow your face as you look ar
 
 If a page name on cozy garden is already taken, show a little message asking if you want to check out what's on that page. Maybe if someone else comes up with the same creative title for something you might be curious to see what they've put up there!
 
-![](/images/cozy-garden-check-it-out.png)
+![](/images/cozy-garden-check-it-out.png){.invertable}
 
 <a name="66"></a>
 
@@ -309,7 +309,7 @@ You can publish spaces as a website that people can visit (e.g. maybe you have a
 
 Imagine if cozies were actually metaballs and merged when they got close to one another...
 
-![](/images/cozy-metaballs.png)
+![](/images/cozy-metaballs.png){.invertable}
 
 Not a core feature for sure but could be a fun plugin!
 
@@ -337,7 +337,7 @@ It would be nice if the UI for the results looked a bit like a bookshelf, sort o
 
 [^objectlibrary]: You know, a common term for an object panel / selector in tools like this is the "object library"— so this bookshelf metaphor is really a natural fit here
 
-![](/images/cozy-object-library.png)
+![](/images/cozy-object-library.png){.invertable}
 
 Also, if I search for a "piano" in the search box, it would be kind of neat if there was a section at the bottom for "other instruments"— that way there's a little discovery mechanism built in to find things in a similar space to what you are looking for[^biggestproblem].
 
@@ -365,7 +365,7 @@ But I have to say, pacman cursor would be funny![^wakkawakka]
 
 I was thinking it would be funny if the settings icon looked like a face instead of a gear
 
-![](/images/cozy-settings-icon-face.png)
+![](/images/cozy-settings-icon-face.png){.invertable}
 
 Two dials and a slider! but I don't think will get interpreted well as a settings button...
 

@@ -11,3 +11,5 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 <div class="shoes">
 
 ![Azlen ⁘ @azlenelza](/images/shoes-azlen.jpg){.shoe}
+
+![Jared ⁘ @jrdprr](/images/shoe-jared.jpg){.shoe}

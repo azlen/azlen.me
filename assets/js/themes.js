@@ -73,6 +73,27 @@ function Theme (client) {
     if (this.onLoad) {
       this.onLoad(data)
     }
+
+    // determine (vaguely) whether or not theme is in dark mode
+    let hexValueAsNumber = Number.parseInt(/^#(([0-9A-F]{3}){1,2})$/i.exec(theme.b_high)[1], 16)
+    let maxHexValue = Number.parseInt("F".repeat(theme.b_high.length-1), 16)
+
+    let midHexNormalized = Number.parseInt("9".repeat(theme.b_high.length-1), 16) / maxHexValue
+    let hexValueNormalized = hexValueAsNumber / maxHexValue
+
+    console.log(hexValueNormalized, midHexNormalized)
+
+    if(document.body) document.body.classList.remove('darkmode')
+
+    if(hexValueNormalized < midHexNormalized) {
+      if(document.body) {
+        document.body.classList.add('darkmode')
+      } else {
+        window.addEventListener('DOMContentLoaded', () => { 
+          document.body.classList.add('darkmode')
+        })
+      }
+    }
   }
 
   this.reset = () => {
