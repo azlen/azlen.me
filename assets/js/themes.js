@@ -10,17 +10,17 @@ function Theme (client) {
 
   this.active = {}
   this.default = {
-    background: '#eeeeee',
-    f_high: '#0a0a0a',
-    f_med: '#4a4a4a',
-    f_low: '#6a6a6a',
-    f_inv: '#111111',
-    b_high: '#a1a1a1',
-    b_med: '#c1c1c1',
-    b_low: '#ffffff',
-    b_inv: '#ffb545'
+    background: '#000000',
+    f_high: '#ffffff',
+    f_med: '#ff5532',
+    f_low: '#ffb000',
+    f_inv: '#000000',
+    b_high: '#111111',
+    b_med: '#322e33',
+    b_low: '#444444',
+    b_inv: '#ffe053'
   }
-
+  
   // Callbacks
   this.onLoad = () => {}
 
