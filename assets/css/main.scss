@@ -217,13 +217,13 @@ nav > * {
 
 ::-moz-selection { /* Code for Firefox */
   color: var(--f_inv);
-  background: var(--f_low);
+  background: var(--f_low) !important;
   text-shadow: none !important;
 }
 
 ::selection {
   color: var(--f_inv);
-  background: var(--f_low);
+  background: var(--f_low) !important;
   text-shadow: none !important;
 
   // background: var(--b_med);
