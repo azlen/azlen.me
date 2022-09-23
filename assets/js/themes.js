@@ -31,11 +31,11 @@ function Theme (client) {
   }
 
   this.start = () => {
-    console.log('Theme', 'Starting..')
+    console.log('[Theme]', 'Starting..')
     if (isJson(localStorage.theme)) {
       const storage = JSON.parse(localStorage.theme)
       if (isValid(storage)) {
-        console.log('Theme', 'Loading theme in localStorage..')
+        console.log('[Theme]', 'Loading theme in localStorage..')
         this.load(storage)
         return
       }
@@ -44,7 +44,7 @@ function Theme (client) {
   }
 
   this.open = () => {
-    console.log('Theme', 'Open theme..')
+    console.log('[Theme]', 'Open theme..')
     const input = document.createElement('input')
     input.type = 'file'
     input.onchange = (e) => {
@@ -56,7 +56,7 @@ function Theme (client) {
   this.load = (data) => {
     const theme = this.parse(data)
     if (!isValid(theme)) { console.warn('Theme', 'Invalid format'); return }
-    console.log('Theme', 'Loaded theme!')
+    console.log('[Theme]', 'Loaded theme!')
     this.el.innerHTML = `:root { 
       --background: ${theme.background}; 
       --f_high: ${theme.f_high}; 
@@ -80,8 +80,6 @@ function Theme (client) {
 
     let midHexNormalized = Number.parseInt("9".repeat(theme.b_high.length-1), 16) / maxHexValue
     let hexValueNormalized = hexValueAsNumber / maxHexValue
-
-    console.log(hexValueNormalized, midHexNormalized)
 
     if(document.body) document.body.classList.remove('darkmode')
 
