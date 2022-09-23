@@ -105,6 +105,8 @@ a:hover {
   // top: 129px;
   margin-left: -100px;
   margin-top: 55px;
+
+  box-sizing: border-box;
 }
 .sidepanel > *:not(:first-child) {
   display: block;
@@ -139,6 +141,7 @@ label {
   height: 100%;
   opacity: 0;
 }
+
 
 nav > * {
   // background: none !important;
@@ -270,6 +273,9 @@ figcaption {
     width: 30px !important;
     height: 30px !important;
   }
+  .sidepanel .logo {
+    flex: 1;
+  }
   article {
     // padding-top: 40px;
   }
@@ -283,7 +289,9 @@ figcaption {
   }
 
   .sidepanel > *:not(:first-child) {
-    margin: 0px 0px 0px 10px;
+    margin: 5px 15px 0px 0px;
+    float: right;
+    opacity: 0.4;
   }
 }
 
