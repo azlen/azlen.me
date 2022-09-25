@@ -44,4 +44,29 @@ Past projects
 - Ludum dare
 -->
 
+<!--
+
+Thinking of organizing like this:
+
+Major projects / research: (what to call this?)
 - Cozyroom
+- Neuropolis (am I ever?)
+- Interhackt
+- Future of computing
+- Musical instrument experiments (?)
+- Comic editor (?)
+- Sprite generator (?)
+- Game engine (?)
+
+And then smaller projects / experiments:
+- Everything else??
+
+Perhaps instead of projects I could even consider this to be "things I've done" which could be a broader listing of everything that I'm thinking and researching about. 
+
+Also, most of the projects will have been written about post-mortem so that should be taken into consideration when writing their descriptions. Perhaps I may  put a note at the top of the page indicating that I am writing in the future about something in the past.
+
+It would also be interesting if I had some way of tracking the themes present (perhaps I could do this through side-notes?), in some way describing the trajectory of my paths through ideas.
+
+-->
+
+- [Cozyroom](/projects/cozyroom)

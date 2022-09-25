@@ -5,23 +5,27 @@ subtitle: "Quick design ideas for Cozyroom"
 created: 2021-08-15
 ---
 
+*I have fallen behind in keeping this page updated, as such there are dozens of ideas that have yet to be documented here*
+
 Ideas are listed in generally-reverse-chronological order, meaning that as I add new ideas to this page they will show up at the top. However if you want to start at #1, press the button below.
 
 <a href="#1">Scroll to start ↓</a>
 
-<a name="82"></a>
+[](){name="83"}
 
-## #??: Exit transitions
+## 83: Exit transitions
 
 When we leave a friend's house in physical space there is a transition that we go through: gathering up our belongings, putting our shoes on, stepping out the door, saying goodbye, however in digital space we often have sharp cuts rather than smooth transitions (see [interfaces #4](/quick-ideas/interfaces#4))
 
 I want it to feel good both to enter and exit a space in cozyroom. This is one aspect that all other meeting and spatial software fails horribly at: when I click the button to leave a zoom call, there is no transition but rather a jarringly sudden switch from being "in" the meeting to being "out" of the meeting.
 
+[](){name="82"}
+
 ## #82: Programming Blocks
 
 I've been thinking for a while about how to create a kind of modding experience
 
-<a name="81"></a>
+[](){name="81"}
 
 ## #81: Modding Staircase
 
@@ -423,11 +427,11 @@ Particularly when I was playing board games in figma with my friends, sometimes 
 
 Show a little globe icon in the path for public rooms
 
-![](/images/cozy-path-globe.png)
+![](/images/cozy-path-globe.png){.invertable}
 
 And a little house for private rooms?
 
-![](/images/cozy-path-home.png)
+![](/images/cozy-path-home.png){.invertable}
 
 <a name="54"></a>
 
@@ -435,13 +439,13 @@ And a little house for private rooms?
 
 The icons I have been thinking about to represent the "cozy" and "creative" modes are both centered around a kind of circle motif:
 
-![](/images/cozy-creative-icons.png)
+![](/images/cozy-creative-icons.png){.invertable}
 
 Cozy mode has three dots gathered in a circle with each other, and creative mode has these two dots spinning around with a trail behind to indicate motion.
 
 When selecting modes in a dropdown menu, to avoid the same icon appearing twice, either of these icons could spin themselves into a kind of donut shape, and then spin back once you've chosen / closed the menu.
 
-![](/images/cozy-mode-dropdown.png)
+![](/images/cozy-mode-dropdown.png){.invertable}
 
 *It's hard to describe this in words, it would work a lot better as a little animation!*
 
@@ -465,7 +469,7 @@ Brainstorming / design is better in tools like figma where you can see each othe
 
 I made these [talking cursors](https://twitter.com/azlenelza/status/1320452429939413001) a while back and they'd be perfect for a cursor mode that still lets you see who's talking!
 
-![](/images/cozy-plus-mouse.png)
+![](/images/cozy-plus-mouse.png){.invertable}
 
 I think I'll call these modes "*cozy mode*" and "*creative mode*"
 
@@ -558,7 +562,7 @@ And then if you drag right moving along the color bar, it will make the color da
 
 ## #45: Skeuomorphic
 
-![](/images/cozy-toolbar-sketch.png)
+![](/images/cozy-toolbar-sketch.png){.invertable}
 
 I like when you can see more physical representations of tools in a toolbar
 
@@ -589,7 +593,7 @@ It also opens up many different new use cases, sort of pushing cozyroom to a poi
 
 What if cozy blinks occasionally?
 
-![](/images/cozy-blink.png)
+![](/images/cozy-blink.png){.invertable}
 
 If cozy can blink, then maybe if I am AFK or quiet for too long, I want my cozy to close his eyes and fall asleep
 
@@ -603,7 +607,7 @@ There must be lots of easter eggs to discover in cozyroom
 
 But what if one of them is that you can become an actual easter egg?
 
-![](/images/cozy-easter-egg.png)
+![](/images/cozy-easter-egg.png){.invertable}
 
 <a name="40"></a>
 
@@ -617,11 +621,11 @@ So if you delete something you didn't mean to you can always go back and find it
 
 What if I could "follow" a cozy— and then a chain of people following each other creates a cozy caterpillar
 
-![](/images/cozy-caterpillar.png)
+![](/images/cozy-caterpillar.png){.invertable}
 
 Or if the front person follows the person at the back then you get an infinite walking circle of everyone following each other
 
-![](/images/cozy-superfollow.png)
+![](/images/cozy-superfollow.png){.invertable}
 
 <a name="39"></a>
 
@@ -654,13 +658,13 @@ What if new objects are scaled depending on your zoom level
 
 Like if I create a chess set when I'm zoomed out all the way and then zoom back in, my cozy will be about the size of an individual square on the board
 
-![](/images/cozy-zoom-scale.png)
+![](/images/cozy-zoom-scale.png){.invertable}
 
 Or... even siller, what if your own scale depended on your zoom level?
 
 You could have big cozies, small cozies, everyone can be a different size
 
-![](/images/cozy-zoom-scale-self.png)
+![](/images/cozy-zoom-scale-self.png){.invertable}
 
 
 <a name="36"></a>
@@ -671,7 +675,7 @@ I want a marketplace for cozy rooms and custom plugins where people can share an
 
 And potentially make a profit off it! I'd love to be able to support the community in making cool stuff. One idea is to take a model similar to [Skillshare](https://www.skillshare.com/)
 
-![](/images/cozy-marketplace.png)
+![](/images/cozy-marketplace.png){.invertable}
 
 <a name="35"></a>
 
@@ -681,9 +685,9 @@ There's currently no way to make objects bigger or smaller, it's something that 
 
 What if while dragging an object I can press left and right arrow keys to rotate, or up and down to scale, or use the equivalent keys on WASD
 
-![](/images/cozy-spin-scale.png)
+![](/images/cozy-spin-scale.png){.invertable}
 
-![](/images/cozy-spin-scale-2.png)
+![](/images/cozy-spin-scale-2.png){.invertable}
 
 Could be useful way to have fine-grained control of scale / rotation on desktop
 
@@ -700,11 +704,11 @@ Maybe by default links should just be dots / favicons (perhaps with title below?
 
 And then I can see a preview on hover...
 
-![](/images/cozy-link-preview.png)
+![](/images/cozy-link-preview.png){.invertable}
 
 It makes it much nicer, and then you can create rabbitholes of websites throughout the space by making paths of links!
 
-![](/images/cozy-link-paths.png)
+![](/images/cozy-link-paths.png){.invertable}
 
 
 <a name="33"></a>
@@ -717,7 +721,7 @@ How do you get rid of items?[^currently]
 
 What if cozy's mouth is a trashcan!
 
-![](/images/cozy-trash-mouth.png)
+![](/images/cozy-trash-mouth.png){.invertable}
 
 <a name="32"></a>
 
@@ -727,7 +731,7 @@ I want to be able to share and place any files throughout the space no matter wh
 
 There should be a default "file object" when you drag files into the space that you can drag around, download, and (if supported) preview
 
-![](/images/cozy-files.png)
+![](/images/cozy-files.png){.invertable}
 
 
 <a name="31"></a>
@@ -736,7 +740,7 @@ There should be a default "file object" when you drag files into the space that 
 
 The interface could naturally teach you certain key commands, like pressing "m" to mute or unmute yourself. Just show a little "m" in the corner
 
-![](/images/cozy-key-commands.png)
+![](/images/cozy-key-commands.png){.invertable}
 
 *Thanks to [Ziyad](https://twitter.com/ziyadbasheer) for this idea!*
 
@@ -747,7 +751,7 @@ The interface could naturally teach you certain key commands, like pressing "m" 
 
 To make speech bubbles unique to each person, what if everyone talked in their own font so that you can visually distinguish each message.
 
-![](/images/cozy-different-fonts.png)
+![](/images/cozy-different-fonts.png){.invertable}
 
 This could be a fun idea for a messaging platform even if it never becomes a thing in cozyroom.
 
@@ -758,7 +762,7 @@ This could be a fun idea for a messaging platform even if it never becomes a thi
 
 ## #29: Footsteps 
 
-![](/images/cozy-footsteps.png)
+![](/images/cozy-footsteps.png){.invertable}
 
 
 <a name="28"></a>
@@ -826,11 +830,11 @@ Sometimes I want to take a picture of the space. I guess it's not too hard to ta
 
 If you jump *really* high maybe you get to see a world map and can choose somewhere in the space to land. This could be a way of moving fast between two different locations without teleporting.
 
-![](/images/cozy-world-map.png)
+![](/images/cozy-world-map.png){.invertable}
 
 And then when you land, a shadow appears first and then your cozy comes falling down from the sky and lands like a superhero (screenshake included)
 
-![](/images/cozy-superhero-landing.png)
+![](/images/cozy-superhero-landing.png){.invertable}
 
 
 <a name="22"></a>
@@ -839,7 +843,7 @@ And then when you land, a shadow appears first and then your cozy comes falling 
 
 Now that there are shadows underneath the cozies, it feels like you should be able to jump. Just like, press spacebar and then... *boioioioing*
 
-![](/images/cozy-jump.png)
+![](/images/cozy-jump.png){.invertable}
 
 I feel like this would be fun and add an extra layer to the expression and body language of the cozies.
 
@@ -852,7 +856,7 @@ If you jump three times, maybe bounce extra high just like mario?
 
 If you suddenly teleport somewhere, the people there should see you coming before you arrive. I imagine a portal opening up and then your cozy tumbles head over heels out of it and lands on the ground.
 
-![](/images/cozy-teleport-tumble.png)
+![](/images/cozy-teleport-tumble.png){.invertable}
 
 
 <a name="20"></a>
@@ -861,7 +865,7 @@ If you suddenly teleport somewhere, the people there should see you coming befor
 
 If someone teleports for some reason, or jumps to a different part of the map, I want to be able to see where they went and follow close behind.
 
-![](/images/cozy-teleport-arrow.png)
+![](/images/cozy-teleport-arrow.png){.invertable}
 
 A portal appears with an arrow on it and you can click on it to teleport to the same location. The portal is only temporary and will disappear after a short time.
 
@@ -876,7 +880,7 @@ I want the pointers to be more expressive and be able to be used in more situati
 
 The faster you hit, the bigger the effect
 
-![](/images/cozy-high-five.png)
+![](/images/cozy-high-five.png){.invertable}
 
 
 <a name="18"></a>
@@ -915,7 +919,7 @@ Common categories of objects lounge around at the edges, but there aren't too ma
 
 And then if I use something *very* often maybe I can drag it out and place it into the goopy, customizable interface.
 
-![](/images/cozy-place-object-into-toolbar.png)
+![](/images/cozy-place-object-into-toolbar.png){.invertable}
 
 
 <a name="15"></a>
@@ -981,7 +985,7 @@ Looks a lot better than the flat, shadowless, single colour cozies we had before
 
 What if walking through a portal had this swipe transition across the screen as you walk into a new space
 
-![](/images/cozy-portal-swipe.png)
+![](/images/cozy-portal-swipe.png){.invertable}
 
 This would let me be able to "peek inside" of a space before fully walking into it, or go over to grab something and then pull it into my current room
 
@@ -998,7 +1002,7 @@ Have you ever thought of the anatomy of a cozy?
 
 <!--/images/cozy-cross-section.png-->
 
-![](/images/cozy-cross-section-2.png)
+![](/images/cozy-cross-section-2.png){.invertable}
 
 As a joke I want it to secretly be canon that cozies are actually mochi and so if you cut them open (*please don't do that!*) you'll find filling and layers of sweetness
 
@@ -1011,11 +1015,11 @@ As a joke I want it to secretly be canon that cozies are actually mochi and so i
 
 Can you imagine a cozy growing legs? It would be a fun way to move fast across the map, the longer your legs the longer your stride
 
-![](/images/cozy-legs.png)
+![](/images/cozy-legs.png){.invertable}
 
 It would be really funny to see everyone's cozies standing at different heights
 
-![](/images/cozy-legs-heights.png)
+![](/images/cozy-legs-heights.png){.invertable}
 
 Or if you can grow and shrink your legs at will then you can make a little dance where you bob up and down [^teabag]
 
@@ -1028,7 +1032,7 @@ Or if you can grow and shrink your legs at will then you can make a little dance
 
 Sometimes I want an object that doesn't exist yet in the object panel. It would be fun if I could draw new objects myself on a little drawing pad and bring them into the space.
 
-![](/images/cozy-drawing-pad.png)
+![](/images/cozy-drawing-pad.png){.invertable}
 
 
 <a name="6"></a>
@@ -1039,7 +1043,7 @@ When I create an empty room, it stretches out like an infinite blank desert in a
 
 What if instead you start in a small room, but maybe you can expand it as you need more space.
 
-![](/images/cozy-small-room.png)
+![](/images/cozy-small-room.png){.invertable}
 
 The space outside the room could be meaningful too, it could be like a blackboard you can draw on
 
@@ -1052,7 +1056,7 @@ Or perhaps I want to be on a spaceship and I set the background to be space, if 
 
 Imagining a Spore-like creature creator but for designing your cozy or designing new *interactive objects* and hooking up different pieces and functionality to them.
 
-![](/images/cozy-creature-creator.png)
+![](/images/cozy-creature-creator.png){.invertable}
 
 
 <a name="4"></a>
@@ -1061,7 +1065,7 @@ Imagining a Spore-like creature creator but for designing your cozy or designing
 
 What if as I speak, cozyroom analyzes the vowels and sound of my speech to change my cozy's mouth shape accordingly. It would really make speaking feel a lot more natural.
 
-![](/images/cozy-vowels-mouth-shape.png)
+![](/images/cozy-vowels-mouth-shape.png){.invertable}
 
 
 <a name="3"></a>
@@ -1070,7 +1074,7 @@ What if as I speak, cozyroom analyzes the vowels and sound of my speech to chang
 
 The interface top-left feels like it has too many focus points, starting to feel cluttered especially as I add new objects and features, I want to explore ways the interface could be redesigned—get rid of cognitive load, but keep the coziness
 
-![](/images/cozy-interface-ideas.png)
+![](/images/cozy-interface-ideas.png){.invertable}
 
 
 <a name="2"></a>
@@ -1081,7 +1085,7 @@ Now that there are text blocks I want to be able to search to find something I'v
 
 I Imagine as you search it brings up little snapshots of different places where that word / phrase appears, each of these is like a little portal and you can click on any of them to teleport yourself to that area.
 
-![](/images/cozy-2d-search.png){.grayscale}
+![](/images/cozy-2d-search.png){.grayscale .invertable}
 
 
 <a name="1"></a>
@@ -1090,7 +1094,7 @@ I Imagine as you search it brings up little snapshots of different places where 
 
 The movement of cozies is too hard and rigid, I think they should be a bit more fun and squishy. When you move from one place to another it can be like: *squish*-*squosh* *squish*-*squosh*
 
-![](/images/cozy-squish.png)
+![](/images/cozy-squish.png){.invertable}
 
 <!-- <a name="start"></a> -->
 
