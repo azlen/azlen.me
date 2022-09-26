@@ -6,7 +6,7 @@ created: 2022-09-26
 
 Ideas are listed in generally-reverse-chronological order, meaning that as I add new ideas to this page they will show up at the top. However if you want to start at the beginning, press the button below.
 
-[](){name="1"}
+[](){name="2"}
 
 ## #2: Files are dying
 
