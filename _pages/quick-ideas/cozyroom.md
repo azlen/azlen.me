@@ -7,13 +7,13 @@ created: 2021-08-15
 
 *I have fallen behind in keeping this page updated, as such there are dozens of ideas that have yet to be documented here*
 
-Ideas are listed in generally-reverse-chronological order, meaning that as I add new ideas to this page they will show up at the top. However if you want to start at #1, press the button below.
+Ideas are listed in generally-reverse-chronological order, meaning that as I add new ideas to this page they will show up at the top. However if you want to start at the beginning, press the button below.
 
-<a href="#1">Scroll to start ↓</a>
+[Scroll to start ↓](#0)
 
 [](){name="83"}
 
-## 83: Exit transitions
+## #83: Exit transitions
 
 When we leave a friend's house in physical space there is a transition that we go through: gathering up our belongings, putting our shoes on, stepping out the door, saying goodbye, however in digital space we often have sharp cuts rather than smooth transitions (see [interfaces #4](/quick-ideas/interfaces#4))
 

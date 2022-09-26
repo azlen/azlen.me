@@ -7,6 +7,16 @@ created: 2021-08-15
 
 *Language continually fascinates me from every angle; every word, every metaphor, language shapes how we think, it is the shadow of society's collective mind.*
 
+[](){name="14"}
+
+## #14: Language Assistant
+
+I've started using Google Assistant's *Interpreter Mode* for learning languages. I can speak to it, and it responds in the other language. If I say something in English, it can respond with the translation in Italian— or if I say something in Italian, it responds with the equivalent in English.
+
+It feels strikingly different to learn in this way. More curiosity-based, more playful. I try out different variations of sentences to detect patterns in how to say certain things, and I make my own interpretations of grammar rules rather than being told exactly how to use particular structures in the language. It feels, in a way, more natural than any language-learning method[^languagetransfer] I've tried before as it involves active participation— constructing your own sentences, and learning from what you hear.
+
+[^languagetransfer]: Except, perhaps, [Language Transfer](https://www.languagetransfer.org/) by _Mihalis Eleftheriou_— which, on top of being completely free, have been some of the best language audio courses I've tried
+
 [](){name="13"}
 
 ## #13: Messglish
