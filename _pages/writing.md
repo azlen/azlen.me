@@ -5,7 +5,7 @@ title: "Design Journal"
 
 Welcome to my *writing space*.
 
-I think the idea of a *blog* is a bit too daunting so instead I've decided to keep *design journals*[^fiction] on various topics, here I will share small thoughts, big thoughts, and everything in-between.
+I think the idea of a *blog* can sometimes be a bit daunting for some types of writing so I've decided to keep *design journals*[^fiction] on various topics, here I will share small thoughts, big thoughts, and everything in-between.
 
 [^fiction]: I also enjoy coalescing my thoughts and design ideas into short [design fictions](/stories), if you'd prefer reading stories over hastily scrawled notes
 
@@ -15,6 +15,10 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 *Exploring the past, present, and future of interfaces—thinking about how we interact with and percieve the technology around us*
 
 **Quick Ideas**: [Hyperthoughts in Hyperspace](/quick-ideas/interfaces)-->
+
+## Future of Computing
+
+*Coming soon*
 
 
 ## Cities
