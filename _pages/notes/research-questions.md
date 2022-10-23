@@ -17,5 +17,16 @@ This page will be separated into three sections: cold (🧊), hot (🔥), and lo
 ## Burning Questions 🔥
 *What are the burning questions on my mind?*
 
-## Stumps 
+- **Browsers**
+	- How to reframe tabs / history in a way that doesn't fragment our presence between 30 different places?
+		- What are the distinct ways in which people use tabs?
+			- See: [What are tabs?](/notes/what-are-tabs)
+	- How can you make it natural to shift attention slowly rather than abrupt context-switching?
+	- How can websites be made to feel more tangible / material?
+		- See: [Physical browser](/notes/physical-browser)
+	- What substrate can websites exist within?
+
+## Stumps 🪵
 *What are the big questions stumping me in this space?*
+
+- How to fund a research lab?
