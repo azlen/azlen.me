@@ -11,10 +11,8 @@ Want to subscribe to keep up-to-date?
   <template>
     <!-- The email field is compulsory -->
     <input type='email' name='mailing_lists_subscriber[email]'/>
-    
     <!-- The name field is optional -->
     <input type='text' name='mailing_lists_subscriber[given_name]'/>
-    
     <input type='submit' value='Subscribe!'/>
   </template>
 </scattergun-subscription-form>
