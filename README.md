@@ -49,3 +49,5 @@ brew install pandoc
 brew install jez/formulae/pandoc-sidenote
 bundle add webrick
 ```
+
+Oh and also you need to make sure _site is part of the deploy repository otherwise you'll get stuck in an infinite loop...
