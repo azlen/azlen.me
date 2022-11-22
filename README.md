@@ -38,3 +38,14 @@ Of course, it's not done yet. Never will be. These are some features I think wou
 - Automatic checking for dead or broken links
 - Link back up with the XXIVV Webring
 - Commenting!
+
+## Installation (personal notes)
+
+After you install ruby & jekyll:
+
+```
+bundle install
+brew install pandoc
+brew install jez/formulae/pandoc-sidenote
+bundle add webrick
+```
