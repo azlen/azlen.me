@@ -1,0 +1,24 @@
+---
+layout: default
+title: "Mitosis of Minds"
+created: 2022-11-27
+---
+
+I’ve always thought of research and learning as two sides of the same coin, even the most advanced research is simply a process of learning at the edges of knowledge. Thus it follows that designing a game around creative research and exploration of new ideas is fundamentally a problem of designing a _learning game_. It’s like oil and water though, “learning” and “games” historically don’t mix very well, despite many many attempts otherwise. However perhaps many of those failings are due to deep-rooted assumptions of what it means to learn, or to play, and the idea of a learning-game is not so paradoxical and, in fact, possible.
+
+Pinning down exactly what a game _is_ has always been notoriously difficult, as can be observed in any game design textbook which starts (and likely ends) with the question “what is a game?”. Moreover, making meaningful _learning games_ is an act which suffers both from the assumptions of what constitutes a game, and what constitutes learning. It is quite possible that by donning either (or both) of these lenses we are missing something of the true picture and get stuck in a local maxima with much greater peaks on the horizon.
+
+>  …_learning_ doesn’t occur under a single system, but throughout people’s entire lives. Games are self-contained systems that players opt into, but educational environments are anything but contained.  
+> —Jared Pereira ([Designing Games to Learn](https://awarm.space/slow/designing-games-to-learn))  
+
+One schism between game environments and learning environments is that games are often self-contained, and learning is not. Games can be like a mini-universe, embedded within but rarely interacting with our own.
+
+If a game takes itself seriously, it brings you into a world full of mechanics and rules and fine-print on all the cards giving little peeks into the backstory and probably a dozen different kinds of dice. These games are frameworks for fun, but they are also a trap. A learning game that takes itself too seriously packs dense information onto cards or tries too hard to force moments of learning has already failed. I believe the most powerful learning games may use rules lightly, only to the extent that they can work to craft a creative environment. These games will not take themselves so seriously, not be so rigid and structured as to take the fun out of being a game, and be open to the players’ input to shape and guide the trajectory. 
+
+> _Frankenstein charades for example, a game I designed in high school English class, relied almost entirely on players to shape the experience of the game: turning to random pages of the book and acting out the scenes for other players to guess. Simple yes, but it turned something rather drull into a fun and memorable experience while still requiring us to reflect and consider the events of the book. The game then went on to score the high praise of a failing grade by the teacher who, after looking at their rubric, decided that the game contained little to no educational content._  
+
+If we consider the game to be a teacher, laying the environment to spark a process of self-directed learning may be more integral than anything that tries to ambush the player with information. Learning, after all, is a process that happens from within. If a student is not receptive to internalizing and making the deeper connections they need to understand a topic, the teacher (or game) can toil to teach as much as they want without any learning taking place. 
+
+So that, in essence, is one of the goals any learning-game should strive for: not to overload us with informational complexity but to encourage creativity, and most importantly, _to make thinking fun_. The game is not the solution nor is it the question to be solved, instead it should allow for entirely new questions to arise; it should be the catalyst for connection between participants, and connection between ideas.
+
+Instead of trying to pin down exactly what a game is, or what learning is, or who the learners are, let’s consider all of these as unique and complex systems, then temporarily set them aside in order to look for meaningful intersections, nooks and crannies, fractal edges. Then we should be free to begin crafting something new. An experience uniquely positioned where learning and games collide, something appropriately janky, brash and totally original. When, then, they are put together the result is not only a conversation that is both unexpected and whimsical but pushes the existing bounds to new and exciting horizons. We might be able to unlock a wonderful world filled with potential just waiting for us to begin exploring.
