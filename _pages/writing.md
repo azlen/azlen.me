@@ -35,6 +35,7 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 <span class="arrow"></span> **🖹** [What makes a campus?](/writing/what-makes-a-campus/2/) (2/2)<br>
 <span class="arrow"></span>  **🖹** [Cyberspace to cyberplace](/writing/cyberspace-to-cyberplace)<br>
 <span class="arrow"></span>  **🖹** [Places of the imagination](/writing/places-of-the-imagination)<br>
+**🖹** [Mitosis of Minds](/writing/mitosis-of-minds)
 
 
 ## Cozyroom

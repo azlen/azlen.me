@@ -1,0 +1,29 @@
+---
+layout: default
+title: "Seeking the Fractal Edge Where Games and Learning Collide"
+subtitle: "(Essay written by GPT-3)"
+created: 2022-11-27
+---
+
+
+> Well firstly, let’s just recognize that it is indeed possible that the term “learning games” is an oxymoron; something so profoundly misshapen and ugly that no serious person would ever use it in earnest. The reason, simply, is that inherently some games are played to learn and inherently some learning is like a game. But if we have in mind that games are states of “playing” and if we have in mind that understanding is an act of playing, do all games then become learning games?
+
+To consider these things in isolation is to miss a unique opportunity, namely what happens to games when they collide with learning and, perhaps more importantly, what happens to learning when they collide with games. At the fractal edge where these two complex systems necessarily collide there may be a new world to be created, the shadow reality of their encounter.
+
+Learning is, in essence, a process moving in the wrong direction. If we understand learning as the way in which we “understand” (a.k.a. play), then only by subtracting knowledge can we allow ourselves to play more freely. It will be difficult to embrace this sort of inclusive definition of games and learning without losing ourselves in a sophistry driven, esoteric “free play” without any sought after end. To do so we would need to focus our interest on the edges, where game and learning intersect, not their oversaturated cores. This can be a difficult thing to reckon with, but if we refuse to take anything at face value, deeply explore into two neighboring systems, unlearning and relearning as we go, we might just start to touch the potential of generative group learning through collaboration and play.
+
+> Trying to learn things is hard. *Pretending* to learn them is fun.
+
+In considering play and games as a shared experience between learners, and using that as a basis for arriving upon new understandings and ways of being. We move closer to incorporating games’ magic into learning environments. Play helped me become interested in many new things, to look toward the future, to aspire to improve and try new things. I later realized that a huge part of play was the pretense of making.
+
+I believe most of us have known the power of games from an early age, but the sheer beauty and wildness of their potential gets lost along the way into well-worn grooves of solving math problems or interpreting literature in AP English class. If we’re to tap into the true potential of games we will need to let go of many of our normal assumptions, melt down even the basic tenants of how education works, and absolutely lose ourselves in the play of it all. If we can free ourselves to explore something new, just like a child would, then we may find our way to unlocking a particle something we’ve already forgotten we knew existed.
+
+Three maxims of exploration come to mind that should be accepted as code-highs on whatever plate we carry: the first; games are an emergent experience happening between people rather than a mechanism or system of rules. The second is that learning is contextual, subjective, and fluid; and the third; we are almost never able to hold onto a picture of reality for very long, as soon as we see it begins to slip from our fingers. These maxims should be used as a framework on which we can reframe our own experiences of games and learning, allowing for entirely new trajectories to appear out at the peripheral edges of our developing board.
+
+> Build on the power of play, don’t try to capture it.
+
+To approach generative group play, and the idea of a more specific new genre of learning games which can be useful in flexible classroom environments, one very useful thing is to dig into the games with the most learning potential: party games. One of the purposes of party games is to light the torch of human connection, get people collaborating and communicating, talking to one another and drawing closer. In large group games like Mafia party games are useful in creating random and unavoidable meaningful connections, generating organic hierarchies, and creating opportunities for everyone to get to talk and justify themselves at least once.
+
+A mistake commonly made when designing learning-based games is to try too hard to insert information or copy/paste some classroom work into a game setting. To make the learning both concrete and explicit, this may cause the whole endeavor to fall apart. If you know what the “objective” of the game is, if it’s overtly educational, then the player’s tendency is to find ways to shortcut their work or narrow in on some apparent solution. The game risks becoming banal, rote and totally devoid of learning.
+
+A solution to this dilemma as that is to focus on a deep tension-spotted collaborative boundary of where you can safely alienate and disorient just enough, so the players are forced to bridge the gap and restore their sense of groundedness through self-initiated genuine learning. After all, that is the principle of play; dip in and out of carefully constructed cognitive dissonance, start to build a true understanding of what the experience is and what it has to offer. A learning game designed this way is like a tiny rip in time-space, a physical object across which players pass; they have a starting premise and rules and a mandate to produce something in the end but it is not clear what exactly it will be. It is something wild, something janky and messy, something forged into completeness by the players taking things into their own hands. A beautiful crystal craftwork containing echoes of the entire messy creative process, strengthened and validated out of necessity and deep desire.
