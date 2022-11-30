@@ -420,3 +420,8 @@ select {
 .darkmode .invertable {
   filter: invert(1) hue-rotate(180deg);
 }
+
+hr {
+  margin: 10em 0;
+  opacity: 0.5;
+}
