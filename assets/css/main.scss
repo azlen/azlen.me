@@ -329,7 +329,11 @@ strong {
 blockquote {
   margin-left: 0;
   padding-left: 40px;
-  border-left: 3px solid var(--f_med)
+  border-left: 3px solid var(--f_med);
+}
+
+blockquote p {
+  opacity: 0.5;
 }
 
 .half {
