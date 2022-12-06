@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "Learning Games"
-subtitle: "Quick Ideas"
+subtitle: "Quick Ideas & Pattern Languages"
 created: 2022-11-28
 ---
 
-Here I will document ideas for learning games as well as learning-game design patterns.
+Here I will document ideas for learning games as well as learning-game design patterns. Keep in mind that any blockquotes are from exploratory process using GPT-3.
 
 # Patterns
 

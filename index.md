@@ -10,3 +10,5 @@ Dear fellow traveller, welcome to my little corner of the internet!
 
 Let me tell you a [story](/stories) <br>
 Or perhaps I should [introduce](/intro) myself first?
+
+(some major updates and new writing coming soon)
