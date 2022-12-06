@@ -14,6 +14,6 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 
 ![Jared ⁘ @jrdprr](/images/shoe-jared.jpg){.shoe}
 
-![Michael ⁘ @0xmcg](images/shoes-michael.png){.shoe}
+![Michael ⁘ @0xmcg](/images/shoes-michael.png){.shoe}
 
-![Jonas ⁘ @jmaaloe](images/shoes-jonas.png){.shoes}
+![Jonas ⁘ @jmaaloe](/images/shoes-jonas.png){.shoes}
