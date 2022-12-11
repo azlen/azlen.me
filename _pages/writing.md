@@ -18,7 +18,7 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 
 ## Future of Computing
 
-*Coming soon*
+*Coming soon!*
 
 
 ## Cities
