@@ -345,11 +345,13 @@ figure {
   position: relative;
 }
 
-.shoe {
+// only set max width/height if width is not defined
+// so that we can still overrule it easily if needed
+.shoe:not([width]), .gallery-item:not([width]) {
   max-width: 300px;
   max-height: 300px;
 }
-.shoe + figcaption {
+.shoe + figcaption, .gallery-item + figcaption {
   position: absolute;
   display: inline-block;
   width: auto !important;
@@ -360,13 +362,28 @@ figure {
   border: 1px solid #FFFFFF;
   padding: 0px 5px;
   font-size: 12pt;
+  text-align: left;
 
   font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
 
-.shoes figure {
+.shoes figure, .gallery figure {
   display: inline-block;
   margin: 0px 2rem 2rem 0px;
+}
+
+.gallery-item + figcaption {
+  opacity: 0;
+  transition: all .15s ease-out;
+  font-size: 0.8em;
+}
+.gallery-item:hover + figcaption, .gallery-item + figcaption:hover {
+  opacity: 1;
+}
+
+.date {
+  font-size: 0.7em;
+  opacity: 0.5;
 }
 
 dd {
