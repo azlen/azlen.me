@@ -5,8 +5,6 @@ title: "Newsletter"
 
 Want to subscribe to keep up-to-date?
 
-I'm starting a little newsletter!
-
 <script src='https://assets.scattergun.email/email_subscription_form.js'></script>
 
 <scattergun-subscription-form publishable-key='WHaYuX6YZ6NPJoDf'>
