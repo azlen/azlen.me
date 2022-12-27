@@ -18,3 +18,6 @@ created: 2022-12-11
 ![Iterative polishing of ideas<br>[2020/06/07]{.date}](/images/sketchbook-highlight-chain.png){.gallery-item .invertable}
 
 ![[2020/06/07]{.date}](/images/sketchbook-branching-refinement.png){.gallery-item .invertable}
+
+
+![Artifacts of peer-learning may take many forms<br>[2020/06/07]{.date}](/images/sketchbook-artifacts-of-many-forms.png){.gallery-item .invertable}
