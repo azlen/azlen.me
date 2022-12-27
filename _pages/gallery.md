@@ -17,7 +17,10 @@ Welcome to the *gallery*. Here you will find a collection of screenshots, drawin
 [ ] Pixel art editor (old)
 [ ] Embol game
 [ ] Embol-inspired text adventure game
-[ ] 
+[ ] Colour picker
+[ ]
+
+How best to add videos/gifs to this page?
 
 -->
 
