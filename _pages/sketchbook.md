@@ -21,3 +21,5 @@ created: 2022-12-11
 
 
 ![Artifacts of peer-learning may take many forms<br>[2020/06/07]{.date}](/images/sketchbook-artifacts-of-many-forms.png){.gallery-item .invertable}
+
+![Teaching peers vs. teaching audience<br>[2020/06/07]{.date}](/images/sketchbook-teaching-peers-and-audience.png){.gallery-item .invertable}
