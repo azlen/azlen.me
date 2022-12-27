@@ -13,6 +13,10 @@ created: 2022-12-11
 ![Traversing structuredness<br>[2022/12/10]{.date}](/images/sketchbook-traversing-structuredness.png){.gallery-item}
 
 ![Urban-linguistic density analogy<br>[2021/10/23]{.date}](/images/sketchbook-density-of-space.png){.gallery-item width=400}
+<!-- https://twitter.com/azlenelza/status/1457144931907039235?s=20&t=9RyAmOluzXpHpo74JVcpDA -->
+
+![[Divergent vs. convergent spaces](https://twitter.com/azlenelza/status/1457144931907039235?s=20&t=9RyAmOluzXpHpo74JVcpDA)<br>[2021/11/06]{.date}](/images/sketchbook-divergent-spaces.png){.gallery-item}
+
 <!-- https://twitter.com/azlenelza/status/1269696508804268032?s=20&t=Y0MaJbxgPGkKNKHVkcudlA -->
 
 ![Iterative polishing of ideas<br>[2020/06/07]{.date}](/images/sketchbook-highlight-chain.png){.gallery-item .invertable}
