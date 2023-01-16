@@ -10,14 +10,14 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 
 <div class="shoes">
 
-![Azlen ⁘ @azlenelza]({{ "/images/shoes-azlen.jpg" | resize: "300x300>" }}){.shoe}
+![Azlen ⁘ @azlenelza]({{ "_pages/images/shoes-azlen.jpg" | resize: "300x300>" }}){.shoe}
 
-![Jared ⁘ @jrdprr]({{ "/images/shoe-jared.jpg" | resize: "300x300>" }}){.shoe}
+![Jared ⁘ @jrdprr]({{ "_pages/images/shoe-jared.jpg" | resize: "300x300>" }}){.shoe}
 
-![Michael ⁘ @0xmcg]({{ "/images/shoes-michael.png" | resize: "300x300>" }}){.shoe}
+![Michael ⁘ @0xmcg]({{ "_pages/images/shoes-michael.png" | resize: "300x300>" }}){.shoe}
 
-![Jonas ⁘ @jmaaloe]({{ "/images/shoes-jonas.png" | resize: "300x300>" }}){.shoe}
+![Jonas ⁘ @jmaaloe]({{ "_pages/images/shoes-jonas.png" | resize: "300x300>" }}){.shoe}
 
-![Spencer ⁘ @spencerc99]({{ "/images/shoes-spencer.png" | resize: "300x300>" }}){.shoe}
+![Spencer ⁘ @spencerc99]({{ "_pages/images/shoes-spencer.png" | resize: "300x300>" }}){.shoe}
 
-![David ⁘ @dkim]({{ "/images/shoe-dkim.png" | resize: "300x300>" }}){.shoe}
+![David ⁘ @dkim]({{ "_pages/images/shoe-dkim.png" | resize: "300x300>" }}){.shoe}

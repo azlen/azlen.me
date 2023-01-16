@@ -1,4 +1,5 @@
 url: "https://azlen.me"
+baseurl: ""
 plugins:
   - jekyll-pandoc
   - jekyll-twitter-plugin
@@ -6,6 +7,7 @@ plugins:
   - jekyll-scholar
   - jekyll-last-modified-at
   - jekyll-sitemap
+  - jekyll-resize
 
 markdown: Pandoc
 pandoc:
