@@ -1,9 +1,11 @@
+url: "https://azlen.me"
 plugins:
   - jekyll-pandoc
   - jekyll-twitter-plugin
   - jekyll-mentions
   - jekyll-scholar
   - jekyll-last-modified-at
+  - jekyll-sitemap
 
 markdown: Pandoc
 pandoc:
