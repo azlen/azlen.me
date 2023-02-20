@@ -11,10 +11,15 @@
 
 <title>{{ page.title }}</title>
 
-<!-- fonts-->
-<link rel="stylesheet" href="https://use.typekit.net/sxc6rjm.css">
+<!-- favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 
-<!-- TODO(jez): canonical URL -->
+<!-- fonts -->
+<!-- <link rel="stylesheet" href="https://use.typekit.net/sxc6rjm.css"> -->
+
 <!-- OpenGraph tags -->
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:description" content="{{ page.description | default: '' }}">
@@ -54,5 +59,6 @@
   {% endfor %}
 {% endif %}
 
-<!-- snow, if you want -->
-<!-- <script src="https://app.embed.im/snow.js" defer></script> -->
+{% if page.id == "/newsletter" %}
+  <script src='https://assets.scattergun.email/email_subscription_form.js'></script>
+{% endif %}

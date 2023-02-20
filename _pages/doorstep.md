@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Doorstep"
+image: "/images/background-doorstep.png"
 created: 2021-10-24
 ---
 
@@ -21,3 +22,5 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 ![Spencer ⁘ @spencerc99]({{ "_pages/images/shoes-spencer.png" | resize: "300x300>" }}){.shoe}
 
 ![David ⁘ @dkim]({{ "_pages/images/shoe-dkim.png" | resize: "300x300>" }}){.shoe}
+
+![Maxime ⁘ @vmaxmc2]({{ "_pages/images/shoes-maxime.png" | resize: "300x300>" }}){.shoe}

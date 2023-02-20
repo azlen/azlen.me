@@ -8,6 +8,7 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-sitemap
   - jekyll-resize
+  - jekyll-timeago
 
 markdown: Pandoc
 pandoc:
@@ -41,4 +42,7 @@ jekyll-mentions:
   base_url: https://twitter.com
 
 last-modified-at:
-    date-format: '%Y-%m-%d'
+  date-format: '%Y-%m-%d'
+
+jekyll_timeago:
+  depth: 1

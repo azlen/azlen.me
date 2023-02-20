@@ -11,6 +11,7 @@ gem "jekyll-scholar"
 gem "jekyll-resize", git: "https://github.com/MichaelCurrin/jekyll-resize"
 gem "jekyll-last-modified-at"
 gem "jekyll-sitemap"
+gem "jekyll-timeago"
 
 # fixes an issue w/ jekyll
 gem "webrick", "~> 1.7"

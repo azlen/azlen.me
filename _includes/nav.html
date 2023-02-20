@@ -1,7 +1,18 @@
 <nav class="sidepanel">
-    <a class="logo" href="/">
+    <a class="logo" href="/"
+    onmouseenter="this.querySelector('#MASK > image').setAttribute('xlink:href', '/assets/100x-line-in.gif?v=' + String(Math.random()).slice(2))"
+    onmouseleave="this.querySelector('#MASK > image').setAttribute('xlink:href', '/assets/100x-line-out-noloop.gif?v=' + String(Math.random()).slice(2))">
         <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path fill="black" d="M25.3465 50.0032L0 50.0032V25.0036C0 11.1969 11.1926 0.00458489 24.9993 0.00459385C38.5155 0.00460261 49.5264 10.7311 49.9839 24.1358H50.0082C50.227 17.8194 52.8319 11.8072 57.3162 7.32293C62.0049 2.63414 68.3643 0 74.9953 0C81.6262 0 87.9856 2.63414 92.6744 7.32293C97.3631 12.0117 99.9973 18.3711 99.9973 25.002C99.9973 31.633 97.3631 37.9924 92.6744 42.6811C88.0344 47.321 81.7586 49.9489 75.2026 50.0032H99.9973V75.0028C99.9973 88.8095 88.8047 100.002 74.998 100.002C61.1912 100.002 49.9986 88.8093 49.9986 75.0025V73.7846H49.9689C49.9887 74.1896 49.9986 74.596 49.9986 75.0034C49.9986 81.6336 47.3648 87.9923 42.6765 92.6806C37.9882 97.3689 31.6296 100.003 24.9993 100.003C18.3691 100.003 12.0104 97.3689 7.32213 92.6806C2.63384 87.9923 0 81.6336 0 75.0034C0 68.3732 2.63384 62.0145 7.32213 57.3262C12.0104 52.6379 18.3691 50.0041 24.9993 50.0041C25.1151 50.0041 25.2309 50.0049 25.3465 50.0065V50.0032Z" />
+            <defs>
+                <mask id="MASK" maskunits="userSpaceOnUse"
+                            maskcontentunits="userSpaceOnUse">
+                    <image 
+                    xlink:href="/assets/blank-100x.png" 
+                    height="100%"
+                    width="100%"/>
+                </mask>      
+            </defs>
+            <path mask="url(#MASK)" fill="black" d="M25.3465 50.0032L0 50.0032V25.0036C0 11.1969 11.1926 0.00458489 24.9993 0.00459385C38.5155 0.00460261 49.5264 10.7311 49.9839 24.1358H50.0082C50.227 17.8194 52.8319 11.8072 57.3162 7.32293C62.0049 2.63414 68.3643 0 74.9953 0C81.6262 0 87.9856 2.63414 92.6744 7.32293C97.3631 12.0117 99.9973 18.3711 99.9973 25.002C99.9973 31.633 97.3631 37.9924 92.6744 42.6811C88.0344 47.321 81.7586 49.9489 75.2026 50.0032H99.9973V75.0028C99.9973 88.8095 88.8047 100.002 74.998 100.002C61.1912 100.002 49.9986 88.8093 49.9986 75.0025V73.7846H49.9689C49.9887 74.1896 49.9986 74.596 49.9986 75.0034C49.9986 81.6336 47.3648 87.9923 42.6765 92.6806C37.9882 97.3689 31.6296 100.003 24.9993 100.003C18.3691 100.003 12.0104 97.3689 7.32213 92.6806C2.63384 87.9923 0 81.6336 0 75.0034C0 68.3732 2.63384 62.0145 7.32213 57.3262C12.0104 52.6379 18.3691 50.0041 24.9993 50.0041C25.1151 50.0041 25.2309 50.0049 25.3465 50.0065V50.0032Z" />
         </svg>
     </a>
 
@@ -13,19 +24,46 @@
             </g>
         </svg>
 
-        <select id="theme-picker" onchange="loadTheme(this.value)" value="">
+        <select id="theme-picker" onchange="loadTheme(this.value)" value="" tabindex="0">
             <!-- <noscript>
                 <option disabled>You must have javascript enabled to select themes</option>
             </noscript> -->
-            <option value="" selected disabled>Colour Themes</option>
-            <option value="lightcrimson">Light</option>
-            <option value="halloween">Dark</option>
-            <option disabled>—</option>
-            <option value="gameboy">Gameboy Green</option>
-            <option value="mahou">Pinkish Calm</option>
-            <option value="commodark">Business Blueberry</option>
+            <option value="" selected disabled style="display: none"></option>
+            <option value="" disabled>Colour Themes</option>
+            <option value="lightcrimson">⚪ Light</option>
+            <option value="darktest">⚫ Dark</option>
+            <option disabled>　</option>
+            <option value="" disabled style="display: none"></option>
+            <option value="gameboy">🐍 Gameboy Green</option>
+            <option value="mahou">🌸 Pinkish Calm</option>
+            <option value="commodark">🫐 Business Blueberry</option>
+            <!-- <option value="test">🫧 test!!</option> -->
         </select>
     </label>
+
+    <label for="link-picker">
+        <svg viewBox="0 0 75 75" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: scale(1.15)">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M51.557 43.1005C51.429 43.2285 51.3668 43.4074 51.3804 43.5879C51.5888 46.3385 50.6413 49.1603 48.5377 51.2639L37.2399 62.5616C33.412 66.3895 27.2058 66.3895 23.3779 62.5616C19.5501 58.7338 19.5501 52.5275 23.378 48.6997L34.6757 37.4019C36.3437 35.7339 38.4632 34.7928 40.6408 34.5784C40.7835 34.5643 40.9181 34.5033 41.0195 34.4019L46.7304 28.691C47.0423 28.3791 46.9213 27.8503 46.4981 27.726C40.6194 26.0002 34.005 27.4561 29.3675 32.0936L18.0697 43.3914C11.3101 50.1509 11.3101 61.1104 18.0697 67.8699C24.8292 74.6295 35.7886 74.6295 42.5482 67.8699L53.846 56.5721C58.8521 51.5661 60.1507 44.2565 57.7418 38.0553C57.5896 37.6635 57.0874 37.5702 56.7902 37.8674L51.557 43.1005Z" fill="black"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M53.5426 26.2399L42.2448 37.5377C40.5144 39.2681 38.298 40.2163 36.035 40.3822C35.8866 40.3931 35.746 40.4547 35.6407 40.5599L30.0072 46.1935C29.6973 46.5034 29.8144 47.0287 30.2335 47.1569C36.159 48.9703 42.8658 47.5333 47.5531 42.846L58.8509 31.5482C65.6104 24.7886 65.6104 13.8292 58.8509 7.06967C52.0913 0.310112 41.1319 0.310108 34.3723 7.06967L23.0746 18.3675C18.1089 23.3331 16.7911 30.5653 19.1211 36.734C19.2704 37.1293 19.7756 37.2255 20.0745 36.9267L25.3508 31.6504C25.476 31.5251 25.5385 31.3511 25.5283 31.1743C25.373 28.4801 26.3245 25.7341 28.3828 23.6757L39.6806 12.3779C43.5085 8.55007 49.7147 8.55007 53.5426 12.378C57.3705 16.2058 57.3705 22.412 53.5426 26.2399Z" fill="black"/>
+        </svg>
+            
+
+        <select id="link-picker" onchange="location = this.value" value="" tabindex="0">
+            <option value="" selected disabled style="display: none"></option>
+            <option value="" disabled>Social Links</option>
+            <option value="https://twitter.com/azlenelza">🐦 Twitter</option>
+            <option value="https://youtube.com/@azlenelza">📺 Youtube</option>
+            {% comment %}<option value="https://www.twitch.tv/azlenelza">🎙 Twitch</option>{% endcomment %}
+            <option value="/newsletter">🗞️ Newsletter</option>
+            <option value="" disabled>　</option>
+            <option value="" disabled>Support</option>
+            <option value="https://ko-fi.com/azlen/tiers">❤️ Donate</option>
+            {% comment %}<option value="https://paypal.me/azlenelza">🅿️ Paypal</option>{% endcomment %}
+        </select>
+    </label>
+
+    
+        
 
     
 
@@ -53,7 +91,7 @@
     </a> -->
     {% endcomment %}
 
-    <a href="http://ko-fi.com/azlen/tiers" target="_blank">
+    <a href="https://ko-fi.com/azlen/tiers" target="_blank">
         <svg viewBox="0 0 14 13" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-top:2px">
             <path d="M1.48438 6.67188L6.875 12.0625L12.2656 6.67188C13.6204 5.31705 13.6204 3.12045 12.2656 1.76562C10.9108 0.410801 8.7142 0.410802 7.35937 1.76563L6.875 2.25L6.39063 1.76563C5.0358 0.410802 2.8392 0.410801 1.48438 1.76562C0.129551 3.12045 0.129551 5.31705 1.48438 6.67188Z" fill="black"/>
         </svg>

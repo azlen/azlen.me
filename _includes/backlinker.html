@@ -1,0 +1,8 @@
+{% assign backlink_count = 0 %}
+{% for note in site.pages %}
+        {% if note.url != page.url %}
+            {% if note.content contains page.id %}
+                {% assign backlink_count = link_count | plus:1 %}
+            {% endif %}
+    {% endif %}
+{% endfor %}

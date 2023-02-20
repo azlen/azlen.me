@@ -26,4 +26,4 @@ In such a world, the constraints holding languages together as large slowly evol
 
 Whatever AI might be: a teacher-in-a-box, a personal therapist, assistant, or collaborator, it is above all, *a translator*. Almost every use of AI-as-a-tool involves translation of some kind. That device I describe, it already exists (in a primitive way at least, like the first stone tools of a new way of seeing.) Already we are starting to use it to translate complex topics into explanations that we can understand, or translate thoughts into code, or into new kinds of imagery. The walls between us, our mediums, and each other are falling apart in slow-motion.
 
-But things are starting to speed up.
+*But things are starting to speed up.*

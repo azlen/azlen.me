@@ -30,12 +30,22 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 ## Education
 **Quick Ideas**: [Micro Learning Futures](/quick-ideas/learning)
 
-**🗐** [Digital Spaces Blog Club](/writing/digital-spaces-blog-club)<span class="new"></span><br> 
-<span class="arrow"></span> **🖹** [What makes a campus?](/writing/what-makes-a-campus/1/) (1/2)<br>
-<span class="arrow"></span> **🖹** [What makes a campus?](/writing/what-makes-a-campus/2/) (2/2)<br>
-<span class="arrow"></span>  **🖹** [Cyberspace to cyberplace](/writing/cyberspace-to-cyberplace)<br>
-<span class="arrow"></span>  **🖹** [Places of the imagination](/writing/places-of-the-imagination)<br>
-**🖹** [Mitosis of Minds](/writing/mitosis-of-minds)
+{% comment %}
+📃 📄 📑 🗒 📝 🔍 ✉️ 📩 📨 📧 💌 💡 ⭐ 🌟 ✨
+📺 video
+🎙 💿 📀 audio
+📷 📸 photos
+📁
+
+<span class="new"></span>
+{% endcomment %}
+
+**🕸** [Digital Spaces Blog Club](/writing/digital-spaces-blog-club)<br> 
+<span class="arrow"></span> **🗒** [What makes a campus?](/writing/what-makes-a-campus/1/) (1/2)<br>
+<span class="arrow"></span> **📄** [What makes a campus?](/writing/what-makes-a-campus/2/) (2/2)<br>
+<span class="arrow"></span>  **📄** [Cyberspace to cyberplace](/writing/cyberspace-to-cyberplace)<br>
+<span class="arrow"></span>  **📄** [Places of the imagination](/writing/places-of-the-imagination)<br>
+**📄** [Mitosis of Minds](/writing/mitosis-of-minds)
 
 
 ## Cozyroom

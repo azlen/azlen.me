@@ -5,7 +5,7 @@ description: "Exploring the form and metaphors behind the design of the cities a
 created: 2020-04-30
 ---
 
-*If a designer takes inspiration from nature on form alone, they will design for you a plastic plant. An object which looks like the real thing with none of its function, destined for the landfill where it will destroy that which inspired it. However, if this same designer took inspiration instead from the systems of nature, they might design something which grows, something that is self-sustaining, something that doesn't end up in that landfill but instead is repurposed or "decomposed" in some form. The world, unfortunately, is full of plastic plants.*
+*If a designer takes inspiration from nature on form alone, they will design for you a plastic plant— an object which looks like the real thing with none of its function, destined for the landfill where it will destroy that which inspired it. However, if this same designer took inspiration instead from the systems of nature, they might design something which grows, something that is self-sustaining, something that doesn't end up in that landfill but instead is repurposed or "decomposed" in some form. The world, unfortunately, is full of plastic plants.*
 
 ## Part 1: Form
 *And the metaphor of the "city as an organism"*
@@ -26,7 +26,7 @@ When I look upon this image I do not get the feeling of anything "alive" about t
 
 > "Le Corbusier's utopian radiant city of highways and high-density tower blocks became a widely imitated formula for post-war residential development by public and private sector builders. A corporate urban landscape, the product of an increasingly corporate society" **(Ley, 1987)**
 
-## Part II: Systems + Sustainability
+## Part 2: Systems + Sustainability
 *And the application of ecological thinking*
 
 In *On the Origin of Species*, Charles Darwin provided overwhelming amounts of evidence to back up the claims of evolution. The book represented a widespread shift away from the religious beliefs surrounding species at the time. Around the same time, cities underwent a similar shift but in the opposite direction away from a city which evolves to one that is planned, bringing the birth of urban planning as a formal discipline.
@@ -45,7 +45,7 @@ Now you may be thinking, why then all these rules? If ecological thinking and de
 
 I give these examples from Capra, Sterling, and Alexander because they are not in fact rules at all but frames of mind. A rule can be applied without consideration, but a frame of mind is a way of being, questioning, and looking at the world. Rules are easy to teach, but a frame of mind has to be lived. History is full of modernist, postmodernist, high-tech, modern, and contemporary architecture; however if these perspectives are embodied by architects and urban planners then at last we will move into a new era which I would call, humanist.
 
-## Part III: Case Study
+## Part 3: Case Study
 
 Beneath my feet stands one of the most prime examples to demonstrate not only post-modern architecture as a result of ecological thinking, but also its opposite, modern economically driven development taking inspiration from the ideals of Le Corbusier. At the very heart of Vancouver, the battle ground where these two approaches glare face to face, across an inlet but a world apart: False Creek North, and False Creek South.
 

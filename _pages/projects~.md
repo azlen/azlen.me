@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Projects"
+published: false
 ---
 
 [ UNDER CONSTRUCTION ]

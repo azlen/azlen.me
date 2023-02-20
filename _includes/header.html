@@ -1,13 +1,32 @@
+{% comment %}
+<!-- {% if page.image %}
+  <img class="header-image lighten" src="{{ page.image}}" />
+  <img class="header-image darken" src="{{ page.image}}" />
+{% endif %} -->
+{% endcomment %}
+
 {% if page.title %}
-  <header>
-    <h1 class="title">{{ page.title }}</h1>
-    {% if page.subtitle %}
-      <p class="subtitle">{{ page.subtitle }}</p>
-    {% endif %}
-    {% if page.date %}
-      <!-- <p class="byline">{{ page.date | date: '——%Y——%m——%d——'}}</p> -->
-      <p class="byline">{{ page.date | date: '——%Y/%m/%d——'}}</p>
-    {% endif %}
-  </header>
+  {% assign title_length = page.title | size %}
+  {% if title_length > 0 %}
+    <header>
+      <h1 class="title">{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+
+      {% include backlinker.html %}
+
+      <p class="page-date">
+        Last updated {{ page.last_modified_at | timeago }}
+        {% if backlink_count > 1 %}
+          {% assign s = "" %}
+          {% if backlink_count > 1 %}
+            {% assign s = "s" %}
+          {% endif %}
+          — {{ backlink_count }} backlink{{ s }}
+        {% endif %}
+      </p>
+    </header>
+  {% endif %}
 {% endif %}
 

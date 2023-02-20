@@ -11,11 +11,30 @@ _This post is a broad exploration, it doesn't have a single central goal or thes
 
 First of all, what is a place?
 
-> "a place is generally a space with something added—social meaning, convention, cultural understanding of role, function, nature, and so on" (Harrison and Dourish, 1996)
+
+{% assign title = "Re-Place-ing Space: The Roles of Place and Space in Collaborative Systems" %}
+{% assign text = "a place is generally a space with something added—social meaning, convention, cultural understanding of role, function, nature, and so on" %}
+{% assign author = "Harrison and Dourish" %}
+{% assign link = "/refs/harrison1996.pdf" %}
+<blockquote class="quoteback" data-title="{{ title }}" data-author="{{ name }}" cite="{{ link }}">
+	{{ text }}
+	<footer>
+		{{ name }}
+		<cite> <a href="{{ link }}">{{ link }}</a></cite>
+	</footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 And in the same paper they come back to the idea from a different framing:
 
-> "space is the opportunity, place is the understood reality"
+{% assign text = '“space is the opportunity, place is the understood reality”' %}
+<blockquote class="quoteback repeated" data-title="{{ title }}" data-author="{{ name }}" cite="{{ link }}">
+	{{ text }}
+	<footer>
+		{{ name }}
+		<cite> <a href="{{ link }}">{{ link }}</a></cite>
+	</footer>
+</blockquote>
 
 For example, a house is a "space" but a _home_ is a "place" — the idea of _home_ is more than just a space with a roof, walls and furniture but rather exists with layers of meaning: emotional connection, memories, and spaces you've personalized and made very much your own. People carve places out of spaces.
 
