@@ -1,6 +1,7 @@
 ---
 layout: index
 title: ""
+hide_last_modified: true
 ---
 
 Hey, I'm Azlen!
