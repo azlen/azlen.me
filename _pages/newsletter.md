@@ -1,9 +1,12 @@
 ---
 layout: default
 title: "Newsletter"
+hide_last_modified: true
 ---
 
 *The rhythmic sound of a printing press and the smell of freshly inked e-paper, you step into the newsroom full of pneumatic tubes primed and ready for sending occasional dispatches over the intricate pipe-network of cyberspace.*
+
+If you'd like to stay in-the-loop with my research and experiments, I've decided to start a little newsletter[^promise]:
 
 <style>
 	form {
@@ -48,3 +51,5 @@ title: "Newsletter"
 	</template>
 	<input type='email' placeholder="your@email.address" name='mailing_lists_subscriber[email]'/><input type='submit' value='Subscribe!'/>
 </scattergun-subscription-form>
+
+[^promise]: *I promise not to send emails too often!* Just the occasional dispatch, lab notes, or longer essays that I publish

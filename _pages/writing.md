@@ -24,7 +24,7 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 ## Cities
 **Quick Ideas**: [City Fragments](/quick-ideas/cities)
 
-**🖹** [Meta-form: Cities, Metaphors, and Sustainability](/writing/meta-form)
+- [Meta-form: Cities, Metaphors, and Sustainability](/writing/meta-form)
 
 
 ## Education
@@ -37,30 +37,32 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 📷 📸 photos
 📁
 
+<span class="arrow"></span> **📄** [
+
 <span class="new"></span>
 {% endcomment %}
 
-**🕸** [Digital Spaces Blog Club](/writing/digital-spaces-blog-club)<br> 
-<span class="arrow"></span> **🗒** [What makes a campus?](/writing/what-makes-a-campus/1/) (1/2)<br>
-<span class="arrow"></span> **📄** [What makes a campus?](/writing/what-makes-a-campus/2/) (2/2)<br>
-<span class="arrow"></span>  **📄** [Cyberspace to cyberplace](/writing/cyberspace-to-cyberplace)<br>
-<span class="arrow"></span>  **📄** [Places of the imagination](/writing/places-of-the-imagination)<br>
-**📄** [Mitosis of Minds](/writing/mitosis-of-minds)
+- [Digital Spaces Blog Club](/writing/digital-spaces-blog-club)
+	- [What makes a campus?](/writing/what-makes-a-campus/1/) (1/2)
+	- [What makes a campus?](/writing/what-makes-a-campus/2/) (2/2)
+	- [Cyberspace to cyberplace](/writing/cyberspace-to-cyberplace)
+	- [Places of the imagination](/writing/places-of-the-imagination)
+	- [Mitosis of Minds](/writing/mitosis-of-minds)
 
 
 ## Cozyroom
 **Quick Ideas**: [Cozyroom Quick Ideas](/quick-ideas/cozyroom)
 
-**🖹** [Modding Staircase](/quick-ideas/cozyroom#81) (Quick Idea #81)
+- [Modding Staircase](/quick-ideas/cozyroom#81) (Quick Idea #81)
 
 
 ## Linguistics
 **Quick Ideas**: [A Shot of Morpheme](/quick-ideas/linguistics)
 
-**🖹** [Architecture of Writing](/writing/architecture-of-writing)<br>
-**🖹** [Writing as distilled thought](/writing/writing-as-distilled-thought)
+- [Architecture of Writing](/writing/architecture-of-writing)
+- [Writing as distilled thought](/writing/writing-as-distilled-thought)
 
-
+{% comment %}
 <!-- {% capture numposts %}{{ site.posts | size }}{% endcapture %}
 {% if numposts != '0' %}
 ## Talks by Year
@@ -70,3 +72,4 @@ And, inspired by [Keita's Quick Ideas](https://www.glitchthegame.com/oddsandends
 {% assign prevyear = currentyear %}{% endif %} - [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: '%B %-d' }}
 {% endfor %}
 {% endif %} -->
+{% endcomment %}

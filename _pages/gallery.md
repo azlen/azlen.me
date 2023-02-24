@@ -10,6 +10,10 @@ Welcome to the *gallery*. Here you will find a collection of screenshots, drawin
 
 <div class="gallery">
 
+{% comment %}
+![The shape of questions<br>[2022/12/13]{.date}](/images/sketchbook-question-paths.png){.gallery-item}
+{% endcomment %}
+
 <!--
 
 [ ] Text scrolling

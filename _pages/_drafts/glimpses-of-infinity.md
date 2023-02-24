@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Untitled Digital Materials"
+title: "Glimpses of Infinity"
 created: 2023-02-05
 ---
 
@@ -24,13 +24,19 @@ Computers turned out to be so useful in fact, that they’ve seeped into every a
 
 It is like learning, upon understanding the concept of infinity, that there are different levels of infinity. Bigger infinities. So if I were to look upon computing, the internet, software, every tool, every moment of wonder, every drop of creativity that people channel through their screens, and if I were to say to you dear reader, “this, all this, is only a fraction of what is possible”, then you’ll respond “prove it”, and then I shrug and say “I’m trying” and that’s that.
 
-If only such a statement could be proved just like we can prove the different levels of infinity, or those little geometric proofs for the pythagorean theorem from a single image.
+One of my biggest roadblocks along this journey has been to communicate my vision. Because I often think of writing as a kind of distilled thought, so I ought, then, to be able to distill my thoughts into writing. With such a vision, I can only ever catch glimpses of it — yet my desire is to write about it in its totality. Of course, the answer clearly is to try to capture those glimpses — through both writing and interactive experiments, and to hope that these may build the puzzle pieces of a shared vision, a shared *discussion* about the future of computing and our place within it. To accept that it is something that can never truly be captured because it is constantly shifting and morphing at the peripheries of our shared imagination.
+
+And so that is what I shall do. Taking up the pen not as a tool for persuasion, but as a mental camera pointed inwards to capture small glimpses of a world which we, hopefully, may build together.
 
 
-One of my biggest roadblocks along this journey has been to communicate my vision. Because I often think of writing as a kind of distilled thought, so I ought, then, to be able to distill my thoughts into writing. With such a vision, I can only ever catch glimpses of it — yet my desire is to write about it in its totality.
 
-I dream of a world in which everyone has agency, has control over their experience with computers, and the interfaces which they use. This of course, would be of little consequence to many people — but everybody, whether by trickle-down effects or as an active participant would benefit from it.
 
+
+- Let’s use the language of code to bring us closer to the language of poetry
+- And that is why I disagree so strongly with the notion that software and tools ought to be as simple as possible — because simplification means removing choice, and choice is the power of agency. We need to remember that tools and software can be simple and intuitive, but also powerful and expressive — the marriage of the two is what opens the door for our exploration.
+- Let us move beyond the world of one-size-fits-all-software, and let us explore the possibilities of crafting tools, and building experiences, just as beautiful and meaningful as the stories we tell around a campfire.
+
+I dream of a world in which everyone has agency, has control over their experience with computers, and the interfaces which they use. A world in which software is something more than a collection of endless menus and windows, something that can be interacted with in creative and meaningful ways. Let us move beyond the world of one-size-fits-all-software, and let us explore the possibilities of crafting tools, and building experiences, just as beautiful and meaningful as the stories we tell around a campfire. Let’s use the language of code to bring us closer to the language of poetry.
 
 
 [^tft]: I often see much of the "tools for thought" space as misguided as it focuses so much on optimizing how we capture thoughts and exerts little effort into the computer can be a powerful collaborator in crafting creative artifacts. Do you want to sit in front of a computer thinking all day long, or turning thoughts into action? Tools for thought often sacrifices the latter.

@@ -16,16 +16,25 @@
 
       {% include backlinker.html %}
 
-      <p class="page-date">
-        Last updated {{ page.last_modified_at | timeago }}
-        {% if backlink_count > 1 %}
-          {% assign s = "" %}
+      {% if page.hide_last_modified %}
+          <style>
+            header + p {
+              margin-top: -23px;
+            }
+          </style>
+      {% else %}
+        <p class="page-date">
+          Last updated {{ page.last_modified_at | timeago }}
+
           {% if backlink_count > 1 %}
-            {% assign s = "s" %}
+            {% assign s = "" %}
+            {% if backlink_count > 1 %}
+              {% assign s = "s" %}
+            {% endif %}
+            — {{ backlink_count }} backlink{{ s }}
           {% endif %}
-          — {{ backlink_count }} backlink{{ s }}
-        {% endif %}
-      </p>
+        </p>
+      {% endif %}
     </header>
   {% endif %}
 {% endif %}
