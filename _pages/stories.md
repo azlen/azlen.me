@@ -5,7 +5,7 @@ title: "Musings on Jigsaw Worlds"
 
 These are my experiments in [applied science fiction](/applied-science-fiction), writing design-fictions as a kind of [bottom up design](/bottom-up-design) exploration of possible futures.  
 
-*Fiction* [^1] helps to ground my thoughts and designs in human experience and to consider aspects of the mind, perception, and interaction that I might not otherwise have considered.
+*Fiction*[^1] helps to ground my thoughts and designs in human experience and to consider aspects of the mind, perception, and interaction that I might not otherwise have considered.
 
 [^1]: If you'd prefer non-fiction, hop on over to my [design journal](/writing) for more thoughts and design explorations
 

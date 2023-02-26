@@ -10,10 +10,12 @@
   "pandoc-solarized"
 ;
 
-* {
-  // font-family: baskerville-urw, serif;
-  // font-family: mvb-verdigris-pro-serif, serif;
-  // font-family: 'jaf-lapture-display';
+@font-face {
+  font-family: 'LHF Corrie';
+  src:  url('/assets/fonts/corrie/regular.woff2') format('woff2'),
+        url('/assets/fonts/corrie/regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 html {
@@ -34,11 +36,7 @@ article {
 }
 
 h1, h2, h3, h4, h5, .subtitle {
-  font-family: 'jaf-lapture';
-  font-family: "BilboINC";
-  font-family: "LHF Sofia Script";
-  font-family: "LHF Corrie";
-  // font-style: italic;
+  font-family: "LHF Corrie", "jaf-lapture", "et-book", serif;
   font-style: normal !important;
   color: var(--f_med);
 
@@ -79,7 +77,7 @@ p.subtitle {
 
 a:not(.no-link-style):link {
   position: relative;
-  font-family: 'jaf-lapture';
+  font-family: 'jaf-lapture', 'et-book';
   font-style: italic;
 
   text-decoration: none;
@@ -253,8 +251,8 @@ nav > * {
 }
 .sidenote-number::after, .sidenote::before {
   font-size: 0.6rem;
-  top: -0.8rem;
-  font-family: "Dank Mono", "Firacode", monospace;
+  top: -0.884rem;
+  font-family: monospace;
   font-weight: bold;
   left: 0;
 }
@@ -267,7 +265,7 @@ nav > * {
   height: 14px;
   border-radius: 50px;
   color: var(--f_med);
-  font-family: "Dank Mono", "Firacode", monospace;
+  font-family: monospace;
   text-align: center;
   box-sizing: border-box;
 }
@@ -476,7 +474,7 @@ figcaption {
 // }
 
 strong {
-  font-family: "jaf-lapture";
+  font-family: "jaf-lapture", 'et-book';
   font-size: 19px;
 }
 

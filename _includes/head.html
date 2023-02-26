@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="pandoc">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<meta name="author" content="{{ site.author }}">
+<meta name="author" content="Azlen Elza">
 {% if page.date %}
 <meta name="dcterms.date" content="{{ page.date }}">
 {% endif %}
@@ -10,6 +10,7 @@
 {% endif %}
 
 <title>{{ page.title }}</title>
+<meta name="description" content="{{ page.description | default: '' }}">
 
 <!-- favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -18,7 +19,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <!-- fonts -->
-<!-- <link rel="stylesheet" href="https://use.typekit.net/sxc6rjm.css"> -->
+<link rel="stylesheet" href="https://use.typekit.net/sxc6rjm.css">
 
 <!-- OpenGraph tags -->
 <meta property="og:title" content="{{ page.title }}">
