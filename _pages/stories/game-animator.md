@@ -18,7 +18,7 @@ As I'm mid-swipe pushing aside the colour interface I decide that I might want t
 
 The keyframe editor...
 
-RIght! I slide the keyframe editor back into the space to play around with the animation. I want the animation to have a bit more of a bounce or elasticity to it. In fact — I know just the thing. Clicking on the browser icon in the top-right edge-bar I start typing the name of a particular creature I remember from "Shadow Mop III: The Swiffer Sniffer" (a stealth clean-em-up) that has the exact kind of bouncy animation I need. Pulling the animation out of the browser panel it becomes a floating panel itself which I place beside the keyframe editor as reference.
+Right! I slide the keyframe editor back into the space to play around with the animation. I want the animation to have a bit more of a bounce or elasticity to it. In fact — I know just the thing. Clicking on the browser icon in the top-right edge-bar I start typing the name of a particular creature I remember from "Shadow Mop III: The Swiffer Sniffer" (a stealth clean-em-up) that has the exact kind of bouncy animation I need. Pulling the animation out of the browser panel it becomes a floating panel itself which I place beside the keyframe editor as reference.
 
 While finessing the curves I notice the mop's eyes and eyebrows "lag behind" a bit in the fastest parts of the animation. I switch the animation into frame-view to take a closer look at how they do it and tweak my own keyframes to create a similar effect. That looks nice! and it solves the problem about the eyes. It's very subtle but gives a kind of warmth to the animation.
 
