@@ -34,10 +34,8 @@ Of course, it's not done yet. Never will be. These are some features I think wou
 - Some kind of indication of external links
 - List of backlinks to a particular page to aid exploration
 - Table of contents in left sidebar for longer posts and articles
-- Bring back website stats like wordcount + number of pages
 - Automatic checking for dead or broken links
-- Link back up with the XXIVV Webring
-- Commenting!
+- Commenting functionality
 
 ## Installation (personal notes)
 
