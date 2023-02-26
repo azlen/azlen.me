@@ -5,7 +5,7 @@ description: "How can we capture visions for the future of computing?"
 created: 2023-02-05
 ---
 
-The goal of software, more generally, ought to be to craft coherent mental maps in our mind; just like through exposure we learn to navigate our neighbourhood, or intuit complex grammar rules as a child without ever having to exert serious mental effort. And just as you can chain words together to craft new meaning, digital tools should be able to compose together to create new interfaces, or even entirely new digital mediums.
+The goal of software, more generally, ought to be to craft coherent mental maps in our mind; just like through exposure we learn to navigate our neighbourhood, or intuit complex grammar rules as a child without ever having to exert serious mental effort. And just as you can chain words together to craft new meaning, digital tools should be able to compose together to create *new interfaces*.
 
 So while exploring a city lets you discover new places and better understand how to navigate the space around you; and exploring language lets you delve into new meanings and understand how to better translate thoughts into words; exploring software lets us translate those thoughts into action, it has the possibility to unlock entirely new mediums and forms of expression, let us do things we previously thought impossible.
 
@@ -18,3 +18,5 @@ It is like learning, upon understanding the concept of infinity, that there are 
 One of my biggest roadblocks along this journey has been to communicate my vision. Because I often think of writing as a kind of distilled thought, so I ought, then, to be able to distill my thoughts into writing. With such a vision, I can only ever catch glimpses of it — yet my desire is to write about it in its totality. Of course, the answer clearly is to try to capture those glimpses — through both writing and interactive experiments, and to hope that these may build the puzzle pieces of a shared vision, a shared *discussion* about the future of computing and our place within it. To accept that it is something that can never truly be captured because it is constantly shifting and morphing at the peripheries of our shared imagination.
 
 And so that is what I shall do. Taking up the pen not as a tool for persuasion, but as a mental camera pointed inwards to capture small glimpses of a world which we, hopefully, may build together.
+
+**

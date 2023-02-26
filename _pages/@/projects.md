@@ -1,14 +1,11 @@
 ---
 layout: default
 title: "Projects"
-published: false
 ---
 
-[ UNDER CONSTRUCTION ]
-
-## Ongoing
-
-[Neuropolis](/projects/neuropolis)
+<details class="item" tabindex="-1">
+	<summary><a href="/@/worm-os">Worm OS</a></summary>
+</details>
 
 ## Past
 <!--Under construction... Please come back later?

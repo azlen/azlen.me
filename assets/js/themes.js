@@ -65,7 +65,8 @@ function Theme (client) {
       --f_inv: ${theme.f_inv}; 
       --b_high: ${theme.b_high}; 
       --b_med: ${theme.b_med}; 
-      --b_low: ${theme.b_low}; 
+      --b_low: ${theme.b_low};
+      --b_low: ${theme.f_high}33;
       --b_inv: ${theme.b_inv};
     }`
     localStorage.setItem('theme', JSON.stringify(theme))

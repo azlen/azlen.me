@@ -24,6 +24,8 @@ html {
 body {
   background: none;
   color: var(--f_high);
+
+  transition: color .2s;
 }
 
 html, body {
@@ -33,6 +35,8 @@ html, body {
 article {
   position: relative;
   padding: calc(5rem + 55px) 0rem;
+
+  hyphens: unset;
 }
 
 h1, h2, h3, h4, h5, .subtitle {
@@ -148,9 +152,9 @@ nav ~ * a:not([href^="/"]):not(.no-link-style)::after {
   content: "~";
 }
 
-nav ~ * a:not([href^="/"]):not(.no-link-style):hover {
-  background: var(--b_inv) !important;
-}
+// nav ~ * a:not([href^="/"]):not(.no-link-style):hover {
+//   background: var(--b_inv) !important;
+// }
 
 // a:not(.no-link-style)::before {
 //   content: "";
@@ -245,6 +249,10 @@ nav > * {
   padding: 5px;
   border-radius: 50px;
   transition: background .15s ease-in;
+}
+
+.sidenote-wrapper {
+  position: relative;
 }
 
 .sidenote-number, .sidenote::before {
@@ -722,4 +730,40 @@ details.item > summary > a {
 
 details.spacing {
   margin-bottom: 18px;
+}
+
+
+.connector {
+  position: absolute;
+  transform-origin: 0% 0%;
+  top: 1px; left: 100%;
+
+  height: 1px;
+
+  background: linear-gradient(to right, transparent 80%, var(--f_med));
+  transition: background .3s;
+}
+// .connector::after {
+//   content: "";
+//   position: absolute;
+//   top:0; left: 100%;
+//   width: 20px; height: 20px;
+//   background: #FF0000;
+// }
+
+
+body.sidenote-hoverstate {
+  color: var(--b_low);
+}
+
+.sidenote-highlighted {
+  color: var(--f_high);
+}
+.sidenote-highlighted .connector {
+  background: linear-gradient(to right, var(--f_med) 0%, var(--f_med)) !important;
+}
+
+.sidenote-highlighted .sidenote-number, .sidenote-highlighted .sidenote::before {
+  background: var(--f_med);
+  color: var(--background);
 }
