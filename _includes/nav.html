@@ -2,7 +2,8 @@
     <a class="logo no-link-style" href="/"
     onmouseenter="this.querySelector('#MASK > image').setAttribute('xlink:href', '/assets/100x-line-in.gif?v=' + String(Math.random()).slice(2))"
     onmouseleave="this.querySelector('#MASK > image').setAttribute('xlink:href', '/assets/100x-line-out-noloop.gif?v=' + String(Math.random()).slice(2))">
-        <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="100" height="100" role="img" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <desc>Navigate to home page</desc>
             <defs>
                 <mask id="MASK" maskunits="userSpaceOnUse"
                             maskcontentunits="userSpaceOnUse">
@@ -16,59 +17,67 @@
         </svg>
     </a>
 
-    <label for="theme-picker">
-        <svg width="20" height="20" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <g>
-                <circle cx="25" cy="25" r="22.5" stroke="black" stroke-width="5"/>
-                <path d="M8 40.1495C16.7868 48.9363 31.033 48.9363 39.8198 40.1495C48.6066 31.3627 48.6066 17.1165 39.8198 8.32971L8 40.1495Z" fill="black"/>
-            </g>
-        </svg>
+    <div style="font-size: 0">
+        <label for="label-picker" aria-hidden="true">
+            Colour theme
 
-        <select id="theme-picker" onchange="loadTheme(this.value)" value="" tabindex="0">
-            <!-- <noscript>
-                <option disabled>You must have javascript enabled to select themes</option>
-            </noscript> -->
-            <option value="" selected disabled style="display: none"></option>
-            <option value="" disabled>Colour Themes</option>
-            <option value="lightcrimson">⚪ Light</option>
-            <option value="darktest">⚫ Dark</option>
-            <option disabled>　</option>
+            <svg width="20" height="20" role="img" aria-hidden="true" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g>
+                    <circle cx="25" cy="25" r="22.5" stroke="black" stroke-width="5"/>
+                    <path d="M8 40.1495C16.7868 48.9363 31.033 48.9363 39.8198 40.1495C48.6066 31.3627 48.6066 17.1165 39.8198 8.32971L8 40.1495Z" fill="black"/>
+                </g>
+            </svg>
+        </label>
+
+        <select id="theme-picker" aria-label="Colour theme" onchange="loadTheme(this.value)" value="" tabindex="0">
+            <option value="" selected disabled aria-disabled="true" style="display: none"></option>
+            <option value="" disabled aria-disabled="true">Colour Themes</option>
+            <option value="lightcrimson" aria-label="Light theme">⚪ Light</option>
+            <option value="darktest" aria-label="Dark theme">⚫ Dark</option>
+            <option disabled aria-disabled="true">　</option>
             <option value="" disabled style="display: none"></option>
-            <option value="gameboy">🐍 Gameboy Green</option>
-            <option value="mahou">🌸 Pinkish Calm</option>
-            <option value="commodark">🫐 Business Blueberry</option>
-            <!-- <option value="test">🫧 test!!</option> -->
+            <option value="gameboy" aria-label="Green theme">🐍 Gameboy Green</option>
+            <option value="mahou" aria-label="Pinkish-purple theme">🌸 Pinkish Calm</option>
+            <option value="commodark" aria-label="Blue theme">🫐 Business Blueberry</option>
         </select>
-    </label>
+    </div>
 
-    <label for="link-picker">
-        <svg viewBox="0 0 75 75" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: scale(1.15)">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M51.557 43.1005C51.429 43.2285 51.3668 43.4074 51.3804 43.5879C51.5888 46.3385 50.6413 49.1603 48.5377 51.2639L37.2399 62.5616C33.412 66.3895 27.2058 66.3895 23.3779 62.5616C19.5501 58.7338 19.5501 52.5275 23.378 48.6997L34.6757 37.4019C36.3437 35.7339 38.4632 34.7928 40.6408 34.5784C40.7835 34.5643 40.9181 34.5033 41.0195 34.4019L46.7304 28.691C47.0423 28.3791 46.9213 27.8503 46.4981 27.726C40.6194 26.0002 34.005 27.4561 29.3675 32.0936L18.0697 43.3914C11.3101 50.1509 11.3101 61.1104 18.0697 67.8699C24.8292 74.6295 35.7886 74.6295 42.5482 67.8699L53.846 56.5721C58.8521 51.5661 60.1507 44.2565 57.7418 38.0553C57.5896 37.6635 57.0874 37.5702 56.7902 37.8674L51.557 43.1005Z" fill="black"/>
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M53.5426 26.2399L42.2448 37.5377C40.5144 39.2681 38.298 40.2163 36.035 40.3822C35.8866 40.3931 35.746 40.4547 35.6407 40.5599L30.0072 46.1935C29.6973 46.5034 29.8144 47.0287 30.2335 47.1569C36.159 48.9703 42.8658 47.5333 47.5531 42.846L58.8509 31.5482C65.6104 24.7886 65.6104 13.8292 58.8509 7.06967C52.0913 0.310112 41.1319 0.310108 34.3723 7.06967L23.0746 18.3675C18.1089 23.3331 16.7911 30.5653 19.1211 36.734C19.2704 37.1293 19.7756 37.2255 20.0745 36.9267L25.3508 31.6504C25.476 31.5251 25.5385 31.3511 25.5283 31.1743C25.373 28.4801 26.3245 25.7341 28.3828 23.6757L39.6806 12.3779C43.5085 8.55007 49.7147 8.55007 53.5426 12.378C57.3705 16.2058 57.3705 22.412 53.5426 26.2399Z" fill="black"/>
-        </svg>
-            
+    <div style="font-size: 0">
+        <label for="link-picker" aria-hidden="true">
+            Menu containing external links
 
-        <select id="link-picker" onchange="location = this.value" value="" tabindex="0">
-            <option value="" selected disabled style="display: none"></option>
-            <option value="" disabled>Social Links</option>
-            <option value="https://twitter.com/azlenelza">🐦 Twitter</option>
-            <option value="https://youtube.com/@azlenelza">📺 Youtube</option>
-            {% comment %}<option value="https://www.twitch.tv/azlenelza">🎙 Twitch</option>{% endcomment %}
-            <option value="/newsletter">🗞️ Newsletter</option>
-            <option value="" disabled>　</option>
-            <option value="" disabled>Support</option>
-            <option value="https://ko-fi.com/azlen/tiers">❤️ Donate</option>
-            {% comment %}<option value="https://paypal.me/azlenelza">🅿️ Paypal</option>{% endcomment %}
+            <svg viewBox="0 0 75 75" role="img" aria-hidden="true" fill="none" xmlns="http://www.w3.org/2000/svg" style="transform: scale(1.15)">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M51.557 43.1005C51.429 43.2285 51.3668 43.4074 51.3804 43.5879C51.5888 46.3385 50.6413 49.1603 48.5377 51.2639L37.2399 62.5616C33.412 66.3895 27.2058 66.3895 23.3779 62.5616C19.5501 58.7338 19.5501 52.5275 23.378 48.6997L34.6757 37.4019C36.3437 35.7339 38.4632 34.7928 40.6408 34.5784C40.7835 34.5643 40.9181 34.5033 41.0195 34.4019L46.7304 28.691C47.0423 28.3791 46.9213 27.8503 46.4981 27.726C40.6194 26.0002 34.005 27.4561 29.3675 32.0936L18.0697 43.3914C11.3101 50.1509 11.3101 61.1104 18.0697 67.8699C24.8292 74.6295 35.7886 74.6295 42.5482 67.8699L53.846 56.5721C58.8521 51.5661 60.1507 44.2565 57.7418 38.0553C57.5896 37.6635 57.0874 37.5702 56.7902 37.8674L51.557 43.1005Z" fill="black"/>
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M53.5426 26.2399L42.2448 37.5377C40.5144 39.2681 38.298 40.2163 36.035 40.3822C35.8866 40.3931 35.746 40.4547 35.6407 40.5599L30.0072 46.1935C29.6973 46.5034 29.8144 47.0287 30.2335 47.1569C36.159 48.9703 42.8658 47.5333 47.5531 42.846L58.8509 31.5482C65.6104 24.7886 65.6104 13.8292 58.8509 7.06967C52.0913 0.310112 41.1319 0.310108 34.3723 7.06967L23.0746 18.3675C18.1089 23.3331 16.7911 30.5653 19.1211 36.734C19.2704 37.1293 19.7756 37.2255 20.0745 36.9267L25.3508 31.6504C25.476 31.5251 25.5385 31.3511 25.5283 31.1743C25.373 28.4801 26.3245 25.7341 28.3828 23.6757L39.6806 12.3779C43.5085 8.55007 49.7147 8.55007 53.5426 12.378C57.3705 16.2058 57.3705 22.412 53.5426 26.2399Z" fill="black"/>
+            </svg>
+        </label>
+        
+        <select id="link-picker" aria-label="Menu containing external links" onchange="location = this.value" value="" tabindex="0">
+            <label for="link-picker">
+                Select a link for navigation
+            </label>
+            <option value="" selected disabled style="display: none" aria-disabled="true"></option>
+            <option value="" disabled aria-disabled="true">Social Links</option>
+            <option value="https://twitter.com/azlenelza" aria-label="Twitter">🐦 Twitter</option>
+            <option value="https://youtube.com/@azlenelza" aria-label="Youtube">📺 Youtube</option>
+            {% comment %}<option value="https://www.twitch.tv/azlenelza" aria-label="Twitch">🎙 Twitch</option>{% endcomment %}
+            <option value="/newsletter" aria-label="Newsletter">🗞️ Newsletter</option>
+            <option value="" disabled aria-disabled="true">　</option>
+            <option value="" disabled aria-disabled="true">Support</option>
+            <option value="https://ko-fi.com/azlen/tiers" aria-label="Donate">❤️ Donate</option>
+            {% comment %}<option value="https://paypal.me/azlenelza" aria-label="Paypal">🅿️ Paypal</option>{% endcomment %}
         </select>
-    </label>
+    </div>
 
     
         
 
     
 
-    <a class="no-link-style" href="https://webring.xxiivv.com/#random" target="_blank">
-        <svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" style="fill: none; stroke-width:28px;stroke-linecap:square; transform: translateY(-2px) scale(1.3)">
+    <a class="no-link-style" href="https://webring.xxiivv.com/#random" target="_blank" style="font-size: 0">
+        Merveilles Webring
+        <svg viewBox="0 0 300 300" role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" baseProfile="full" version="1.1" style="fill: none; stroke-width:28px;stroke-linecap:square; transform: translateY(-2px) scale(1.3)">
+            <desc>Merveilles Webring</desc>
             <g transform="translate(0,30)">
                 <g transform="translate(150,150),rotate(120,0,0)">
                     <path d="M0,-60 a60,60 0 1,0 0,120 l100,0" stroke="#000000"></path>   
