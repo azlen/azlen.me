@@ -86,7 +86,7 @@ let updateSidenoteConnectors = () => {
         console.log(`linear-gradient(to right, transparent ${Math.round(Math.min(Math.sqrt((pointB.x - pointA.x) / 1000) * 100, 100))}%, var(--f_med));`)
         connector.style.setProperty('background', `linear-gradient(to right, transparent ${Math.round(Math.min(Math.pow((pointB.x - pointA.x) / 900, 0.3) * 100, 100))}%, var(--f_med))`)
 
-        parent.appendChild(connector)
+        targetA.appendChild(connector)
     })
 }
 

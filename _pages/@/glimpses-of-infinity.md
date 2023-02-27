@@ -2,6 +2,7 @@
 layout: default
 title: "Glimpses of Infinity"
 description: "How can we capture visions for the future of computing?"
+context: "Essay"
 created: 2023-02-05
 ---
 
@@ -19,4 +20,8 @@ One of my biggest roadblocks along this journey has been to communicate my visio
 
 And so that is what I shall do. Taking up the pen not as a tool for persuasion, but as a mental camera pointed inwards to capture small glimpses of a world which we, hopefully, may build together.
 
-**
+<p class="separator">✽</p>
+
+*Over the next few months I plan to seriously write, share, and craft tangible experiments to better communicate my vision and test uncertain hypotheses. If this interests you, I recently set up a [newsletter](/newsletter) that you can follow along with, or you may like to [support](https://ko-fi.com/azlen/tiers) my work.*
+
+*And if this essay sparks any ideas or you want to be part of the conversation, feel free to drop me a line by [email](mailto:contact@azlen.me) or via twitter @azlenelza.*

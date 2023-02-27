@@ -40,7 +40,7 @@ function Theme (client) {
         return
       }
     }
-    this.load(this.default)
+    // this.load(this.default)
   }
 
   this.open = () => {

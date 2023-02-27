@@ -18,6 +18,34 @@
   font-style: normal;
 }
 
+:root { 
+  --background: #EDEAEA; 
+  --f_high: #393B3F; 
+  --f_med: #000000; 
+  --f_low: #BBBBBB; 
+  --f_inv: #000000; 
+  --b_high: #AAAAAA; 
+  --b_med: #DDDDDD; 
+  --b_low: #EEEEEE;
+  --b_low: #393B3F33;
+  --b_inv: #ffe053;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root { 
+    --background: #000000; 
+    --f_high: #ffffff; 
+    --f_med: #ff5532; 
+    --f_low: #ffb000; 
+    --f_inv: #000000; 
+    --b_high: #111111; 
+    --b_med: #322e33; 
+    --b_low: #444444;
+    --b_low: #ffffff33;
+    --b_inv: #ffe053;
+  }
+}
+
 html {
   background-color: var(--background);
 }
@@ -25,7 +53,7 @@ body {
   background: none;
   color: var(--f_high);
 
-  transition: color .2s;
+  transition: color .4s ease-in-out;
 }
 
 html, body {
@@ -50,7 +78,7 @@ h1.title {
   margin-top: 0;
   font-size: 4.5rem;
   line-height: 0.9;
-  margin-top: -0.4rem;
+  margin-top: -0.45rem;
   padding-top: 0;
   margin-bottom: 2.4rem;
 
@@ -65,6 +93,7 @@ h3 { font-size: 2.2rem }
 
 p img, figure img {
   border-radius: 10px;
+  transition: opacity .5s ease-in-out;
 }
 
 p.subtitle {
@@ -74,10 +103,12 @@ p.subtitle {
   margin-top: -35px !important;
   // opacity: 0.5;
   font-size: 4rem;
-  color: var(--f_low);
-  padding-right: 10vw;
 
+
+  color: var(--b_low);
+  padding-right: 10vw;
   margin-bottom: 40px !important;
+  font-style: italic !important;
 }
 
 a:not(.no-link-style):link {
@@ -202,17 +233,19 @@ nav ~ * a:not([href^="/"]):not(.no-link-style)::after {
   cursor: pointer;
 }
 
-.sidepanel > * {
+.sidepanel > *:not(:first-child) {
   filter: drop-shadow(0px 0px 0px var(--f_med));
+  // filter: drop-shadow(0px 0px 0px var(--b_low)) drop-shadow(0px 0px 0px var(--b_low)) drop-shadow(0px 0px 0px var(--b_low)) drop-shadow(0px 0px 0px var(--b_low));
   transition: filter .3s;
 }
 .sidepanel > *:first-child {
   transition: filter 1s;
 }
 
-.sidepanel > *:hover {
+.sidepanel > *:not(:first-child):hover {
   // background: var(--background) !important;
   filter: drop-shadow(0px 0px 7px var(--f_med));
+  // filter: drop-shadow(0px 0px 7px var(--b_low)) drop-shadow(0px 0px 7px var(--b_low)) drop-shadow(0px 0px 4px var(--b_low)) drop-shadow(0px 0px 3px var(--b_low));
 }
 
 
@@ -252,6 +285,10 @@ nav > * {
 }
 
 .sidenote-wrapper {
+  
+}
+
+.sidenote-number {
   position: relative;
 }
 
@@ -578,6 +615,7 @@ figure {
 }
 
 .date {
+  font-family: "Dank Mono", "Fira Code", monospace;
   font-size: 0.7em;
   opacity: 0.5;
 }
@@ -679,6 +717,8 @@ details {
 
 details > summary {
   margin-bottom: 5px;
+  position: relative;
+  width: 55%;
 }
 
 details > summary::-webkit-details-marker,
@@ -701,7 +741,8 @@ details > summary::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: calc(-9px + 0.5em);
+  // margin-top: calc(-9px + 0.5em);
+  top: 0;
 
   opacity: 0.5;
   
@@ -738,6 +779,8 @@ details.spacing {
   transform-origin: 0% 0%;
   top: 1px; left: 100%;
 
+  margin-top: 3.5px;
+
   height: 1px;
 
   background: linear-gradient(to right, transparent 80%, var(--f_med));
@@ -756,14 +799,82 @@ body.sidenote-hoverstate {
   color: var(--b_low);
 }
 
+body.sidenote-hoverstate img {
+  opacity: 0.2;
+}
+
 .sidenote-highlighted {
   color: var(--f_high);
 }
 .sidenote-highlighted .connector {
+// body.sidenote-hoverstate .sidenote-wrapper .connector {
   background: linear-gradient(to right, var(--f_med) 0%, var(--f_med)) !important;
+  height: 2px;
+  margin-top: 3px;
 }
+
+body.sidenote-hoverstate .sidenote-wrapper:not(.sidenote-highlighted) .connector {
+  background: none !important;
+  border-bottom: 1px dashed var(--f_med);
+}
+
 
 .sidenote-highlighted .sidenote-number, .sidenote-highlighted .sidenote::before {
   background: var(--f_med);
   color: var(--background);
+}
+
+
+
+.context {
+  position: absolute;
+  margin-top: -39px;
+  text-transform: uppercase;
+  font-family: "Dank Mono", monospace, "LHF Corrie";
+  font-size: 14pt;
+  background: var(--f_high);
+  color: var(--background);
+  padding: 0px 10px;
+  opacity: 0.3;
+}
+
+
+// drop cap
+// header + p:first-letter {
+//   font-family: "LHF Corrie", 'jaf-lapture', 'et-book';
+// 	font-size: 300%;
+// 	float: left;
+//   margin-top:10px;
+//   margin-right:5px;
+// }
+
+.separator {
+  font-size: 24pt;
+  text-align: center;
+  opacity: 0.3;
+
+  // helps to perceptually center it
+  padding-right: 40px;
+  box-sizing: border-box;
+  
+  pointer-events: none;
+}
+
+
+.sidenote-wrapper::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 55%;
+  height: 80px;
+  background: var(--f_med);
+  mix-blend-mode: overlay;
+  filter: blur(20px);
+  margin-top: -40px;
+  pointer-events: none;
+  opacity: 0;
+  transition: .5s opacity;
+}
+.sidenote-wrapper.sidenote-highlighted::before {
+  opacity: 1;
 }

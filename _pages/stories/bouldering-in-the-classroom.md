@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Bouldering in the Classroom"
+context: "Story"
 created: 2021-08-15
 ---
 

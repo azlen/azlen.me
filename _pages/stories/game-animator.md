@@ -1,6 +1,7 @@
 ---
 layout: index
-title: "Story: Game Animator"
+title: "Game Animator"
+context: "Story"
 subtitle: "How to pull in content + components into workspace?"
 ---
 

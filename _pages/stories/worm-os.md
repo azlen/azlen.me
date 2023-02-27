@@ -1,6 +1,7 @@
 ---
 layout: index
-title: "Story: WormOS"
+title: "WormOS"
+context: "Story"
 ---
 
 I like to spend time in different rooms of my house. I have a place I sit to work, and another where I lounge to read. Changing contexts like this makes it easier to differentiate between activities and not get distracted. If everything you do then all your possibility spaces get intertwined in one large tangle of a mess—unfortunately this is the way software has always been.

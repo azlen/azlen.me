@@ -4,10 +4,111 @@ title: "Projects"
 ---
 
 <details class="item" tabindex="-1">
-	<summary><a href="/@/worm-os">Worm OS</a></summary>
+	<summary><a href="/@/worm-os">Worm OS</a> <span class="new"></span></summary>
+</details>
+<details>
+	<summary><a href="/@/...">Revealing Poems</a> <span class="date">(Nov. 2022)</span></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="https://twitter.com/azlenelza/status/1592658262956335104">Link to tweet</a></summary>
+	</details>
+</details>
+<details>
+	<summary><a href="/@/...">3d Video</a> <span class="date">(Sep. 2022)</span></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="https://twitter.com/azlenelza/status/1569371534963220480">Link to tweet</a></summary>
+	</details>
+</details>
+<details>
+	<summary><a href="/@/...">Squishy Spatial Text</a> <span class="date">(Jan. 2022)</span></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="https://twitter.com/azlenelza/status/1487412636375420928">Link to tweet</a></summary>
+	</details>
+</details>
+<details>
+	<summary><a href="/@/...">Peripheral Scroll</a> <span class="date">(Mar. 2021)</span></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="https://twitter.com/azlenelza/status/1370159999691919364">Link to tweet</a></summary>
+	</details>
+</details>
+<details>
+	<summary><a href="/@/...">Multidimensional Color Picker</a> <span class="date">(Mar. 2021)</span></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="https://twitter.com/azlenelza/status/1371961905154252801">Link to tweet</a></summary>
+	</details>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/cozyroom">Cozyroom</a></summary>
+</details>
+<details>
+	<summary><a href="/@/...">Parallel Pages, Visibly Connected</a> <span class="date">(Jun. 2020)</span></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="https://twitter.com/azlenelza/status/1272600877493137408">Link to tweet</a></summary>
+	</details>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/neuropolis">Neuropolis</a></summary>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/interhackt">Interhackt</a></summary>
+</details>
+<details>
+	<summary><a href="/@/bananagram-variations">Bananagram Variations</a></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/bananagram-variations">Settlers of Banan</a></summary>
+	</details>
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/bananagram-variations">Towers of Kowlooon</a></summary>
+	</details>
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/bananagram-variations">Amarillo</a></summary>
+	</details>
+</details>
+<details>
+	<summary><a href="/@/musical-instruments">Musical instruments</a></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/geolograph">Geolograph</a></summary>
+	</details>
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/face-detection-instrument">Face Detection Instrument</a></summary>
+	</details>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/dear-robots">"Dear Robots" comic</a></summary>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/pattern-generator">Pattern Generator</a> <span class="date">(Feb. 2018)</span></summary>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/interactive-comic-editor">Interactive Comic Editor</a> <span class="date">(Sep. 2017)</span></summary>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/generative-pixelart-editor">Perceptual Shift</a> <span class="date">(Mar. 2016)</span></summary>
+</details>
+<details class="item" tabindex="-1">
+	<summary><a href="/@/sprite generator">Sprite Generator</a> <span class="date">(Dec. 2015)</span></summary>
+</details>
+<details>
+	<summary><a href="/@/ludum-dare">Game Design</a> <span class="date">(2009 - present)</span></summary>
 </details>
 
-## Past
+<!--zero-width space:-->​
+
+<details>
+	<summary>Archive [^completion]</summary>
+
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/reddit-logo-generator">Reddit Logo Generator</a> [^test] <span class="date">(Aug. 2018)</span></summary>
+	</details>
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/cthulhu-tarot">Cthulhu Tarot</a> <span class="date">(May. 2017)</span></summary>
+	</details>
+	<details class="item" tabindex="-1">
+		<summary><a href="/@/nymero">Nymero</a> <span class="date">(Oct. 2016)</span></summary>
+	</details>
+</details>
+
+[^completion]: The archive contains less interesting, old, or irrelevant projects that nevertheless I wanted to document and include on this page for purposes of completeness
+
 <!--Under construction... Please come back later?
 
 —
@@ -66,5 +167,3 @@ Also, most of the projects will have been written about post-mortem so that shou
 It would also be interesting if I had some way of tracking the themes present (perhaps I could do this through side-notes?), in some way describing the trajectory of my paths through ideas.
 
 -->
-
-- [Cozyroom](/projects/cozyroom)

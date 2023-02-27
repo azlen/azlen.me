@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "On The Paths of Nonsense"
-subtitle: "GPT-3 Generated Design-Fiction"
+context: "GPT-3 Generated Stories"
 created: 2021-01-31
 ---
 
@@ -11,7 +11,7 @@ Stories as a design process<br>
 
 ⁘
 
-For a little extra context, I have been experimenting with writing *my own* design-fiction [stories](/stories) as a process of exploring different design questions and possible futures. While playing around with GPT-3 (when it was still free-to-use) I thought it would be fascinating to use the language model to generate hundreds of these stories. Where my own writing process explores an idea *in-depth*, this AI-assisted process does not replace but rather complements it with a broader breadth of exploration.
+For a little extra context, I have been experimenting with writing *my own* design-fiction [stories](/stories) as a process of exploring different design questions and possible futures. While playing around with [GPT-3](https://openai.com/api/) I thought it would be fascinating to use the language model to generate hundreds of these stories. Where my own writing process explores an idea *in-depth*, this AI-assisted process does not replace but rather complements it with a broader breadth of exploration.
 
 I wrote out a list of questions that came to mind regarding interfaces and the future of technology, many questions paralleling ones I was myself thinking about with my project at the time. I left the prompt running and spent many hours scouring through story upon story[^scary], through tens of thousands of words, and saving particular ones I resonated with to a document which I named "On The Paths of Nonsense." This page is the result of a second pass, taking only the stories which I still feel are interesting or worth reading in some way. The highlights of the highlights so-to-speak.
 

@@ -1,6 +1,7 @@
 ---
 layout: index
-title: "Azlen Elza"
+title: ""
+context: "Home"
 permalink: /
 hide_last_modified: true
 ---
