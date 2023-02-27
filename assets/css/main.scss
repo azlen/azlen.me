@@ -231,6 +231,8 @@ nav ~ * a:not([href^="/"]):not(.no-link-style)::after {
   height: 20px;
 
   cursor: pointer;
+
+  position: relative;
 }
 
 .sidepanel > *:not(:first-child) {
