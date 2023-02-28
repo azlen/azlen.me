@@ -4,8 +4,9 @@ title: "Projects"
 ---
 
 <details class="item" tabindex="-1">
-	<summary><a href="/@/worm-os">Seven Plus or Minus Two</a> <span class="new"></span></summary>
+	<summary><a href="/@/seven-plus-or-minus-two">Seven Plus or Minus Two</a> <span class="new"></span></summary>
 </details>
+
 <details class="item" tabindex="-1">
 	<summary><a href="/@/worm-os">Worm OS</a> <span class="new"></span></summary>
 </details>
@@ -97,10 +98,10 @@ title: "Projects"
 <!--zero-width space:-->​
 
 <details>
-	<summary>Archive [^completion]</summary>
+	<summary>Archive<!-- [^completion]--></summary>
 
 	<details class="item" tabindex="-1">
-		<summary><a href="/@/reddit-logo-generator">Reddit Logo Generator</a> [^test] <span class="date">(Aug. 2018)</span></summary>
+		<summary><a href="/@/reddit-logo-generator">Reddit Logo Generator</a><!-- [^test] --><span class="date">(Aug. 2018)</span></summary>
 	</details>
 	<details class="item" tabindex="-1">
 		<summary><a href="/@/cthulhu-tarot">Cthulhu Tarot</a> <span class="date">(May. 2017)</span></summary>
@@ -110,7 +111,7 @@ title: "Projects"
 	</details>
 </details>
 
-[^completion]: The archive contains less interesting, old, or irrelevant projects that nevertheless I wanted to document and include on this page for purposes of completeness
+<!--[^completion]: The archive contains less interesting, old, or irrelevant projects that nevertheless I wanted to document and include on this page for purposes of completeness-->
 
 <!--Under construction... Please come back later?
 

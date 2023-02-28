@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Seeking the Fractal Edge Where Games and Learning Collide"
-subtitle: "(Essay written by GPT-3)"
+context: "GPT-3 Essay"
 created: 2022-11-27
 ---
 
