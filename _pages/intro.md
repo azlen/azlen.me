@@ -1,7 +1,7 @@
 ---
 layout: index
-title: ""
-hide: [ date ]
+title: "Introduction"
+hide: [ date, context, title ]
 ---
 
 Hey, I'm Azlen!
