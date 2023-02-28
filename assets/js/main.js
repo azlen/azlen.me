@@ -25,7 +25,13 @@ const distance = (p1, p2) => {
 	return Math.sqrt((p1.x-p2.x)*(p1.x-p2.x) + (p1.y-p2.y)*(p1.y-p2.y));
 }
 
+const click = function() {
+    this.parentElement.classList.toggle('sidenote-toggled')
+}
+
 const hoverOver = function() {
+    if(window.innerWidth <= 800) return
+
     document.body.classList.add('sidenote-hoverstate')
     this.parentElement.classList.add('sidenote-highlighted')
 }
@@ -46,6 +52,8 @@ let updateSidenoteConnectors = () => {
         targetA.onmouseleave = hoverOut
         targetB.onmouseenter = hoverOver
         targetB.onmouseleave = hoverOut
+        
+        targetA.onclick = click
 
         console.log(targetA, targetB)
 
@@ -68,7 +76,7 @@ let updateSidenoteConnectors = () => {
         })();
 
         // on mobile the sidenotes will not show up so we can hide the connector
-        if(pointB.x < 0) {
+        if(pointB.x < 0 || window.innerWidth <= 800) {
             let existingConnector = parent.querySelector('.connector')
             if(existingConnector) parent.removeChild(existingConnector)
 

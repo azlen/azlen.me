@@ -1,7 +1,7 @@
 ---
 layout: index
 title: ""
-hide_last_modified: true
+hide: [ date ]
 ---
 
 Hey, I'm Azlen!

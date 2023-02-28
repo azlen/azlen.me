@@ -6,41 +6,51 @@
 {% endcomment %}
 
 {% if page.title %}
-  {% assign title_length = page.title | size %}
-  {% if title_length > 0 %}
-    <header>
-      {% if page.context %}
-        <p class="context">{{ page.context }}</p>
-      {% endif %}
-      <h1 class="title">{{ page.title }}</h1>
-      {% if page.subtitle %}
-        <p class="subtitle">{{ page.subtitle }}</p>
-      {% endif %}
+  {% unless page.hide contains "title" and page.hide contains "context" and page.hide contains "date" %}
+    {% assign title_length = page.title | size %}
+    {% if title_length > 0 %}
+      <header>
+        {% if page.context %}
+          {% unless page.hide contains "context" %}
+            <p class="context">{{ page.context }}</p>
+          {% endunless %}
+        {% endif %}
+        {% if page.title %}
+          {% unless page.hide contains "title" %}
+            <h1 class="title">{{ page.title }}</h1>
+          {% endunless %}
+        {% endif %}
+        {% if page.subtitle %}
+          <p class="subtitle">{{ page.subtitle }}</p>
+        {% endif %}
 
-      {% include backlinker.html %}
+        {% include backlinker.html %}
 
-      {% if page.hide_last_modified %}
-          <style>
-            header + p {
-              margin-top: -23px;
-            }
-          </style>
-      {% else %}
-        <p class="page-date">
-          Last updated {{ page.last_modified_at | timeago }}
+        {% if page.hide contains "date" %}
+            {% unless page.hide contains "title" %}
+              <style>
+                header + p {
+                  margin-top: -23px;
+                }
+              </style>
+            {% endunless %}
+        {% else %}
+          <p class="page-date">
+            Last updated {{ page.last_modified_at | timeago }}
 
-          {% if backlink_count > 1 %}
-            {% assign s = "" %}
             {% if backlink_count > 1 %}
-              {% assign s = "s" %}
+              {% assign s = "" %}
+              {% if backlink_count > 1 %}
+                {% assign s = "s" %}
+              {% endif %}
+              — {{ backlink_count }} backlink{{ s }}
             {% endif %}
-            — {{ backlink_count }} backlink{{ s }}
-          {% endif %}
 
-          <!-- <audio></audio> -->
-        </p>
-      {% endif %}
-    </header>
-  {% endif %}
+            <!-- <audio></audio> -->
+          </p>
+        {% endif %}
+      </header>
+    {% endif %}
+  {% endunless %}
 {% endif %}
 

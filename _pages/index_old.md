@@ -1,9 +1,9 @@
 ---
 layout: index
-title: ""
+title: "Azlen Elza"
 context: "Home"
 permalink: /
-hide_last_modified: true
+hide: [ date, title, context ]
 ---
 
 <em>Dear fellow wanderer,</em><br>

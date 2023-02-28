@@ -1,6 +1,8 @@
 ---
 layout: index
-title: ""
+title: "Azlen Elza"
+context: "Home"
+hide: [ title, context ]
 permalink: /
 published: false
 ---

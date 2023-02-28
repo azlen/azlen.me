@@ -441,7 +441,7 @@ figcaption {
   // }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 800px) { // 760
   body {
     padding: 0px 5% 0px 5%;
     width: 90%;
@@ -885,3 +885,44 @@ body.sidenote-hoverstate .sidenote-wrapper:not(.sidenote-highlighted) .connector
 .sidenote-wrapper.sidenote-highlighted::before {
   opacity: 1;
 }
+
+
+form {
+  display: block;
+}
+
+@media (max-width: 800px) {
+  details > summary {
+    width: unset;
+  }
+
+  .sidenote-wrapper::before {
+    width: 100%;
+  }
+
+  .sidenote-toggled .sidenote-number, .sidenote-toggled .sidenote::before {
+    background: var(--f_med);
+    color: var(--background);
+  }
+
+  .connector {
+    display: none;
+  }
+
+  // .sidenote-number::before {
+  //   font-size: 0.6rem;
+  //   top: -0.884rem;
+  //   font-family: monospace;
+  //   font-weight: bold;
+  //   content: "▶ ";
+  // }
+  // .sidenote-toggled .sidenote-number::before {
+  //   content: "▼ ";
+  // }
+  .sidenote-number::before {
+    position: absolute;
+    content: "⬍";
+    font-size: 0.7rem;
+  }
+}
+
