@@ -52,4 +52,6 @@ If you'd like to stay in-the-loop with my research and experiments, I've decided
 	<input type='email' placeholder="your@email.address" name='mailing_lists_subscriber[email]'/><input type='submit' value='Subscribe!'/>
 </scattergun-subscription-form>
 
-[^promise]: *I promise not to send emails too often!* Just the occasional dispatch, lab notes, or longer essays that I publish
+{% comment %}
+<!--[^promise]: *I promise not to send emails too often!* Just the occasional dispatch, lab notes, or longer essays that I publish-->
+{% endcomment %}

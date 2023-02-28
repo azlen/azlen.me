@@ -179,7 +179,7 @@ a:empty {
 }
 
 /* external links! */
-nav ~ * a:not([href^="/"]):not(.no-link-style)::after {
+nav ~ * a:not([href^="/"]):not([href^="#"]):not(.no-link-style)::after {
   content: "~";
 }
 

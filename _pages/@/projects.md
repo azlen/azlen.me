@@ -4,6 +4,9 @@ title: "Projects"
 ---
 
 <details class="item" tabindex="-1">
+	<summary><a href="/@/worm-os">Seven Plus or Minus Two</a> <span class="new"></span></summary>
+</details>
+<details class="item" tabindex="-1">
 	<summary><a href="/@/worm-os">Worm OS</a> <span class="new"></span></summary>
 </details>
 <details>

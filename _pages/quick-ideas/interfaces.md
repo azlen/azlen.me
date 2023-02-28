@@ -98,5 +98,5 @@ My conversations these past few months have shifted towards a vision of software
 
 We have many digital tools, but few digital workshops — places where those tools, and the people who use them, can come together to create and build new things. So I ask, how can we build toward this vision of the future?
 
-![](images/interfaces-dynamic-land.png)
+![](/images/interfaces-dynamic-land.png)
 _Image credit to Dynamicland — Bret Victor_
