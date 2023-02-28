@@ -6,7 +6,7 @@ hide: [ date ]
 
 *The rhythmic sound of a printing press and the smell of freshly inked e-paper, you step into the newsroom full of pneumatic tubes primed and ready for sending occasional dispatches over the intricate pipe-network of cyberspace.*
 
-If you'd like to stay in-the-loop with my research and experiments, I've decided to start a little newsletter[^promise]:
+If you'd like to stay in-the-loop with my research and experiments, I've decided to start a little newsletter:
 
 <style>
 	form {
