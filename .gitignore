@@ -15,3 +15,5 @@ _pages/images/spiel*
 _pages/quick-ideas/spiel.md
 
 cache/
+# Local Netlify folder
+.netlify

@@ -1,19 +1,21 @@
 ---
 layout: default
 title: "Projects"
+context: "Draft"
 ---
 
+
 <details class="item" tabindex="-1">
-	<summary><a href="/@/seven-plus-or-minus-two">Seven Plus or Minus Two</a> <span class="new"></span></summary>
+	<summary>[Seven Plus or Minus Two](/@/seven-plus-or-minus-two) <span class="new"></span></summary>
 </details>
 
 <details class="item" tabindex="-1">
-	<summary><a href="/@/worm-os">Worm OS</a> <span class="new"></span></summary>
+	<summary>[Worm OS](/@/worm-os) <span class="new"></span></summary>
 </details>
 <details>
-	<summary><a href="/@/...">Revealing Poems</a> <span class="date">(Nov. 2022)</span></summary>
+	<summary>[Revealing Poems](/@/revealing-poems) [(Nov. 2022)]{.date}</summary>
 	<details class="item" tabindex="-1">
-		<summary><a href="https://twitter.com/azlenelza/status/1592658262956335104">Link to tweet</a></summary>
+		<summary>[Link to tweet](https://twitter.com/azlenelza/status/1592658262956335104)</summary>
 	</details>
 </details>
 <details>
@@ -49,12 +51,18 @@ title: "Projects"
 		<summary><a href="https://twitter.com/azlenelza/status/1272600877493137408">Link to tweet</a></summary>
 	</details>
 </details>
+
+<details class="item" tabindex="-1">
+	<summary><a href="/@/personal-website">Personal Website</a></summary>
+</details>
+
 <details class="item" tabindex="-1">
 	<summary><a href="/@/neuropolis">Neuropolis</a></summary>
 </details>
 <details class="item" tabindex="-1">
 	<summary><a href="/@/interhackt">Interhackt</a></summary>
 </details>
+
 <details>
 	<summary><a href="/@/bananagram-variations">Bananagram Variations</a></summary>
 	<details class="item" tabindex="-1">

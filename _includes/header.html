@@ -46,8 +46,31 @@
               — {{ backlink_count }} backlink{{ s }}
             {% endif %}
 
-            <!-- <audio></audio> -->
-            <!-- ▐ ▌ ║ ▶ -->
+            {% comment %}
+            {% if page.recording %}
+            <svg width="20" height="20" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" onclick="recording.play()">
+              <path d="M86.6045 49.999L18.1978 89.4937L18.1978 10.5044L86.6045 49.999Z" fill="black"/>
+            </svg>
+
+            <svg width="20" height="20" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" onclick="recording.pause()">
+              <rect x="17.7632" y="10.4727" width="23" height="78.1016" fill="black"/>
+              <rect x="59.2368" y="10.4727" width="23" height="78.1016" fill="black"/>
+            </svg>
+
+            <input id="track" type="range" min="0" max="1000" onchange="recording.fastSeek(this.value / 1000 * recording.duration)" />
+              
+            <audio id="recording" src="{{ page.recording }}" ontimeupdate="track.value = this.currentTime / this.duration * 1000"></audio>
+
+            <select onchange="recording.playbackRate = parseFloat(this.value) || 1">
+              <option value="1">1x</option>
+              <option value="1.3" selected>1.3x</option>
+              <option value="1.5">1.5x</option>
+              <option value="2">2x</option>
+              <option value="2.5">2.5x</option>
+              <option value="3">3x</option>
+            </select>
+            {% endif %}
+            {% endcomment %}
           </p>
         {% endif %}
       </header>

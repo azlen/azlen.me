@@ -3,6 +3,7 @@ layout: default
 title: "Glimpses of Infinity"
 description: "How can we capture visions for the future of computing?"
 context: "Essay"
+recording: "/files/recordings/glimpses-of-infinity.mp3"
 created: 2023-02-05
 ---
 

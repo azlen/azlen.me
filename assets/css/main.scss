@@ -813,6 +813,9 @@ body.sidenote-hoverstate img {
 .sidenote-highlighted {
   color: var(--f_high);
 }
+.sidenote-highlighted img {
+  opacity: 1 !important;
+}
 .sidenote-highlighted .connector {
 // body.sidenote-hoverstate .sidenote-wrapper .connector {
   background: linear-gradient(to right, var(--f_med) 0%, var(--f_med)) !important;
@@ -865,6 +868,9 @@ body.sidenote-hoverstate .sidenote-wrapper:not(.sidenote-highlighted) .connector
   box-sizing: border-box;
   
   pointer-events: none;
+
+  margin-top: 2.2rem;
+  margin-bottom: 1.8rem;
 }
 
 

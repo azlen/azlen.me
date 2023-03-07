@@ -37,6 +37,10 @@ exclude:
 
 include:
   - _redirects
+  - _pages/\~
+  - _pages/~/
+  - _pages/~/*
+  - _pages/\~/*
 
 jekyll-mentions:
   base_url: https://twitter.com

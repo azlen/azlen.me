@@ -2,6 +2,7 @@
 layout: default
 title: "Personal Lexicon"
 created: 2021-10-25
+alias: vocabulary, dictionary
 ---
 
 Words, words, words. 
