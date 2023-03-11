@@ -71,7 +71,7 @@ And without further ado:
 * `-tainment` makes anything into a kind of entertainment
 * `-candy` or `-porn` often seem to refer to categories of things (usually images of things) that are particularly satisfying or pleasing to look at?
 	* `earthporn`, `eyecandy`, `architectureporn` for some examples
-* perhaps taste could provide an interesting avenue for thinking about
+* perhaps taste could provide an interesting avenue for thinking about desc
 * *if a man was to examine five hundred different wines, he would hardly find two of them that had precisely the same taste. The same thing holds in cheese, and in many other things. Yet, of five hundred different tastes in cheese or wine, we can hardly describe twenty, so as to give a distinct notion of them to one who had not tasted them* ([Thomas Reid](https://journals.openedition.org/estetica/1395?lang=it#ftn25))
 	* Possibly relevant to this exploration of words is *taste*. We don't have very accurate ways of describing taste: sweet, salty, sour, umami...
 		* This is about as crude as trying to describe things around you with only the terms of earth, water, fire, and air — very difficult indeed!
