@@ -83,7 +83,7 @@ And without further ado:
 	* **Describing** vs. **Evoking**
 	* "*She judged that, when “novice tasters” claim that they “cannot smell anything”, what they are actually saying is that they haven’t the words to designate the categories of experience. The Wine Wheel is meant to give them the categories and the words at the time: it is, therefore, what might be called an **intersubjectivity engine**.*"
 		* I like this term: **intersubjectivity engine**
-		* This points also to the core problem that I am trying to explore, I "cannot smell anything" if I lack the words to describe what I am smelling — this 
+		* This points also to the core problem that I am trying to explore, I "cannot smell anything" if I lack the words to describe what I am smelling
 
 ### Techniques for position-manipulation
 
