@@ -84,7 +84,7 @@ And without further ado:
 	* "*She judged that, when “novice tasters” claim that they “cannot smell anything”, what they are actually saying is that they haven’t the words to designate the categories of experience. The Wine Wheel is meant to give them the categories and the words at the time: it is, therefore, what might be called an **intersubjectivity engine**.*"
 		* I like this term: **intersubjectivity engine**
 		* This points also to the core problem that I am trying to explore, I "cannot smell anything" if I lack the words to describe what I am smelling — it makes sense then that I cannot see if I lack the words to describe what I am seeing?
-			* There are so many things related to taste outside of flavor as well. What are my design tastes for example? how must I describe them? If I see something I like or dislike, how can I describe the tas
+			* There are so many things related to taste outside of flavor as well. What are my design tastes for example? how must I describe them? If I see something I like or dislike, how can I describe the taste of that thing?
 
 ### Techniques for position-manipulation
 
