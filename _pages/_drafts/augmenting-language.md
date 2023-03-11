@@ -77,7 +77,7 @@ And without further ado:
 	* Interesting is the "wine vocabulary" that has developed, describing tastes as "woody", "fruity", or using a variety of other metaphors — though it seems quite rare for any of these pieces of vocabulary to enter everyday speech...
 	* “sharp”, “lively”, “full”, “heady”, “clean”, “smooth”, “hot”, “fruity”, “astringent”, “bitter”, and “earthy” — some of the wine-tasting vocabulary of the 19th century
 	* What the 19th and early 20th century did witness was the elaboration of a way of talking about wine which had some precedent in Antiquity and the Middle Ages, but which developed in a serious way in the Victorian and Edwardian periods. That was a way not so much of describing individual wines but of evoking their characteristics and their effects on the drinker – especially by way of literary allusion83. Poets, and those of a poetic frame of mind, did this routinely. Writing to his brother and sister-in-law in 1819, John Keats announced:
-		* 
+		* **
 
 ### Techniques for position-manipulation
 
