@@ -88,7 +88,7 @@ And without further ado:
 				* There are so many things related to taste outside of flavor as well. What are my design tastes for example? how must I describe them? If I see something I like or dislike, how can I describe the taste of that thing?
 					* Or in architecture, I am reminded of Christopher Alexander's exploration into the concept of "life", which itself seems one kind of taste of looking at, seeing, and reacting to some image, thing, or piece of architecture
 		* *The _idea_ and _aura_ of objectivity – if not its actual attainment – are crucial to modern descriptive wine language. Many wine drinkers are now evidently drawn to language which picks out real constituents, substances which are thought of as the scientifically-warranted material causes of subjective experiences. The complexity of subjective experience is then treated as the aggregate of its taste – and smell – relevant constituents, and it is those constituents that we think, or hope, to pick out by descriptors such as asparagus, fig paste, or peach skin. We may understand that there are problems in concluding that we have thereby achieved _objectivity_, but there is something about the _idea_ of objectivity that is central to the historical appearance, and the cultural role, of this way of talking about wine tastes and smells.*
-			* In the realm of psychological experience, outside of that of poetry, there seems to be a strong adherance to scientifically-studied behaviours (to varying levels of a)
+			* In the realm of psychological experience, outside of that of poetry, there seems to be a strong adherance to scientifically-studied behaviours (to varying levels of accuraten)
 
 ### Techniques for position-manipulation
 
