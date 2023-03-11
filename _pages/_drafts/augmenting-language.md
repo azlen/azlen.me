@@ -75,7 +75,7 @@ And without further ado:
 	* Possibly relevant to this exploration of words is *taste*. We don't have very accurate ways of describing taste: sweet, salty, sour, umami...
 		* This is about as crude as trying to describe things around you with only the terms of earth, water, fire, and air — very difficult indeed!
 	* Interesting is the "wine vocabulary" that has developed, describing tastes as "woody", "fruity", or using a variety of other metaphors — though it seems quite rare for any of these pieces of vocabulary to enter everyday speech...
-	* “sharp”, “lively”, “full”, “heady”, “clean”, “smooth”, “hot”, “fruity”, “astringent”, “bitter”, and “earthy” — some of the 
+	* “sharp”, “lively”, “full”, “heady”, “clean”, “smooth”, “hot”, “fruity”, “astringent”, “bitter”, and “earthy” — some of the wine-tasting 
 
 ### Techniques for position-manipulation
 
