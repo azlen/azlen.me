@@ -82,7 +82,7 @@ And without further ado:
 		* This gets, I think, to a fundamental aspect of how we can use language to communicate complex or internal states. In failing to grasp for descriptive objective language for the subjectivity of taste, one must fall back to subjective experience, poetry, as these fruitful imaginings can give you a hint into the experience of the taste rather than the taste itself.
 	* **Describing** vs. **Evoking**
 	* "*She judged that, when “novice tasters” claim that they “cannot smell anything”, what they are actually saying is that they haven’t the words to designate the categories of experience. The Wine Wheel is meant to give them the categories and the words at the time: it is, therefore, what might be called an **intersubjectivity engine**.*"
-		* 
+		* I feel that 
 
 ### Techniques for position-manipulation
 
