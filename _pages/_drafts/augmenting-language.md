@@ -80,7 +80,7 @@ And without further ado:
 		* "*For really’t is so fine – it fills one’s mouth with a gushing freshness – then goes down cool and feverless – then you do not feel it quarrelling with your liver – no, it is rather a Peacemaker, and lies as quiet as it did in the grape; then it is as fragrant as the Queen Bee, and the more ethereal Part of it mounts into the brain, not assaulting the cerebral apartments like a bully in a bad-house looking for his trull and hurrying from door to door bouncing against the wainstcoat, but rather walks like Aladdin about his own enchanted palace so gently that you do not feel his step. Other wines of a heavy and spirituous nature transform a Man to a Silenus: this makes him a Hermes – and gives a Woman the soul and immortality of Ariadne, for whom Bacchus always kept a good cellar of claret…*"
 	* "Robert Louis Stevenson coined the aphorism for this way of talking: «Wine», he said, «is bottled poetry»"
 		* This gets, I think, to a fundamental aspect of how we can use language to communicate complex or internal states. In failing to grasp for descriptive objective language for the subjectivity of taste, one must fall back to subjective experience, poetry, as these fruitful imaginings can give you a hint into the experience of the taste rather than the taste itself.
-		* **Describing** vs. **Evoking**
+	* **Describing** vs. **Evoking**
 	* 
 
 ### Techniques for position-manipulation
