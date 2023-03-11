@@ -86,6 +86,7 @@ And without further ado:
 		* This points also to the core problem that I am trying to explore, I "cannot smell anything" if I lack the words to describe what I am smelling — it makes sense then that I cannot see if I lack the words to describe what I am seeing?
 			* There are so many things related to taste outside of flavor as well. What are my design tastes for example? how must I describe them? If I see something I like or dislike, how can I describe the taste of that thing?
 				* Or in architecture, I am reminded of Christopher Alexander's exploration into the concept of "life", which itself seems one kind of taste of looking at, seeing, and reacting to some image, thing, or piece of architecture
+	* 
 
 ### Techniques for position-manipulation
 
