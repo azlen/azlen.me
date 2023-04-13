@@ -90,7 +90,103 @@ And without further ado:
 		* *The _idea_ and _aura_ of objectivity – if not its actual attainment – are crucial to modern descriptive wine language. Many wine drinkers are now evidently drawn to language which picks out real constituents, substances which are thought of as the scientifically-warranted material causes of subjective experiences. The complexity of subjective experience is then treated as the aggregate of its taste – and smell – relevant constituents, and it is those constituents that we think, or hope, to pick out by descriptors such as asparagus, fig paste, or peach skin. We may understand that there are problems in concluding that we have thereby achieved _objectivity_, but there is something about the _idea_ of objectivity that is central to the historical appearance, and the cultural role, of this way of talking about wine tastes and smells.*
 			* In the realm of psychological experience, outside of that of poetry, there seems to be a strong adherance to scientifically-studied behaviours (to varying levels of accurateness, the core pervading desire is that there is some kind of scientific seed no matter whether the actual idea may be wrong or completely disproven).
 			* This also makes me think, to what extent can we describe emotions in terms of its relevant constituents or "chemical properties". Like triggering us to feel in particular parts of our body, or characterizing based off dopamine levels or different kinds of neurotransmitters? Would this be at all helpful or simply limiting for use in describing such subjective internal states?
-		* 
+			* *What was needed was a straightforward, demystified, referential language that described what a wine _was really like_, and that apparently referred its taste and smell to constituents that were _really in_ the wine. Such a language would be the opposite of poetry; it would be at once scientific and democratic.*
+				* If objectivity is that of analytic description, and subjectivity is closer to that of poetry, and these two are opposite to each other — then how could my pursuit of new vocabulary be thought?
+					* On one level it is incredibly analytical, attempting to find coherent ways for describing and analysing the things and relationships between things around us
+					* But on another level it is quite poetic, both creating new imaginings, new metaphors, and delving into interesting subjective experiences! It expands my vocabulary for expression and gives new lenses for seeing the world
+					* As such, objectivity and subjectivity seem in a strange way co-dependent of each other — like yin and yang...
+		* *That generates a paradox: in order to face choice alone, people look for guidance. Not to a friend or to a merchant or to the wine steward of their club, but to authority sources who they may not know but who display the emblems of disinterestedness. **Many of us evidently seek to outsource our taste, to shape our subjectivity through the inaccessible subjectivity of others**. And it remains to our outsources to tell us that the thing is impossible*
+			* Wow, that succinctly describes so much! "Many of us evidently seek to outsource our taste, to shape our subjectivity through the inaccessible subjectivity of others"
+			* Isn't that true though? Whether design, architecture, or wine-tasting, we often shape our own taste not through deep thought of our own but through looking to respected experts on "taste" in each respective discipline
+* `-smanship` can be used to give an air of the `craftsmanship` of something
+	* `winesmanship`, `booksmanship`, `bedsmanship`, `doorsmanship`, `websitesmanship`
+	* interestingly this could almost be thought of through my existing rule framework where `-ship` denotes the relationship between two things
+		* thus `craftsmanship` is, in a way, the relationship between `craft` and `man`
+* `-dom` refers to the "domain of ...", but where `kingdom` refers to the domain of a king more in the sense of land, words like `stardom` or `chefdom` are closer to referring to the state of being a `star` or a `chef`
+	* can you form words like `bookdom` or `chairdom` then? if so, what do these mean?
+	* there are also states like `boredom`, the state of being bored
+	* wikitionary refers to four usages of the `-dom` suffix
+		* 1. Forming nouns denoting the condition or state of the suffixed word.
+			* `boredom`, `freedom`, `martyrdom`, `stardom`
+		* 2. Forming nouns denoting the domain or jurisdiction of the suffixed word.
+			* `Christendom`, `fiefdom`, `kingdom`, `Saxondom` 
+		* 3. Forming nouns — usually nonce words — denoting the set of all examples of the suffixed word
+			* `catdom`, `dogdom`, `furrydom`, `gothdom`, `wingdom`
+		* 4. (fandom slang) Forming nouns denoting the fandom of the suffixed word. 
+			* `Potterdom`, `stfdom`
+	* in some ways I find the meaning of `-dom` relatively predictable here, and that it's meaning of `domain` naturally leads into all these various definitions (even to some extent the fandoms!)
+		* you could imagine `boredom` as being `the domain of being bored`, or aka the state of being bored
+		* the third definition kind of makes sense but I don't think I'll use it much given that I usually use `-space` to denote the space of all possible examples of something (though `-dom` helps to denote existing variations?)
+* while not often seen :sad-face:, writing words within colons makes us (or me at least) interpret what is written as an emoji — or rather, something *emotive*
+	* potentially :smiles: this could be used as markup to make text more expressive :yay:
+		* :heh: :woo:
+* `-hood` refers to a more temporal state of being, like `childhood` or `adulthood`
+* ***The real voyage of discovery consists not in seeking new landscapes, but in having new eyes**, in seeing the universe with the eyes of another, of hundreds of others, in seeing the hundreds of universes that each of them sees.* (Marcel Proust)
+* `-ward` could be particularly useful especially when positioning words along axes
+	* if we have `chair-table-nuum` then it allows us to talk about `chairward` and `tableward` as the directions along this axis
+* `... v ...` could be used in specifying a graph of multiple axes
+	* `X v Y` would just be basic coordinate space
+	* `Happiness v time` would be referring to one's happiness over time
+	* `abstractness v usefulness v time` could refer to the abstractness and usefulness of words over time (as a 3-dimensional space)
+	* `cozyiness v chair-sofa-vec-nuum`, here we can see how we might be able to turn any `-vec` into an axis `-nuum` which can then be used in a graph `... v ...`. Essentially the continuum then is the magnitude of the vector being applied!
+* You could easily apply word-vectors simply using mathematical language like `door plus chair-sofa-vec` (alternately `chair-sofa-vec door` to use it as a lens, but this might be more confusing)
+* `-factor` is useful pinpointing a property of something that is particularly important to the experience of that thing, particularly in reference to some property of malleability of the material
+	* `squish-factor`, `cozy-factor`, `crunch-factor`, `squelch-factor`
+* `-dynamics`, the (changing) relationship between two things
+	* `chair-table-dynamics`, `hu-human-dynamics`, `social-dynamics` (social already refers to a set of relations?)
+	* could be shortend to `-dyn` in some situations?
+* `-flux` to denote something that is the state of constant change, implying a dynamic and everchanging state (a state of continuous change or fluidity of a concept)
+	* `mind-flux`, `social-flux`, `flux-space`, `space-flux`, `psycho-flux`
+	* `identity-flux` could represent the ongoing evolution and transformation of one's sense of self
+		* we're always in a kind of identity-flux
+* `inter-` emphasizing a connection or in-betweenness of a single concept
+	* `inter-culture` (/`inter-cultural`)
+* `intra-` inside
+* `meta-` describes a higher, more abstract level of a concept. For example `meta-emotion` could refer to the emotions we feel about our emotions or emotional states
+* `-scope` indicating a perspective or viewpoint centered on that concept. For instance, `eco-scope` could represent a viewpoint that considers the environmental implications of an action or decision
+	* `perspective-scoping`, or just `scoping` in this context could refer to seeking out different viewpoints from which to understand
+* `-web` signifying the intricate network of connections and relationships that surround something. (similar to `-net`)
+	* `knowledge-web` could denote the interconnected nature of information, ideas, and expertise
+* `-nexus` a focal point or hub that connects various elements or ideas. A `tech-nexus` could indicate a central point where technological innovations, advancements and ideas converge
+* Recursive phrases: using self-referential phrases to evoke a sense of depth or complexity, such as `dreams within dreams` or `stories within stories`, these recursive expressions can prompt reflection and curiosity about the layers of meaning that underlie our experiences (GPT-generated, but this is very similar to my own usage of `-ception`, `dreamception`, or `storyception` has essentially the same meaning here)
+* `-sphere` denotes an encompassing multidimensional space where a concept exists and operates
+	* a `mind-sphere` could represent the expansive realm of thoughts, ideas and mntal processes
+	* `cogni-sphere` could represent the entirety of one's cognitive experience
+* `-dapt` the ability to or action of adapting something
+	* `eco-dapt` might describe an ecosystem's ability to adjust to environmental changes
+* `-polar` **signifies the existence of multiple, contrasting aspects or poles within a concept**
+	* `mood-polar` could describe a person experience a wide range of conflicting emotions
+* infix `-di-` between two words or parts of a compound word, this infix could signify a dual nature or balance between opposing forces. For example `love-di-hate` might describe the complex interplay between love and hate in certain situations (GPT-generated, but I like the concept. I don't think `di` is the best syllable to use in this context however because it sounds too close to `the`)
+* `preter-` to describe something beyond or transcending the ordinary
+	* `preterhuman`, `preternatural`, `preterlove`
+* infix `-tide-` to represent the cyclical nature of a phenomenon, inserted within a word, e.g. `emo-tide-tional` for emotions that ebb and flow like the tide
+	* similarly could be done with `-tide`, `emotion-tide`
+	* or `-cycle`, `-seasons`
+* `-quilt` to express a patchwork or mosaic of diverse elements
+	* `culturequilt` for the complex tapestry of cultural influences
+* `perma-` to express some kind of permanence of a concept
+* the problem is that there can be almost any number of suffixes and prefixes, however exploring them in this way still holds useful — particularly in discovering and adapting (lexidapt) to using new words in one's writing and **thought processes**
+	* a lot of these are like lenses, they might not be how you use language in the day-to-day, they are a kind of preter- or meta-language that lets you go beyond the ordinary language you use to describe the world
+	* a useful technique could be to try to describe things around you from new perspectives (scoping) using the new vocabulary that you're experimenting with
+* one of the next avenues of exploration that I want to delve into (and I think this might be useful to my overall goal of being able to better describe the psychological and subjective effects of things) is to explore the ways in which we can describe emotional states and the transitions between them
+	* `-polar`, `-cycle`, `-factor`, `-trance`, `-sickness`
+	* `internal-reality-rift`, `desiredreality-reality-rift`
+	* `cognitive`, `social`, `physical`, `transcendent / existential`
+		* `cognitive euphoria`
+		* `social euphoria`
+		* `physical euphoria`
+		* `transcendent euphoria`
+	* the feeling you get thinking about some past experience
+		* `memory-feel`
+	* a kind of sadness of feeling you haven't accomplished enough in life
+		* `progress-sickness`, `growth-swamp`, `slowth-pain`, `couldbe-pang`
+	* inner reality, desired reality, actual reality, possible branching reality (branching at some point in the past), possible branching reality (at some point in the future)
+		* `self-reality`, `inner-reality`, `desiredom`, `desire-space`, `emotional-multidimensionality`
+	* the existence of another person/thing that might be in your way (anger?), or have something that you want (envy)
+	* the level of possibility, ability to turn your desired reality into actuality
+	* neutrality (neutreality) is when you have little issue turning your desired reality into reality or you do not have any particularly strong desires at the moment, most emotions seem to arise out of some kind of discrepency
+		* but then how would you describe empathy? emotional-mirroring?
+	* one of the difficulties of specifying exact emotions is that there are many sources of emotion, and reasons why we might feel a particular thing — and rarely do we strongly reflect why we feel a certain way
 
 ### Techniques for position-manipulation
 
@@ -107,7 +203,37 @@ And without further ado:
 * adding `-space` to the end of anything is a very useful lens for imagining the space of all possible variations or possibilities of a thing, I am starting to find myself using this all the time
 * adding `thought-`, `mind-`, `mental-`, or `-feel` can be useful entrypoints for exploring the psychology and ways we think about, interact, or feel about the things around us
 
+### Lexicon
+
+- `book-trance`
+- `scroll-trance`
+- `writing-trance`
+- `computer-trance`
+- `work-trance`
+- `thoughtspace`
+- `mindspace`
+- `moodpolar`
+- `knowledge-web`
+- `emotional-web`
+- `mindflux`
+
 ### Random experiments
 
 - `thought-frame`: essays help to communicate a `thought-frame` or `mental-model`
-- 
+- things could exist within `screendom`, `tabdom`, `webdom` or `pagedom` in digital space?
+
+### Concepts that need words
+
+- a word for neologisms that make sense the moment you first encounter them
+
+### AI-generated words
+
+- `digiphysical` — emphasizing the interconnectedness and seamless integration of these two realms in our daily lives
+- `ambi-awareness` — conveying the importance of being conscious of the different atmospheres and contexts we inhabit and how they influence us
+- `cyber-fluence` — describing the impact of digital experience on our thoughts, emotions and behaviours
+- `info-saturation` — articulating the overwhelming abundance of data and stimuli we encounter in the digital and physical environments
+- `space-daption` — to signify the process of adjusting and adapting to the ever-changing landscapes and demands of both digital and physical environments
+- `inter-reality` — a term that encompasses the intersection of digital and physical realities, emphasizing that our experiences often involve both realms simultaneously
+- `socio-spatial dynamics` — exploring the complex interplay between our social interactions and the spaces we inhabit
+- `mindscape convergence`
+- `digiphysicality`

@@ -107,7 +107,6 @@ Some other techniques I've dabbled with, in no particular order:
 - Worldbuilding exercises
 - Improvised songs as meditative focus-lock[^song]
 - Thought colliding, juxtaposing concepts together
-- Idea echo-chambers *(soon)*
 
 [^flashcards]: Adding thoughts or ideas to flashcards and adding something new to the card each time it comes up, allowing you to slowly accrete thoughts on a particular thing
 
@@ -136,5 +135,20 @@ By immersing yourself in ideas, whether of others (papers, writing, talks, or ev
 
 <p class="separator">✽</p>
 
+Looking at the four patterns above I am reminded of a project that's been simmering in the back of my head for a little while now. Ever since, I think, a conversation with my friend Matt about the possibilities that might be afforded by a physical workshop space.
 
-![](/images/graph-skill-observation-discrepancy.png){.invertable}
+The idea was a dark room where you are surrounded from all sides by an ambient soundscape. Or, ideascape if you will — for the function of the room is simply to surface thoughts, ideas, little sound snippets of anything spoken by past inhabitants. By sitting in this room you would soak up these thoughts randomly bubbling up and surfacing themselves. The juxtapositions, the collisions, and reminders of the past; by soaking up this ideascape you might be brought to precipice of possibility, open to new connections and the spark of something new. And if (or when) an idea visits your imagination, you may let your stream of consciousness flow back into the pool of ideas circling around you.
+
+The physicality however, is not strictly necessary. A digital space may suffice. In fact, an infinite number of such spaces may be spawned, split, queried, and recorded into within a digital substrate. You may share ideascapes with collaborators across continents, and use these spaces in creative yet-unimagined ways...
+
+<p class="separator">✽</p>
+
+*At this point, I paused for a few days in writing this to delve down a rabbit-hole of language and how it can be used in intentional ways to explore new thought spaces*
+
+*While the idea for a digital echo chamber above follows in the footsteps of some of the patterns I've noticed emerging from my design process — there are some things which it lacks, just as my design process at present is lacking in certain ways. Yet some of these points of weakness may too be solvable, like incorporating (and remembering) research and papers into my work by pooling them into a soundscape to constantly remind and resurface. Others however are less clear: such as how I might better discover connections between the mind and the environment around us — while resurfacing can be a great method for sparking connections, I feel this point goes beyond to call for almost a new way of seeing the world around us.*
+
+*As I mentioned in the beginning, "Design, as much as it is a process of making, is primarily a sense — **a way of seeing**"*
+
+<p class="separator">✽</p>
+
+I have been thinking about how language is the lens through which we see the world. Beyond a basic visual understanding, it is hard to see that which you don't have the right words to explain.

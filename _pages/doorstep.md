@@ -32,3 +32,5 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 ![Omar ⁘ @elfanek]({{ "_pages/images/shoes-omar-elfanek.png" | resize: "300x300>" }}){.shoe}
 
 ![Aristotelis ⁘ @aristot_3rd]({{ "_pages/images/shoes-aristotelis.png" | resize: "300x300>" }}){.shoe}
+
+![Oliver ⁘ @Oliverding]({{ "_pages/images/shoes-oliver.png" | resize: "300x300>" }}){.shoe}

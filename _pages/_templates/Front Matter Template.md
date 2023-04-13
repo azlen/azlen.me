@@ -1,5 +1,7 @@
 ---
 layout: default
-title: "Title of page"
+title: ""
+context: ""
+description: ""
 created: {{date}}
 ---

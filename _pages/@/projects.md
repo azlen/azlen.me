@@ -5,12 +5,18 @@ context: "Draft"
 ---
 
 
+<details>
+	<summary>[Computer history by Belanciaga](/@/computer-history-by-balenciaga) <span class="date">(Apr. 2023)</span></summary>
+	<details class="item" tabindex="-1">
+		<summary><a href="https://twitter.com/azlenelza/status/1644789222082244613">Link to tweet</a></summary>
+	</details>
+</details>
 <details class="item" tabindex="-1">
 	<summary>[Seven Plus or Minus Two](/@/seven-plus-or-minus-two) <span class="new"></span></summary>
 </details>
 
 <details class="item" tabindex="-1">
-	<summary>[Worm OS](/@/worm-os) <span class="new"></span></summary>
+	<summary>[Composable Software](/@/composable-software) <span class="new"></span></summary>
 </details>
 <details>
 	<summary>[Revealing Poems](/@/revealing-poems) [(Nov. 2022)]{.date}</summary>
