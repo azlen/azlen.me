@@ -34,3 +34,11 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 ![Aristotelis ⁘ @aristot_3rd]({{ "_pages/images/shoes-aristotelis.png" | resize: "300x300>" }}){.shoe}
 
 ![Oliver ⁘ @Oliverding]({{ "_pages/images/shoes-oliver.png" | resize: "300x300>" }}){.shoe}
+
+![Ben ⁘ [@flbr](https://merveilles.town/@flbr)]({{ "_pages/images/shoes-ben.png" | resize: "300x300>" }}){.shoe}
+
+![Rudyon ⁘ @rxdyxn]({{ "_pages/images/shoes-rudyon.png" | resize: "250x250>" }}){.shoe}
+
+![Zach ⁘ @CodeAthena]({{ "_pages/images/shoes-zach.png" | resize: "300x300>" }}){.shoe}
+
+![Lilith ⁘ @lilithyu03]({{ "_pages/images/shoes-lilith.png" | resize: "300x300>" }}){.shoe}
