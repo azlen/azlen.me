@@ -14,8 +14,6 @@ Welcome to my little corner of the internet!
 Let me tell you a [story](/stories)<br>
 Or perhaps I should [introduce](/intro) myself first?<br><br>
 
-*New post:* [Glimpses of Infinity](/@/glimpses-of-infinity)
-
 {% comment %}
 [^bulletin]:
 **Bulletin**
