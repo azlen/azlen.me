@@ -37,8 +37,11 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 
 ![Ben ⁘ [@flbr](https://merveilles.town/@flbr)]({{ "_pages/images/shoes-ben.png" | resize: "300x300>" }}){.shoe}
 
+![Daniela ⁘ [strange places](http://strangeplaces.livingcode.org/)]({{ "_pages/images/shoes-daniela.png" | resize: "300x300>" }}){.shoe}
+
 ![Rudyon ⁘ @rxdyxn]({{ "_pages/images/shoes-rudyon.png" | resize: "250x250>" }}){.shoe}
 
 ![Zach ⁘ @CodeAthena]({{ "_pages/images/shoes-zach.png" | resize: "300x300>" }}){.shoe}
 
 ![Lilith ⁘ @lilithyu03]({{ "_pages/images/shoes-lilith.png" | resize: "300x300>" }}){.shoe}
+

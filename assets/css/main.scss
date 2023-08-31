@@ -617,7 +617,7 @@ figure {
   transition: all .15s ease-out;
   font-size: 0.8em;
 }
-.gallery-item:hover + figcaption, .gallery-item + figcaption:hover {
+.gallery-item:hover + figcaption, .gallery-item + figcaption:hover, figure:hover > figcaption {
   opacity: 1;
 }
 
@@ -932,3 +932,17 @@ form {
   // }
 }
 
+
+
+
+video[autoplay]::-webkit-media-controls {
+  display: none;
+}
+
+video[autoplay] {
+  pointer-events: none;
+}
+
+p > video {
+  max-width: 100%;
+}

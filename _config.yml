@@ -25,6 +25,7 @@ collections:
 exclude:
   - _pages/.obsidian
   - _pages/_templates
+  - _pages/_scripts
   - _pages/drafts
   - _pages/archive
   - _pages/.vault-stats

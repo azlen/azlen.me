@@ -6,7 +6,7 @@ hide: [ date, context, title ]
 
 Hey, I'm Azlen!
 
-My work revolves around *spaces*—both *the digital* and *physical* places we inhabit in our everyday lives: *interfaces*, *cyberspace*, *cities*, and the like
+My work revolves around *spaces*—both *the digital* and *physical* places we inhabit in our everyday lives: *interfaces*, *cyberspace*, *cities*, and the like.
 
 I weave metaphors, explore open questions, and [write](/writing) occasionally about my discoveries. I'd love to show you around some of my [projects](/projects) sometime!
 
