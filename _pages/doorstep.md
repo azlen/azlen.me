@@ -45,3 +45,4 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 
 ![Lilith ⁘ @lilithyu03]({{ "_pages/images/shoes-lilith.png" | resize: "300x300>" }}){.shoe}
 
+![Aaron ⁘ @AaronLawsonOG]({{ "_pages/images/shoes-aaron.png" | resize: "300x300>" }}){.shoe}
