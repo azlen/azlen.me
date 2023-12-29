@@ -3,21 +3,25 @@ layout: index
 title: "Azlen Elza"
 context: "Home"
 hide: [ date, title, context ]
-permalink: /newhome
+permalink: /
 published: true
 ---
 
-<em>Dear fellow wanderer,</em>[^bulletin]<br>
+<em>Dear fellow wanderer,</em><span class="ignore">[^bulletin]</span><br>
 Welcome to my little corner of the internet!
 
-{% comment %}
+
 <span style="font-size: 0.8em; font-style: italic">(please take your <a href="/doorstep">shoes</a> off as you step inside)</span>
+
+
 
 <!-- Let me tell you a [story](/stories) <br> -->
 Perhaps I should [introduce](/intro) myself?<br>
 Or, <em>feel free to explore:</em>
 
-{% endcomment %}
+[Gallery](/gallery) [Library](/@/library) [Stories](/stories) [Workshop](/workshop)
+
+{% comment %}
 
 Here's a map of the area:
 
@@ -93,6 +97,7 @@ Here's a map of the area:
 	</details>
 </details>
 
+{% endcomment %}
 
 <!--
 
@@ -105,16 +110,26 @@ Printing press / news room
 -->
 
 [^bulletin]:
-**Bulletin**
+**Bulletin** <br>
+<span class="page-date" style="font-size: 0.7em;">
+    December 2023
+</span>
+<br><br>
+Currently trying to figure out how to make this website feel more like a *home* and write more about my past [projects](/projects)
+<br>
+
+{% comment %}
 <span class="page-date" style="font-size: 0.7em;">
     (updated {{ page.last_modified_at | timeago }})
 </span>
-<br><br>
+{% endcomment %}
+{% comment %}
 Just some recent stuff I'd like to share, mostly in the order of recency but who knows? <br><br>
 • [Digital Materials Blog Club](/writing/digital-materials-blog-club) <span class="new"></span> <br>
 • [Babel Fish I Wish!](/writing/babel-fish-I-wish) <br>
 <br>
 Subscribe to my [newsletter](/newsletter) to keep up-to-date with current happenings!
+{% endcomment %}
 {% comment %}
 <br><br>⁘<br><br>
 Things still left to do:<br>

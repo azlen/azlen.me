@@ -48,6 +48,8 @@ let updateSidenoteConnectors = () => {
         let targetA = parent.querySelector('.sidenote-number')
         let targetB = parent.querySelector('.sidenote')
 
+        if(targetA.closest('.ignore') != null) return
+
         targetA.onmouseenter = hoverOver
         targetA.onmouseleave = hoverOut
         targetB.onmouseenter = hoverOver
@@ -91,8 +93,7 @@ let updateSidenoteConnectors = () => {
         connector.classList.add('connector')
         connector.style.setProperty('width', `${distance(pointA, pointB)}px`)
         connector.style.setProperty('transform', `rotate(${angle(pointA, pointB)}rad)`)
-        console.log(`linear-gradient(to right, transparent ${Math.round(Math.min(Math.sqrt((pointB.x - pointA.x) / 1000) * 100, 100))}%, var(--f_med));`)
-        connector.style.setProperty('background', `linear-gradient(to right, transparent ${Math.round(Math.min(Math.pow((pointB.x - pointA.x) / 900, 0.3) * 100, 100))}%, var(--f_med))`)
+        // connector.style.setProperty('background', `linear-gradient(to right, transparent ${Math.round(Math.min(Math.pow((pointB.x - pointA.x) / 900, 0.3) * 100, 100))}%, var(--f_med))`)
 
         targetA.appendChild(connector)
     })

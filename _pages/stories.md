@@ -14,7 +14,6 @@ These are my experiments in [applied science fiction](/applied-science-fiction),
 
 - [WormOS](/stories/worm-os)
 - [Game Animator](/stories/game-animator)
-- [The Great Crumble](/stories/the-great-crumble)
 
 <!--## Cities-->
 

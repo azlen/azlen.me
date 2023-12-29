@@ -48,5 +48,8 @@ Running a single event in a normal week, I might’ve spent a few days thinking 
 
 *Five minutes?* Hah, that’s more than enough time to scrawl a couple talking points on the back of an index card!
 
-## Lessons Learned
+## What's next
 
+I would love to run *Interhackt* again someday and continue fleshing out this format of week-long designathon. It was a lot of effort though and left me burnt out on running social events for quite a while.
+
+Currently however, my focus lies in exploring smaller [learning groups](/@/learning-groups) and how to foster more spontaneously-forming *generative spaces* where people can explore new territory of ideas with like-minded peers. The dream eventually is that I may build a community (or a platform) where *events like interhackt* emerge naturally from the community simply by the system and culture in place.

@@ -2,7 +2,7 @@
 layout: index
 title: "Azlen Elza"
 context: "Home"
-permalink: /
+permalink: /oldhome
 hide: [ date, title, context ]
 ---
 

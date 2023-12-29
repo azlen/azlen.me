@@ -5,6 +5,108 @@ context: "Draft"
 ---
 
 
+[]{.shrink-spacing}
+
+- [Computer history Belenciaga](/@/computer-history-by-balenciaga) []{.date}
+- [Composable Software](/@/composable-software) []{.date}
+- [Revealing Poems](/@/...) [(Nov. 2022)]{.date}
+- [3d Video](/@/...) [(Sep. 2022)]{.date}
+- [Squishy Spatial Text](/@/spatial-text) [(Jan. 2022)]{.date}
+- [Peripheral Scroll](/@/peripheral-scroll) [(Mar. 2021)]{.date}
+- [Multidimensional Color Picker](/@/...) [(Mar. 2021)]{.date}
+- [Cozyroom](/@/...) []{.date}
+- [Parallel Pages, Visibly Connected](/@/...) [(Jun. 2020)]{.date}
+- [Personal Website](/@/personal-website) []{.date}
+- [Neuropolis](/@/...) []{.date}
+- [Interhackt](/@/interhackt) []{.date}
+- [Bananagram Variations](/@/...) []{.date}
+- [Geolograph](/writing/geological-phonograph) []{.date}
+- [Face-detection Musical Instrument](/@/...) []{.date}
+- ["Dear Robots" Comic](/@/dear-robots) []{.date}
+- [Pattern Generator](/@/...) [(Feb. 2018)]{.date}
+- [Interactive Comic Editor](/@/...) [(Sep. 2017)]{.date}
+- [Nymero](/@/...) [(Oct. 2016)]{.date}
+- [Perceptual Shift](/@/...) [(Mar. 2016)]{.date}
+- [Sprite Generator](/@/...) [(Dec. 2015)]{.date}
+- [Spatial Audio Game](/@/...) [(Dec. 2012)]{.date}
+
+{% comment %}
+
+- emojibot
+- echo chamber
+- continuous word wrap experiment
+- chinese dreams interface
+- learning groups
+- beautiful void
+- rate of change vector space
+- abstract orange lice
+- 5-dimensional Set
+- browsercade
+- synced web browser
+- edge browser
+- notch browser
+- browser transitions
+- first-person browser (pointer-lock-browser)
+- geospatial search engine
+- discord notetaking system
+- personal forum
+- embol
+- embol-like text adventure
+- collaborative text adventure (?? maybe not)
+- roam plugins / themes (maybe just put under parallel pages visibly connected)
+- cozy garden (challenge platform)
+- drullbot
+- japanese learning mnemonics
+- chinese learning app
+- visual chinese mnemonics
+- rotanym interface (on replit)
+- cozyroom 2.0 (maybe have it be a different page, or cozyroom prototype -> cozyroom)
+- skyline logo + posters
+- untitled dice game (last ludum dare)
+- single player pen-and-paper RPG
+- tinkerling (language toybox, parts of images are portals into other images)
+	- could prob do better w/ AI now...
+- AR language learning app (figma 3 years ago: https://www.figma.com/file/72XUYVcs8KybFEW8NkxzPJ/AR-Language-Learning-App?type=design&t=1SArGl6NOOViVnBO-6)
+- Cozymind
+- Thing I made for Hyperlink, with grouping mechanic (please find code!)
+- micro learning futures
+- interface for exoskeleton
+- gpt-2 madame bovary book
+- sea temperature exhibition 
+- erik satie music
+- generative shoes
+- Obalyr (acapela-style turn-any-video-into-music-video)
+- color map
+- chinese overlay
+- flower garden
+- chinese colocation interface
+- generative business cards
+- reddit logo generator
+- cthulhu tarot
+- ticker symbol thing
+- frequency XKCD thing
+- bret victor inspired game engine
+- procjam word vector alchemy game
+- weird wide web
+- old old old board game with mechas and stuff
+- deck of creativity recipes and constraints
+- concept-space search (reverse concept prompt interface)
+- chladni patterns
+- notes.azlen.me
+- generative art phase
+- ghoti
+- future of learning group
+- environmental psychology learning group
+- chinese learning group
+
+future projects (I should make an ideas / experiment with me page)
+- neuropolis?
+- cardographer
+- browsercade
+
+archive:
+- [Seven Plus or Minus Two](/@/seven-plus-or-minus-two)
+
 <details>
 	<summary>[Computer history by Belanciaga](/@/computer-history-by-balenciaga) <span class="date">(Apr. 2023)</span></summary>
 	<details class="item" tabindex="-1">
@@ -184,4 +286,14 @@ Also, most of the projects will have been written about post-mortem so that shou
 
 It would also be interesting if I had some way of tracking the themes present (perhaps I could do this through side-notes?), in some way describing the trajectory of my paths through ideas.
 
+
+Other:
+- rate of change vector space
+- cozy garden challenge platform
+- synced browsers multiplayer
+- browsercade (mostly idea)
+- physical web browser (future)
+
 -->
+
+{% endcomment %}

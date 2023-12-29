@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Library"
-context: ""
 description: "Books on my shelf that I enjoy"
 created: 2023-08-18
 ---

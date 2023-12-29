@@ -11,9 +11,11 @@
     {% if title_length > 0 %}
       <header>
         {% if page.context %}
-          {% unless page.hide contains "context" %}
-            <p class="context">{{ page.context }}</p>
-          {% endunless %}
+          {% if page.context != "" %}
+            {% unless page.hide contains "context" %}
+              <p class="context">{{ page.context }}</p>
+            {% endunless %}
+          {% endif %}
         {% endif %}
         {% if page.title %}
           {% unless page.hide contains "title" %}

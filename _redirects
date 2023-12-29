@@ -400,6 +400,11 @@
 / https://old.azlen.me/ 301
 
 
+# new redirects
+
+/@/computer-history-by-balenciaga   /@/computer-history-balenciaga  301
+
+
 # netlify redirects
 
 /blog                   /writing

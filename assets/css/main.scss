@@ -18,6 +18,26 @@
   font-style: normal;
 }
 
+// @font-face {
+//   font-family: 'Basteleur';
+//   src: url('/assets/fonts/basteleur/bold.woff2') format('woff2'),
+//       url('/assets/fonts/basteleur/bold.woff') format('woff');
+//   font-weight: bold;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+@font-face {
+  font-family: 'Basteleur';
+  src: url('/assets/fonts/basteleur/moonlight.woff2') format('woff2'),
+      url('/assets/fonts/basteleur/moonlight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+
 :root { 
   --background: #EDEAEA; 
   --f_high: #393B3F; 
@@ -68,7 +88,7 @@ article {
 }
 
 h1, h2, h3, h4, h5, .subtitle {
-  font-family: "LHF Corrie", "jaf-lapture", "et-book", serif;
+  font-family: "Basteleur", "LHF Corrie", "jaf-lapture", "et-book", serif;
   font-style: normal !important;
   color: var(--f_med);
   text-wrap: balance;
@@ -77,9 +97,9 @@ h1, h2, h3, h4, h5, .subtitle {
 }
 h1.title {
   margin-top: 0;
-  font-size: 4.5rem;
+  font-size: 4.1rem;
   line-height: 0.9;
-  margin-top: -0.45rem;
+  margin-top: -0.25rem;
   padding-top: 0;
   margin-bottom: 2.4rem;
 
@@ -326,7 +346,7 @@ nav > * {
   left: -0.4rem;
 }
 
-.sidenote-number:hover, .sidenote::before:hover {
+*:not(.ignore) > .sidenote-number:hover, *:not(.ignore) > .sidenote::before:hover {
   background: var(--f_med);
   color: var(--background);
 }
@@ -528,7 +548,7 @@ figcaption {
 // }
 
 strong {
-  font-family: "jaf-lapture", 'et-book';
+  font-family: "Basteleur", "jaf-lapture", 'et-book';
   font-size: 19px;
 }
 
@@ -685,9 +705,9 @@ hr {
 
 .page-date {
   font-family: "Dank Mono", "Fira Code", monospace;
-  margin-top: -40px;
+  margin-top: -26px;
   font-size: 0.9em;
-  opacity: 0.5;
+  opacity: 0.35;
 }
 article > p:nth-child(2) {
   margin-top: -3px;
@@ -717,6 +737,34 @@ article > p:nth-child(2) {
 }
 
 
+ol, ul {
+  padding-left: 25px !important;
+  list-style-type: none;
+  counter-reset: list;
+}
+
+li {
+  font-size: 1.2rem;
+  padding-left: 5px;
+  counter-increment: list;
+  line-height: 1.5;
+  // margin: -7px 0px;
+}
+
+li::before {
+  content: "•";
+  display: inline-block;
+  margin-left: -100px;
+  width: 100px;
+  height: 20px;
+  box-sizing: border-box;
+  padding: 3px 10px 3px 3px;
+  opacity: 0.5;
+  text-align: right;
+}
+ol li::before {
+  content: counter(list) ".";
+}
 
 details {
   font-size: 1.1rem;
@@ -791,7 +839,8 @@ details.spacing {
 
   height: 1px;
 
-  background: linear-gradient(to right, transparent 80%, var(--f_med));
+  // background: linear-gradient(to right, transparent 80%, var(--f_med));
+  border-bottom: 1px dashed var(--f_med);
   transition: background .3s;
 }
 // .connector::after {
@@ -804,11 +853,11 @@ details.spacing {
 
 
 body.sidenote-hoverstate {
-  color: var(--b_low);
+  // color: var(--b_low);
 }
 
 body.sidenote-hoverstate img {
-  opacity: 0.2;
+  // opacity: 0.2;
 }
 
 .sidenote-highlighted {
@@ -839,14 +888,14 @@ body.sidenote-hoverstate .sidenote-wrapper:not(.sidenote-highlighted) .connector
 
 .context {
   position: absolute;
-  margin-top: -39px;
+  margin-top: -52px;
   text-transform: uppercase;
   font-family: "Dank Mono", monospace, "LHF Corrie";
-  font-size: 14pt;
+  font-size: 12pt;
   background: var(--f_high);
   color: var(--background);
-  padding: 0px 10px;
-  opacity: 0.3;
+  padding: 2px 12px 0px 12px;
+  opacity: 0.2;
 }
 
 
@@ -875,23 +924,23 @@ body.sidenote-hoverstate .sidenote-wrapper:not(.sidenote-highlighted) .connector
 }
 
 
-.sidenote-wrapper::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  width: 55%;
-  height: 80px;
-  background: var(--f_med);
-  mix-blend-mode: overlay;
-  filter: blur(20px);
-  margin-top: -40px;
-  pointer-events: none;
-  opacity: 0;
-  transition: .5s opacity;
-}
-.sidenote-wrapper.sidenote-highlighted::before {
-  opacity: 1;
-}
+// .sidenote-wrapper::before {
+//   content: "";
+//   position: absolute;
+//   left: 0;
+//   width: 55%;
+//   height: 80px;
+//   background: var(--f_med);
+//   // mix-blend-mode: overlay;
+//   filter: blur(20px);
+//   margin-top: -40px;
+//   pointer-events: none;
+//   opacity: 0;
+//   transition: .5s opacity;
+// }
+// .sidenote-wrapper.sidenote-highlighted::before {
+//   opacity: 0.2;
+// }
 
 
 form {
@@ -947,3 +996,11 @@ video[autoplay] {
 p > video {
   max-width: 100%;
 }
+
+.ignore {
+  .sidenote-number, .sidenote::before, .sidenote-wrapper::before {
+    visibility: hidden !important;
+    pointer-events: none;
+  }
+}
+
