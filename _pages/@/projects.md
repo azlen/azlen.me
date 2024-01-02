@@ -7,10 +7,10 @@ context: "Draft"
 
 []{.shrink-spacing}
 
-- [Computer history Belenciaga](/@/computer-history-by-balenciaga) []{.date}
-- [Composable Software](/@/composable-software) []{.date}
+- [Computer history Balenciaga](/@/computer-history-by-balenciaga) []{.date}
 - [Revealing Poems](/@/...) [(Nov. 2022)]{.date}
 - [3d Video](/@/...) [(Sep. 2022)]{.date}
+- [Emojibot](/@/emojibot) [(Sep. 2022)]{.date}
 - [Squishy Spatial Text](/@/spatial-text) [(Jan. 2022)]{.date}
 - [Peripheral Scroll](/@/peripheral-scroll) [(Mar. 2021)]{.date}
 - [Multidimensional Color Picker](/@/...) [(Mar. 2021)]{.date}
@@ -32,9 +32,10 @@ context: "Draft"
 
 {% comment %}
 
+- perceptual shift (https://github.com/azlen/perceptual-shift)
 - emojibot
 - echo chamber
-- continuous word wrap experiment
+- continuous word wrap experiment (https://github.com/azlen/continuous-wrap)
 - chinese dreams interface
 - learning groups
 - beautiful void
@@ -62,6 +63,7 @@ context: "Draft"
 - rotanym interface (on replit)
 - cozyroom 2.0 (maybe have it be a different page, or cozyroom prototype -> cozyroom)
 - skyline logo + posters
+- skyline website
 - untitled dice game (last ludum dare)
 - single player pen-and-paper RPG
 - tinkerling (language toybox, parts of images are portals into other images)
@@ -80,14 +82,15 @@ context: "Draft"
 - chinese overlay
 - flower garden
 - chinese colocation interface
-- generative business cards
-- reddit logo generator
+- generative business cards (and computational design experiments)
+- reddit logo generator (https://github.com/azlen/snoo-generator)
 - cthulhu tarot
 - ticker symbol thing
-- frequency XKCD thing
+- frequency XKCD thing (http://azlen.github.io/frequency/)
 - bret victor inspired game engine
 - procjam word vector alchemy game
 - weird wide web
+- biosphere (bio rpg idea: https://github.com/azlen/BioSphere/blob/master/ideas.txt)
 - old old old board game with mechas and stuff
 - deck of creativity recipes and constraints
 - concept-space search (reverse concept prompt interface)
@@ -98,6 +101,17 @@ context: "Draft"
 - future of learning group
 - environmental psychology learning group
 - chinese learning group
+- typographic neural network
+- neural network parameter art
+- tempest in a teacup (https://github.com/dethe/tempest_in_a_teapot)
+- canadascript
+- waterbear website
+- mintter logo
+- spatial audio games (https://github.com/azlen/LudumDare25)
+- Bard (more of a project idea, hackathon, never finished)
+- Maze / maze editor
+- Electron pomodoro (https://github.com/azlen/productivityApp)
+- Exploding typography (https://github.com/azlen/typography)
 
 future projects (I should make an ideas / experiment with me page)
 - neuropolis?
@@ -106,6 +120,7 @@ future projects (I should make an ideas / experiment with me page)
 
 archive:
 - [Seven Plus or Minus Two](/@/seven-plus-or-minus-two)
+- [Composable Software](/@/composable-software) []{.date}
 
 <details>
 	<summary>[Computer history by Belanciaga](/@/computer-history-by-balenciaga) <span class="date">(Apr. 2023)</span></summary>
