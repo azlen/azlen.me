@@ -2,6 +2,8 @@
 layout: default
 title: "Seven Plus or Minus Two"
 context: "Research Lab"
+description: "Small research lab exploring the future of computing"
+published: false
 created: 2023-02-28
 ---
 

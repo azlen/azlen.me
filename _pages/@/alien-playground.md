@@ -2,7 +2,7 @@
 layout: default
 title: "Alien Playground"
 context: "Classified"
-description: ""
+description: "Messages left to humanity"
 created: 2023-08-31
 ---
 

@@ -19,6 +19,8 @@ I wrote out a list of questions that came to mind regarding interfaces and the f
 
 Hope you enjoy.
 
+[](){name="fd1"}
+
 ### What does the future dictionary look like?
   
 It hits the page like a bomb, collapsing into itself suddenly, annihilating everything around it, only to rise and expand once again, like a great pillar holding the entire structure aloft. And as you turn the page, the column inches and the vast meaty instruction words litter it like the pages of an ancient manuscript. But not just one book. Not preserved words here but [living words here that change as you change]{.highlight}:[^change] the language, bleeding from your pages’ wounds and body and mouth and teeth. Speaking. This is the future dictionary. It blooms and it dies every time you use it[^beautiful_writing]; evaporating words every time you turn a page. It has grown out of the flesh of your hand.
@@ -26,6 +28,8 @@ It hits the page like a bomb, collapsing into itself suddenly, annihilating ever
 [^change]: *Words that change as you change*
 
 [^beautiful_writing]: Beautifully evocative. That this was one of the first stories generated may have helped spark me to continue exploring—even if not all the stories contain any interesting ideas, at least some of them will be beautifully written
+
+[](){name="fd2"}
 
 ### What does the future dictionary look like?
 
@@ -35,11 +39,15 @@ You find yourself reading easily in the new semantic web. Words have taken on wh
 
 [^personalized]: I have to say, I love the idea of a dictionary that is personalized to you. In some ways that is what I'm trying to do with my own [personal dictionary](/lexicon)
 
+[](){name="fd3"}
+
 ### What does the future dictionary look like?
 
 The next time you attend a marketing or design conference, do yourself a favour. Approach the marketing people and ask, “Tell me you have a list of the words that you are planning to use this year.”[^listofwords] They will look at you as if you have three heads — these people are rarely trained in the language of strategic thinking. They are prepared to meet anyone, pay anyone, throw any money at you, to buy your ads, to buy your space. They broadcast their assumptions with every piece of print, every image, and they don’t have a list of the words they plan to use this year. You can almost hear them thinking, “But I’m so busy.“
 
 [^listofwords]: I'd like to actually do this! Imagine for the new year compiling together a list of words that you're planning to use and incorporate into your vocabulary that year, and possibly another list of words to stay away from...
+
+[](){name="fd4"}
 
 ### What does the future dictionary look like?
 
@@ -49,11 +57,13 @@ It’s a world of contradictions all woven together, textures, hues, sounds, vis
 
 [^technologycommunicate]: I wonder in what ways modern technology allows us (in a way that could not have been done before) to communicate completely new concepts. Is is simply through a larger range of media to take metaphors and analogies from, or perhaps a greater ability to express ourselves with technology and thus to express new ideas. Imagine for example a multimedia dictionary where words are not so much "defined" as simply *expressed* through sounds and imagery...
 
+[](){name="eyd1"}
 
 ### How do you explore your own data, files, etc.?
 
 You’re in exploring mode. Not hopelessly lost. Simply awake and propelled along an unseen path of mutation of your own construction. For everything is experiment here. Building is your mantra. Negation is your embodiment. Merging is an ongoing theme. To merge is to create. To create is to explore. And the tools are there to merge and explore efficiently to shape the ship of thought on your own terms without ever leaving the port of your own consciousness. Your tracks snake like streams of current of power throughout your document to guide and shape and seize and shape. Build. Shapes that enclose darker regions than the surface of a lake, building up like grand processions of a ship sailing on the sea of memory. Faster. Think faster. Beyond the ships of thought you flatten your terrain of cursor trails across your dry white sand, breaking down walls of somatic memory to reveal the hidden history of places long forgotten, leaving cracks in the wall of forgetting where light of new knowledge can break through. You breathe ideas like water into the air and take in the incalculable riches washing along in an amniotic fluid of possibility flooding the open vessel of memory.
 
+[](){name="eyd2"}
 
 ### How do you explore your own data, files, etc.?
 
@@ -63,6 +73,7 @@ As I type, and more text emerges I hold my hand in front of my body and use my r
 
 [^mastered]: Once you've mastered the interface you can be more efficient
 
+[](){name="swc1"}
 
 ### How do you switch between different workspaces or contexts?
 
@@ -70,6 +81,7 @@ You focus your eyes softly, set your lungs to the rhythm of the new environment,
 
 [^cascading]: ooh I like this: "a cascading cloud of realities"
 
+[](){name="lok1"}
 
 ### How does one navigate the landscape of knowledge?
 
@@ -86,7 +98,7 @@ The solution is four-dimensional data visualization. By surrounding a path we wa
 
 The interface looks like this: we see a scene, but instead of a traditional map view with a continuous sweep of exploration, we break up into different directions of motion — four-dimensional paths, like a game of Marco Polo. There is a path that moves from highlighted leftmost point to the rightmost highlight, one that moves from the highlighted topmost point to the highlighted bottommost point, one that moves from the highlighted bottommost point to the highlighted topmost point, and one that moves diagonally from the bottommost highlight to the topmost highlight[^colorpicker]. One or more of these paths are generated to help guide your attention to the important points.
 
-[^colorpicker]: the description of this interface was the seed that sparked my own imagination to come up with an idea for my [starfish color picker](https://twitter.com/azlenelza/status/1371961905154252801) interface experiment
+[^colorpicker]: the description of this interface was the seed that sparked my own imagination to come up with an idea for my [multidimensional color picker](/@/multidimensional-color-picker) interface experiment
 
 For example, to compare different countries, we could travel down the longest path from the bottom highlight to the top highlight, or up the longest path to the top highlight from the bottom highlight. These paths are essentially sequences of instructions to remember: if you move in this direction along this path, you will reach the highlight. As you traverse the path, information about the different zones of attention become visible. You could see at any time what countries are on your list or how closely your choices represent the true choices. These paths are the foundation of our new form of visual terminal, a tool for processing spatial knowledge[^visualterminal], one that is more intuitive, more playful, more communicative, and more adaptable than anything that has come before.
 
@@ -94,6 +106,7 @@ For example, to compare different countries, we could travel down the longest pa
 
 *Sometimes, it is difficult to empathize with the difficulties of others, and this is especially true in the realm of design. Designers are often separated from regular people by lofty educational standards, or they are consumed by the design process itself — not really seeing the flaws inherent in their knowledge. The designer can be a mere distance away from the user and still be unable to take the user's perspective.*
 
+[](){name="lok2"}
 
 ### Question: How does one navigate the landscape of knowledge?
 
@@ -101,9 +114,13 @@ It’s fuzzy. From this view, there is no separation between the real world and 
 
 [^mosaicofdata]: I like that, a "mosaic of data"
 
+[](){name="lok3"}
+
 ### Question: How does one navigate the landscape of knowledge?
 
 You move your fingers, tracing quicksilver circuits on the interface, whisking through your online bookmarks, your Google queries, plucked from the ether of the search. Your fingers move like light, like light through a prism, through the invisible paper language of the internet, opening the screen to another dimension, a time and place beyond known.
+
+[](){name="lok4"}
 
 ### Question: How does one navigate the landscape of knowledge?
 
@@ -115,10 +132,13 @@ And as you are lost in the greatest library, you are lost in all the libraries, 
 
 I’m sorry.
 
+[](){name="syc1"}
 
 ### What do you see first when starting up your computer?
 
 As you turn on your computer you notice the light on the screen flicker, colors moving like a camera flash. The calendar, the e-mail, the news. The world is always changing, always moving, and it is always here, always now. And as you turn to the task bar and the shell scoots aside, you see everything that has happened. Everything that has been. And all the things that are.
+
+[](){name="eo1"}
 
 ### What are you presented with starting up an empty OS?
 
@@ -138,6 +158,7 @@ What is a Window?[^philosophical]
 
 [^philosophical]: Imagine if restarting / setting up your computer was a deep philosophical journey?
 
+[](){name="psm1"}
 
 ### How do you “pull” in content or software modules into your workspace?
 

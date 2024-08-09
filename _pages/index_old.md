@@ -4,6 +4,8 @@ title: "Azlen Elza"
 context: "Home"
 permalink: /oldhome
 hide: [ date, title, context ]
+
+published: false
 ---
 
 <em>Dear fellow wanderer,</em><br>

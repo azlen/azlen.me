@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Annotating..."
+title: "Annotation and the Malleability of Software"
 context: "Story"
-description: ""
+description: "A story exploring the serendipitious effects of a world in which "
 created: 2023-06-01
 ---
 
-All learning is self-learning, isn't it? While teachers may be effective guides through the landscape of knowledge, it comes down to you at the end of the day to perceive, wrap your head around, and truly *learn* and maintain this knowledge. If you learn to guide yourself to navigate these landscapes and actively exercise your eye of observation, you have the power to learn anything, I think.
+*All learning is self-learning, isn't it?* While teachers may be effective guides through the landscape of knowledge, it comes down to you at the end of the day to perceive, wrap your head around, and truly *learn* and maintain this knowledge. If you learn to guide yourself to navigate these landscapes and actively exercise your eye of observation, you have the power to learn anything, I think.
 
 I may have, in a way, accidentally created a new tool — one which helps me in my own journey to become a filmmaker. Though to call it a tool may be silly as really its just a collection of existing tools, I guess perhaps workflow or just "flow" would be more apt. I was watching a movie one day and was struck by the unique transitions between scenes. To capture this moment I thought to pull in the *snippeting* tool into my space with the video and used it to cut the last few seconds. Then, grabbing the drawing tool I drew some rough lines of movement leading into the transition and took notes to the side of what I liked and why it worked so well. Then, putting all that aside, I continued watching the movie.
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Doorstep"
+description: "Leave your shoes as you enter"
 image: "/images/background-doorstep.png"
 created: 2021-10-24
 ---
@@ -48,3 +49,9 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 ![Aaron ⁘ @AaronLawsonOG]({{ "_pages/images/shoes-aaron.png" | resize: "300x300>" }}){.shoe}
 
 ![Vega ⁘ [opguides](http://opguides.info/)]({{ "_pages/images/shoes-vega.png" | resize: "300x300>" }}){.shoe}
+
+![Sid ⁘ [kjelsrud.dev](https://kjelsrud.dev/)]({{ "_pages/images/shoes-sid.png" | resize: "300x300>" }}){.shoe}
+
+![Luca ⁘ [lex]]
+
+![](images/shoes-sid.png)

@@ -1,8 +1,21 @@
-{% assign backlink_count = 0 %}
-{% for note in site.pages %}
-        {% if note.url != page.url %}
-            {% if note.content contains page.id %}
-                {% assign backlink_count = link_count | plus:1 %}
-            {% endif %}
+<!-- {% assign backlinks = site.pages | where_exp: "note", "note.url != page.url" | where_exp: "note": "note.content contains page.id" %} -->
+
+{% assign backlinks = "" | split,"" %}
+
+{% assign markdown_backlinks = "" | split,"" %}
+{% assign html_backlinks = "" | split,"" %}
+
+{% for target in site.pages %}
+    {% if target.url != page.url %}
+        {% capture markdown_pattern %}]({{page.id}}){% endcapture %}
+        {% capture html_pattern %}href="{{page.id}}"{% endcapture %}
+
+        {% if target.content contains html_pattern %}
+            {% assign backlinks = backlinks | push: target %}
+            {% assign html_backlinks = html_backlinks | push: target %}
+        {% elsif target.content contains markdown_pattern %}
+            {% assign backlinks = backlinks | push: target %}
+            {%  assign markdown_backlinks = markdown_backlinks | push: target %}
+        {% endif %}
     {% endif %}
 {% endfor %}

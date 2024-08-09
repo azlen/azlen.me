@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sketchbook"
+description: "Ideas floating around the latent space of imagination"
 created: 2022-12-11
 ---
 

@@ -156,6 +156,9 @@ a:not(.no-link-style):link {
 
   // box-decoration-break: clone;
 }
+a.broken {
+  text-decoration: line-through !important;
+}
 
 figcaption a:not(.no-link-style) {
   color: #FFFFFF !important;
@@ -708,6 +711,7 @@ hr {
   margin-top: -26px;
   font-size: 0.9em;
   opacity: 0.35;
+  width: 55%;
 }
 article > p:nth-child(2) {
   margin-top: -3px;
@@ -834,6 +838,7 @@ details.spacing {
   position: absolute;
   transform-origin: 0% 0%;
   top: 1px; left: 100%;
+  opacity: 0.3;
 
   margin-top: 3.5px;
 
@@ -868,21 +873,29 @@ body.sidenote-hoverstate img {
 }
 .sidenote-highlighted .connector {
 // body.sidenote-hoverstate .sidenote-wrapper .connector {
-  background: linear-gradient(to right, var(--f_med) 0%, var(--f_med)) !important;
-  height: 2px;
+  // background: linear-gradient(to right, var(--f_med) 0%, var(--f_med)) !important;
+  border-bottom: 1px solid var(--f_med);
+  height: 1px;
   margin-top: 3px;
+  opacity: 1;
 }
 
-body.sidenote-hoverstate .sidenote-wrapper:not(.sidenote-highlighted) .connector {
-  background: none !important;
-  border-bottom: 1px dashed var(--f_med);
-}
+// body.sidenote-hoverstate .sidenote-wrapper:not(.sidenote-highlighted) .connector {
+//   background: none !important;
+//   border-bottom: 1px dashed var(--f_med);
+//   // opacity: 0.3;
+// }
 
 
 .sidenote-highlighted .sidenote-number, .sidenote-highlighted .sidenote::before {
   background: var(--f_med);
   color: var(--background);
 }
+
+.backlinks:not(.sidenote-toggled) .sidenote { display:none }
+.backlinks .sidenote-clickable { border-bottom: 1px dashed; cursor: pointer }
+.backlinks.sidenote-toggled .sidenote-clickable { border-bottom: 1px solid }
+.backlinks .sidenote::before { display: none !important }
 
 
 
@@ -947,12 +960,12 @@ form {
   display: block;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 760px) {
   details > summary {
     width: unset;
   }
 
-  .sidenote-wrapper::before {
+  .sidenote-wrapper::before, .page-date {
     width: 100%;
   }
 
@@ -1004,3 +1017,7 @@ p > video {
   }
 }
 
+
+// .full-width {
+//   width: 100% !important;
+// }

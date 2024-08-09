@@ -24,10 +24,10 @@
 <!-- OpenGraph tags -->
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:description" content="{{ page.description | default: '' }}">
-<meta property="og:image" content="https://azlen.me/og-image.png">
+<meta property="og:image" content="{% og_filter %}">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="{{ site.baseurl }}/og-image.png">
+<meta name="twitter:image" content="{% og_filter %}">
 <meta name="twitter:site" content="@azlenelza">
 <meta name="twitter:creator" content="@azlenelza">
 

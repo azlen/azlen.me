@@ -45,7 +45,7 @@ let updateSidenoteConnectors = () => {
     let sidenotes = [].slice.call(document.querySelectorAll('.sidenote-wrapper'))
 
     sidenotes.forEach(parent => {
-        let targetA = parent.querySelector('.sidenote-number')
+        let targetA = parent.querySelector('.sidenote-number, .sidenote-clickable')
         let targetB = parent.querySelector('.sidenote')
 
         if(targetA.closest('.ignore') != null) return

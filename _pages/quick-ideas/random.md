@@ -2,6 +2,7 @@
 layout: default
 title: "Memorandom"
 subtitle: "Random uncategorized thoughts"
+description: Idea journal of random thoughts
 created: 2021-08-15
 ---
 

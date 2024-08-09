@@ -12,6 +12,9 @@ The eventual goal is to create a platform that brings out the serendipitous conn
 
 ## Where am I at now?
 
+- Building out a page of [side quests](/side-quests), small projects simmering on the back burner that would be fun to collaborate with anyone on. Hopefully I can inspire other people to make their own pages of side-quests and spark a little network of informal collaborative groups.
+
+{% comment %}
 - Starting a new set of learning groups (see: [/learn](/learn)) with focused output goals, mostly running solo or in very small groups to better experiment with structures around making and artifacting
 - One of these groups in-particular is focused on developing a pattern language for the formation and continuation of *generative spaces* \[groups, communities, platforms\]
 
@@ -19,3 +22,4 @@ The eventual goal is to create a platform that brings out the serendipitous conn
 
 - Slowly bring more people into the fold of regular group making, and explore a variety of different structures: asynchronous, sprint, chained groups, etc.
 - Explore low-effort solutions to building a platform using (for the most part) tools that already exist, that would act as a kind of conductive substrate enabling new groups to form around topics and goals people are interested in pursuing together
+{% endcomment %}

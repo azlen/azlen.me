@@ -28,6 +28,9 @@
 
         {% include backlinker.html %}
 
+        <!-- <p>{{ backlinks | size }} backlinks (page id: {{ page.id }})</p> -->
+        
+
         {% if page.hide contains "date" %}
             {% unless page.hide contains "title" %}
               <style>
@@ -40,12 +43,17 @@
           <p class="page-date">
             Last updated {{ page.last_modified_at | timeago }}
 
-            {% if backlink_count > 1 %}
+            {% assign backlink_count = backlinks | size %}
+            {% if backlink_count > 0 %}
               {% assign s = "" %}
               {% if backlink_count > 1 %}
                 {% assign s = "s" %}
               {% endif %}
-              — {{ backlink_count }} backlink{{ s }}
+              — <span class="sidenote-wrapper backlinks"><label class="sidenote-clickable">{{ backlink_count }} backlink{{ s }}</label><span class="sidenote">
+                {% for backlink in backlinks %}
+                  <a href="{{ backlink.id }}">{{ backlink.title }}</a><br>
+                {% endfor %}
+              </span></span>
             {% endif %}
 
             {% comment %}

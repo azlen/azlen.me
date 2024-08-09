@@ -1,6 +1,7 @@
 ---
 layout: index
 title: "Musings on Jigsaw Worlds"
+description: "Fictional pieces to explore design ideas"
 ---
 
 These are my experiments in [applied science fiction](/applied-science-fiction), writing design-fictions as a kind of [bottom up design](/bottom-up-design) exploration of possible futures.  
@@ -14,6 +15,10 @@ These are my experiments in [applied science fiction](/applied-science-fiction),
 
 - [WormOS](/stories/worm-os)
 - [Game Animator](/stories/game-animator)
+- [Annotation and the Malleability of Software](/stories/annotation-story)
+- [On the Paths of Nonsense](/stories/on-the-paths-of-nonsense)[^gpt]
+
+[^gpt]: An experiment in *generating* short design-fiction stories with GPT-3 and annotating them to extract interesting or evocative ideas
 
 <!--## Cities-->
 

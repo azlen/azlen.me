@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Mintter Thoughts 2022-10-08"

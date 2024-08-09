@@ -2,7 +2,7 @@
 layout: default
 title: "Pattern Generator"
 context: "Experiment"
-description: ""
+description: "A simple system to generate complex patterns"
 created: 2023-08-25
 ---
 

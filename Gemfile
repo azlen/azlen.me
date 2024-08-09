@@ -13,5 +13,7 @@ gem "jekyll-last-modified-at"
 gem "jekyll-sitemap"
 gem "jekyll-timeago"
 
+gem "rickshaw"
+
 # fixes an issue w/ jekyll
 gem "webrick", "~> 1.7"

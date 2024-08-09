@@ -7,31 +7,37 @@ context: "Draft"
 
 []{.shrink-spacing}
 
+- [Cardographer]()
+- [Abstract Orange Lice](/@/word-matching-game.md) []{.date}
+- [5D Set](/@/5d-set) []{.date}
 - [Computer history Balenciaga](/@/computer-history-by-balenciaga) []{.date}
-- [Revealing Poems](/@/...) [(Nov. 2022)]{.date}
-- [3d Video](/@/...) [(Sep. 2022)]{.date}
-- [Emojibot](/@/emojibot) [(Sep. 2022)]{.date}
-- [Squishy Spatial Text](/@/spatial-text) [(Jan. 2022)]{.date}
-- [Peripheral Scroll](/@/peripheral-scroll) [(Mar. 2021)]{.date}
-- [Multidimensional Color Picker](/@/...) [(Mar. 2021)]{.date}
+- [Revealing Poems](/@/revealing-poems) [(Nov 2022)]{.date}
+- [3d Video](/@/video-materiality) [(Sep 2022)]{.date}
+- [Emojibot](/@/emojibot) [(Sep 2022)]{.date}
+- [Squishy Spatial Text](/@/spatial-text) [(Jan 2022)]{.date}
+- [Word Color Map](/@/color-map) [(Mar 2021)]{.date}
+- [Peripheral Scroll](/@/peripheral-scroll) [(Mar 2021)]{.date}
+- [Multidimensional Color Picker](/@/multidimensional-color-picker) [(Mar 2021)]{.date}
 - [Cozyroom](/@/...) []{.date}
 - [Parallel Pages, Visibly Connected](/@/...) [(Jun. 2020)]{.date}
 - [Personal Website](/@/personal-website) []{.date}
-- [Neuropolis](/@/...) []{.date}
 - [Interhackt](/@/interhackt) []{.date}
-- [Bananagram Variations](/@/...) []{.date}
+- [Bananagram Variations](/@/bananagrams-variations) []{.date}
 - [Geolograph](/writing/geological-phonograph) []{.date}
-- [Face-detection Musical Instrument](/@/...) []{.date}
-- ["Dear Robots" Comic](/@/dear-robots) []{.date}
-- [Pattern Generator](/@/...) [(Feb. 2018)]{.date}
+- [Face-detection Instrument](/@/face-detection-instrument) []{.date}
+- [Micro Learning Futures](/@/micro-learning-futures) [(Nov 2019)]{.date}
+- ["Dear Robots" Comic](/@/dear-robots) [(Nov 2018)]{.date}
+- [Pattern Generator](/@/pattern-generator) [(Feb. 2018)]{.date}
 - [Interactive Comic Editor](/@/...) [(Sep. 2017)]{.date}
-- [Nymero](/@/...) [(Oct. 2016)]{.date}
-- [Perceptual Shift](/@/...) [(Mar. 2016)]{.date}
-- [Sprite Generator](/@/...) [(Dec. 2015)]{.date}
+- [Word Alchemy](/@/word-alchemy) [(Nov 2016, Sep 2022)]{.date}
+- [Nymero](/@/nymero) [(Oct. 2016)]{.date}
+- [Perceptual Shift](/@/perceptual-shift) [(Mar. 2016)]{.date}
+- [Sprite Generator](/@/sprite-generator) [(Dec. 2015)]{.date}
 - [Spatial Audio Game](/@/...) [(Dec. 2012)]{.date}
 
 {% comment %}
 
+- dementos
 - perceptual shift (https://github.com/azlen/perceptual-shift)
 - emojibot
 - echo chamber
@@ -71,7 +77,6 @@ context: "Draft"
 - AR language learning app (figma 3 years ago: https://www.figma.com/file/72XUYVcs8KybFEW8NkxzPJ/AR-Language-Learning-App?type=design&t=1SArGl6NOOViVnBO-6)
 - Cozymind
 - Thing I made for Hyperlink, with grouping mechanic (please find code!)
-- micro learning futures
 - interface for exoskeleton
 - gpt-2 madame bovary book
 - sea temperature exhibition 
@@ -112,6 +117,7 @@ context: "Draft"
 - Maze / maze editor
 - Electron pomodoro (https://github.com/azlen/productivityApp)
 - Exploding typography (https://github.com/azlen/typography)
+- High school poster designs
 
 future projects (I should make an ideas / experiment with me page)
 - neuropolis?
@@ -119,6 +125,7 @@ future projects (I should make an ideas / experiment with me page)
 - browsercade
 
 archive:
+- [Neuropolis](/@/...) []{.date}
 - [Seven Plus or Minus Two](/@/seven-plus-or-minus-two)
 - [Composable Software](/@/composable-software) []{.date}
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Gallery"
+description: "Visual collection of various projects and experiments"
 created: 2022-12-11
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Personal Lexicon"
+description: "Neologisms, reframings, and general wording"
 created: 2021-10-25
 alias: vocabulary, dictionary
 ---
@@ -27,6 +28,11 @@ Artifacting
 
 Checklist Education
 ~ Teachers being required to teach “by the checklist” of curriculum that is set forth for them
+
+[](){name="chrominance"}
+
+Chrominance
+~ The juxtaposition of words that echo a particular colour association, similar to the way *assonance* or *consonance* echo a particular sound
 
 [](){name="conductive_substrate"}
 
