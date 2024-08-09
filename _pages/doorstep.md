@@ -52,6 +52,12 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 
 ![Sid ⁘ [kjelsrud.dev](https://kjelsrud.dev/)]({{ "_pages/images/shoes-sid.png" | resize: "300x300>" }}){.shoe}
 
-![Luca ⁘ [lex]]
+![Luca ⁘ [lex.cx](https://les.cx/)]({{ "_pages/images/shoes-luca.png" | resize: "300x300>" }}){.shoe}
 
-![](images/shoes-sid.png)
+![Sid ⁘ [kjelsrud.dev](https://kjelsrud.dev/)]({{ "_pages/images/shoes-sid.png" | resize: "300x300>" }}){.shoe}
+
+![Luca ⁘ [lex.cx](https://les.cx/)]({{ "_pages/images/shoes-luca.png" | resize: "300x300>" }}){.shoe}
+
+![Aswin ⁘ @chandanaveli]({{ "_pages/images/shoes-aswin.png" | resize: "300x300>" }}){.shoe}
+
+![Alix ⁘ @alixwiessser]({{ "_pages/images/shoes-alix.png" | resize: "300x300>" }}){.shoe}
