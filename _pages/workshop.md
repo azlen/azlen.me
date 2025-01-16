@@ -9,9 +9,7 @@ created: 2023-01-16
 
 - Thinking about temporal interfaces, been tinkering with an idea for a [history clock](/@/history-clock) that tells time via events throughout history
 - Adding backlinks to this website give more avenues of exploration
-- Exploring ways we can create interfaces around language or diffusion models that are creatively empowering, increasing our agency and creative expression rather than replacing or diminishing it[^midjourney]
-
-[^midjourney]: Starting a little experimental interface group at *midjourney*, if this feels up your alley don't hesitate to reach out
+- Exploring ways we can create interfaces around language or diffusion models that are creatively empowering, increasing our agency and creative expression rather than replacing or diminishing it.
 
 ## What's next?
 

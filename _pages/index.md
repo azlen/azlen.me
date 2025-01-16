@@ -112,10 +112,10 @@ Printing press / news room
 [^bulletin]:
 **Bulletin** <br>
 <span class="page-date" style="font-size: 0.7em;">
-    December 2023
+    January 2025
 </span>
 <br><br>
-Currently trying to figure out how to make this website feel more like a *home* and write more about my past [projects](/projects)
+Nothing new. But there will be, soon.<br><br>
 <br>
 
 {% comment %}
