@@ -10,13 +10,13 @@
   "pandoc-solarized"
 ;
 
-@font-face {
-  font-family: 'LHF Corrie';
-  src:  url('/assets/fonts/corrie/regular.woff2') format('woff2'),
-        url('/assets/fonts/corrie/regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
+// @font-face {
+//   font-family: 'LHF Corrie';
+//   src:  url('/assets/fonts/corrie/regular.woff2') format('woff2'),
+//         url('/assets/fonts/corrie/regular.woff') format('woff');
+//   font-weight: normal;
+//   font-style: normal;
+// }
 
 // @font-face {
 //   font-family: 'Basteleur';
@@ -35,6 +35,16 @@
   font-style: normal;
   font-display: swap;
 }
+
+// @font-face {
+//   font-family: 'Fusion Pixel';
+//   src: url('/assets/fonts/fusion-pixel/12px-proportional-latin.woff2') format('woff2'),
+//       url('/assets/fonts/fusion-pixel/12px-proportional-latin.woff') format('woff');
+//   font-weight: 300;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
 
 
 
@@ -311,7 +321,8 @@ nav > * {
 }
 
 .sidenote-wrapper {
-  
+  line-height: 2rem;
+  font-size: 1rem !important;
 }
 
 .sidenote-number {
@@ -323,7 +334,7 @@ nav > * {
 }
 .sidenote-number::after, .sidenote::before {
   font-size: 0.6rem;
-  top: -0.884rem;
+  top: -0.76rem;
   font-family: monospace;
   font-weight: bold;
   left: 0;
@@ -748,6 +759,7 @@ ol, ul {
 }
 
 li {
+  display: table; /* this fixes a weird layout issue that I couldn't figure out */
   font-size: 1.2rem;
   padding-left: 5px;
   counter-increment: list;

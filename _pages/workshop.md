@@ -7,13 +7,9 @@ created: 2023-01-16
 
 *Half-finished ideas, and the machinery of the imagination lie scattered around the space. You overhear deep conversations, and the constant hammering of shaping nebulous thoughts into tangible experiments.*
 
-- Thinking about temporal interfaces, been tinkering with an idea for a [history clock](/@/history-clock) that tells time via events throughout history
-- Adding backlinks to this website give more avenues of exploration
-- Exploring ways we can create interfaces around language or diffusion models that are creatively empowering, increasing our agency and creative expression rather than replacing or diminishing it.
-
-## What's next?
-
-- Start getting into videomaking, as a medium to communicate more in-depth ideas
+- Exploring ways to build interfaces for intelligent systems that go beyond the plateau of chat— that are creatively empowering or allow us to query/understand the models in meaningful ways
+- Tinkering with swift and react native to build out a couple personal app ideas: weird little camera/photo-walk app, a new language learning tool, etc.
+- Designing a couple board games: a simple word game, and an overly complicated cyberpunk-themed card game where each card represents a different faction with their own goals and abilities
 
 {% comment %}
 
