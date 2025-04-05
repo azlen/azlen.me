@@ -63,3 +63,7 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 ![Linus ⁘ —]({{ "_pages/images/shoes-linus.png" | resize: "300x300>" }}){.shoe}
 
 ![James ⁘ @_JamesAlmeida]({{ "_pages/images/shoes-jamesalmeida.png" | resize: "300x300>" }}){.shoe}
+
+![Diego ⁘ —]({{ "_pages/images/shoes-diego.png" | resize: "300x300>" }}){.shoe}
+
+![Jordan ⁘ —]({{ "_pages/images/shoes-jordan.png" | resize: "300x300>" }}){.shoe}

@@ -6,7 +6,7 @@ created: 2021-10-25
 alias: vocabulary, dictionary
 ---
 
-Words, words, words. 
+*Mostly personal neologisms and new terms, along with a spattering of existing words that I liked or wanted to reframe in a particular way. At some point it seems wise that there should be some kind of notation to differentiate between different types of entries...* 
 
 
 [](){name="anticipant"}
@@ -45,6 +45,11 @@ Conductive Substrate
 Conflerge
 ~ Two concepts which appear opposed to each other yet work towards the same idea
 
+[](){name="derivateur"}
+
+Derivateur
+~ One who specializes in derivative work: video game modders, song parodists, IKEA hackers, fan fiction writers. Often amateurs motivated purely by enjoyment of the craft.
+
 [](){name="design_fiction"}
 
 Design Fiction
@@ -54,6 +59,11 @@ Design Fiction
 
 Digital Body Language
 ~ The ability to non-verbally communicate, express yourself, or gesture in digital space. Often involves a virtual body or avatar. A *digital body language* does not have to exactly mirror the affordances we have in the real world and with our physical body, it only matters that it gives us the tools or multiple axes for expressing ourselves in different ways.
+
+[](){name="enterface}
+
+Enterface
+~ An immersive interface, one in which you can "enter" or step inside in some form
 
 [](){name="expert_amnesia"}
 
@@ -80,10 +90,20 @@ Fractal Wayfinding
 Gateway Project
 ~ A project that feeds into many other projects
 
+[](){name="idiolect"}
+
+Idiolect
+~ Personal dialect. Can be used metaphorically to indicate places where you are too much inside a bubble of your own that you lack or diminish the essential [interfundus](#interfundus) to connect with others. Such a sentence in itself is an example of such idiolectical confusion.
+
 [](){name="imagination"}
 
 Imagination
 ~ Imagination is the ability to focus our attention on things that are not immediately present to our senses
+
+[](){name="interfundus"}
+
+Interfundus
+~ Foundational layer of shared context that allows for meaningful connection despite differing surface-level experience. Essentially the common ground or intersection between [memeplexes](#memeplex).
 
 [](){name="intimacy_gradient"}
 
@@ -94,6 +114,16 @@ Intimacy Gradient
 
 Margon
 ~ Metaphorical-jargon, a natural way of conveying complex ideas without being completely unintelligable to the outside ear. For example a "mental anchor", or "reciprocal need", much of the meaning is already embedded into the words it contains.
+
+[](){name="memeplex"}
+
+Memeplex
+~ The interconnected network of ideas, beliefs, and mental patterns that exist within a person's mind and shape how they think and interpret the world
+
+[](){name="mental_saccade"}
+
+Mental Saccade
+~ The rapid flitting between thoughts and attentional foci (different conversations, books, ideas) that can spark the emergence of new ideas and without which you can lose sight of the so-called *greater picture*.
 
 [](){name="reciprocal_need"}
 
@@ -120,6 +150,12 @@ Thoughtspace
 Transition Space
 ~ A space that connects and serves to transition between two or more well-defined spaces. I think of these spaces not just as a physical transition but also a transition between frames of mind
 ~ *See*: [City Fragments #3.1](/quick-ideas/cities/#3.1)
+
+[](){name="xenomorphism"}
+
+Xenomorphism
+~ Future "intelligent" design trend (ala skeuomorphism, neumorphism, glassmorphism) whereby software takes form to reflect your own personal aesthetics, preferences, or environment
+
 
 <!--
 **Anticipant**: *An element of an interface that foreshadows what is about to happen if you take a certain action*

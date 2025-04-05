@@ -1,0 +1,63 @@
+{% assign backlinks = site.data.backlinks_detailed[page.url] %}
+
+<!-- {% if backlinks_for_this_page.size > 0 %}
+<style>
+.backlinks {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  background: var(--b_low, rgba(0, 0, 0, 0.05));
+  border-radius: 8px;
+}
+.backlinks h3 {
+  font-size: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+.backlinks ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 0;
+}
+.backlinks li {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+}
+.backlinks li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.backlink-snippet {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  opacity: 0.85;
+  margin: 0.5rem 0 0;
+  padding: 0.75rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  font-style: normal;
+}
+@media (prefers-color-scheme: dark) {
+  .backlink-snippet {
+    background: rgba(0, 0, 0, 0.2);
+  }
+}
+</style>
+
+<div class="backlinks">
+  <h3>Links to this note</h3>
+  <ul>
+    {% for backlink in backlinks_for_this_page %}
+      <li>
+        <a href="{{ site.baseurl }}{{ backlink.source_url }}">{{ backlink.source_title }}</a>
+        {% if backlink.snippet %}
+          <p class="backlink-snippet">{{ backlink.snippet | strip_html | escape }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% assign backlinks_for_this_page = nil %}  -->
