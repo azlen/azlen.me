@@ -1,45 +1,61 @@
+## Small tasks / fixes
 
-[----- ] theme switcher
+[ ] Fix text overflow in opengraph images
+[ ] Write a bulletin
+[ ] Fix sidenotes offsetting items in list (and other elements... idk if there's a way to fix this tho)
+[ ] Make sure doorstep is up to date
 
-[      ] get interfaces journal off the ground
+## Larger Work
 
-[-     ] create backlinks
-    + found someone who's already implemented jekyll backlinks, as well as clustering by related tags: https://github.com/rgvr/simply-jekyll/blob/master/_includes/Backlinks.html
-
-[      ] bring in quotebacks, as an include?
-
-[      ] figure out how to use the citation plugin properly...
-
-[      ] figure out how to bring back chladni patterns... or should I? maybe only for hub pages?
-
-[      ] split links into a bunch of spans to bring back hover animation across multiple lines?
-
-[      ] create project page and documentation for various different projects both current, past and future
-    > I like the idea of "future" projects, and that can also tie in with the "sidequest" or "weekend project" idea
-    > For past projects, how much should I include? maybe style BIG projects and small experiments differently? have some kind of categorization system...
-        > luckily I already have some of these projects documented (at least minorly) so I can start by copying over some of those
-        - Learning groups
-        - Interhackt
-        - Color picker (experiment)
-        - Scroll (experiment)
-        - Learning futures
-        - 
-
-[     ] Clean up CSS / SCSS
-
-[     ] Create gallery page for seeing all the different gifs and experiments in one space (documentation!!)
-
-[     ] Cozy-lab home-page
-    - I want the homepage to be less confusing as it is currently designed to be intentionally hard to navigate
-
-[     ] Delve through notes site and bring back relevant notes onto new website
-
-[-----] Ko-fi link to support me
-
-[     ] Figure out some way to integrate forum into website?
-
-[     ] Clean up layouts / includes
-
-
-
-[     ] Make it so that aliases also create redirects
+[      ] Make backlinks better
+    [ ] Finish rewriting as own plugin
+    [ ] Figure out how to style / show snippets
+[      ] Work on documenting projects
+    [ ] APL Cards
+    [ ] Cardographer
+    [ ] Abstract Orange Lice
+    [ ] Emojibot (better documentation)
+    [ ] Bananagram variations
+    [ ] Cozyroom
+    [ ] Parralel pages, visibly connected
+    [ ] Roam themes
+    [ ] Add video (face detection instrument)
+    [ ] Interactive comic editor
+    [ ] Spatial audio game(s)
+    [ ] Perceptual shift ambigrams (+ graveyard)
+    [ ] Dementos
+    [ ] Echo chamber
+    [ ] Continuous word wrap
+    [ ] Chinese dreams interface
+    [ ] Learning groups
+    [ ] Rate of change vector space
+    [ ] Personal forum
+    [ ] Embol
+    [ ] Embol-like text adventure
+    [ ] (language learning)
+    [ ] Rotanym interface (on replit)
+    [ ] Single player pen-and-paper RPG (magic dungeon)
+    [ ] Madame bovary book
+    [ ] Sea temperature exhibition
+    [ ] Erik satie music
+    [ ] Obalyr
+    [ ] Chinese overlay
+    [ ] Flower garden
+    [ ] Chinese colocation interface
+    [ ] Generative business cards
+    [ ] Reddit logo generator
+    [ ] Cthulhu tarot
+    [ ] Frequency XKCD thing
+    [ ] Procjam word vector alchemy game
+    [ ] Mechaslayer board game
+    [ ] Concept-space search
+    [ ] notes.azlen.me (part of personal website project)
+    [ ] Ghoti
+    [ ] Generative art
+    [ ] Battle royale writing thing
+    [ ] Wordstealer?
+    [ ] Dice battler game
+    [ ] Computer history balenciaga
+    [ ] Convergent writing canvas
+    [ ] Text to ticker
+    [ ] Silo game
