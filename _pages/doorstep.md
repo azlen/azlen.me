@@ -66,4 +66,4 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 
 ![Diego ⁘ —]({{ "_pages/images/shoes-diego.png" | resize: "300x300>" }}){.shoe}
 
-![Jordan ⁘ —]({{ "_pages/images/shoes-jordan.png" | resize: "300x300>" }}){.shoe}
+![Jordan ⁘ [jordanmccommons.com](https://jordanmccommons.com)]({{ "_pages/images/shoes-jordan.png" | resize: "300x300>" }}){.shoe}

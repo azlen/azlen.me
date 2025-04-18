@@ -1,15 +1,20 @@
 ## Small tasks / fixes
 
+[X] Make sure doorstep is up to date
+[ ] Fix CSS issue for doorstep / image notes that extend too long
 [ ] Fix text overflow in opengraph images
 [ ] Write a bulletin
 [ ] Fix sidenotes offsetting items in list (and other elements... idk if there's a way to fix this tho)
-[ ] Make sure doorstep is up to date
+[ ] Make gallery work better on iOS
 
 ## Larger Work
 
 [      ] Make backlinks better
     [ ] Finish rewriting as own plugin
     [ ] Figure out how to style / show snippets
+[      ] Gallery
+    [ ] Make sure things in the gallery link to actual project pages
+    [ ] Make a list of things to add to gallery
 [      ] Work on documenting projects
     [ ] APL Cards
     [ ] Cardographer
