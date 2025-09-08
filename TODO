@@ -1,21 +1,23 @@
-## Small tasks / fixes
+## Manual things I have to do eventually (no AI)
 
-[X] Make sure doorstep is up to date
+[ ] Write a bulletin!!!
 [ ] Fix CSS issue for doorstep / image notes that extend too long
 [ ] Fix text overflow in opengraph images
-[ ] Write a bulletin
 [ ] Fix sidenotes offsetting items in list (and other elements... idk if there's a way to fix this tho)
 [ ] Make gallery work better on iOS
 
-## Larger Work
+## Content / pages
 
-[      ] Make backlinks better
+[ ] remove /now in favor of /workshop (but make redirect)
+[ ] remove old projects page (only once new project page is ready, and projects are fully documented)
+[ ] maybe bring back nested navigational thing on home page
+[         ] Make backlinks better
     [ ] Finish rewriting as own plugin
     [ ] Figure out how to style / show snippets
-[      ] Gallery
+[         ] Gallery
     [ ] Make sure things in the gallery link to actual project pages
     [ ] Make a list of things to add to gallery
-[      ] Work on documenting projects
+[         ] Work on documenting projects
     [ ] APL Cards
     [ ] Cardographer
     [ ] Abstract Orange Lice

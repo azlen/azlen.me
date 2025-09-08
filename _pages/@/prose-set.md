@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Word Matching Game"
+title: "Prose Set"
 context: ""
 description: ""
 created: 2024-01-15

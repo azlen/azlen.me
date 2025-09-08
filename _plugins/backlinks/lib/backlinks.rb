@@ -22,7 +22,15 @@ module Jekyll
       target_urls = {}
       all_docs.each do |doc|
         next unless doc.respond_to?(:url) && !doc.url.nil?
-        target_urls[doc.url] = doc
+        # Normalize the target URLs to ensure consistent matching
+        normalized_url = normalize_url(doc.url)
+        target_urls[normalized_url] = doc
+      end
+      
+      # Debug: print all target URLs
+      puts "All possible target URLs (#{target_urls.keys.count}):"
+      target_urls.keys.sort.each do |url|
+        puts "  - #{url}"
       end
       
       # For each document, find outgoing links to other documents
@@ -30,17 +38,88 @@ module Jekyll
         next unless source_doc.respond_to?(:content) && source_doc.content && source_doc.respond_to?(:url)
         
         source_content = source_doc.content
-        
-        # Find markdown links: [text](url)
-        markdown_links = source_content.scan(/\[([^\]]+)\]\(([^)]+)\)/)
-        markdown_links.each do |link_text, href|
-          process_link(site, target_urls, backlinks_detailed, source_doc, href, link_text, source_content, snippet_char_length, ellipsis)
-        end
+        modified_content = source_content.dup
+        content_modified = false
         
         # Find HTML links: <a href="url">text</a>
-        html_links = source_content.scan(/<a[^>]*href=["']([^"']+)["'][^>]*>(.*?)<\/a>/im)
-        html_links.each do |href, link_text|
-          process_link(site, target_urls, backlinks_detailed, source_doc, href, link_text, source_content, snippet_char_length, ellipsis)
+        html_link_matches = source_content.to_enum(:scan, /<a[^>]*href=["']([^"']+)["'][^>]*>(.*?)<\/a>/im).map { Regexp.last_match }
+        
+        html_link_matches.reverse_each do |match|
+          full_match = match[0]
+          href = match[1]
+          link_text = match[2]
+          
+          # For HTML links
+          normalized_href = normalize_href(href, source_doc.url, site.baseurl.to_s)
+          
+          # Generate a unique ID for this link (for ALL links, not just internal ones)
+          link_id = if href.start_with?('http://') || href.start_with?('https://')
+            # For external links, use domain name in ID
+            domain = href.match(%r{^https?://([^/]+)})[1] rescue "external"
+            "link-to-#{domain.gsub(/[^\w\-]/, '-')}"
+          else
+            # For internal links
+            "link-to-#{normalized_href.gsub(/[^\w\-]/, '-').gsub(/-+/, '-')}"
+          end
+          
+          # Add incrementing number to make IDs unique within document
+          link_id = "#{link_id}-#{html_link_matches.size - html_link_matches.find_index(match)}"
+          
+          # Replace the link with one that has an ID
+          if !full_match.include?(' id=')
+            new_link = full_match.sub(/<a\s/, "<a id=\"#{link_id}\" ")
+            modified_content.sub!(full_match, new_link)
+            content_modified = true
+          end
+          
+          # Only process backlink data for internal site links
+          if target_urls.key?(normalized_href) && normalized_href != normalize_url(source_doc.url)
+            process_link(site, target_urls, backlinks_detailed, source_doc, href, link_text, source_content, snippet_char_length, ellipsis)
+          end
+        end
+        
+        # Update the document content if modified
+        if content_modified && source_doc.respond_to?(:content=)
+          source_doc.content = modified_content
+          puts "Modified content for #{source_doc.url} with link IDs"
+        end
+        
+        # Process Markdown links separately for backlinks (without modifying the content)
+        markdown_link_matches = source_content.to_enum(:scan, /\[([^\]]+)\]\(([^)]+)\)(\{[^}]*\})?/).map { Regexp.last_match }
+        
+        markdown_link_matches.reverse_each do |match|
+          full_match = match[0]
+          link_text = match[1]
+          href = match[2]
+          attrs = match[3] || ""
+          
+          normalized_href = normalize_href(href, source_doc.url, site.baseurl.to_s)
+          
+          # Generate a unique ID for this link (for ALL links, not just internal ones)
+          link_id = if href.start_with?('http://') || href.start_with?('https://')
+            # For external links, use domain name in ID
+            domain = href.match(%r{^https?://([^/]+)})[1] rescue "external"
+            "link-to-#{domain.gsub(/[^\w\-]/, '-')}"
+          else
+            # For internal links
+            "link-to-#{normalized_href.gsub(/[^\w\-]/, '-').gsub(/-+/, '-')}"
+          end
+          
+          # Add incrementing number to make IDs unique within document
+          link_id = "#{link_id}-#{markdown_link_matches.size - markdown_link_matches.find_index(match)}"
+          
+          # Add ID attribute to the link if it doesn't already have one
+          if !attrs.include?(' id=') && !attrs.include?('#')
+            new_attrs = attrs.empty? ? "{##{link_id}}" : attrs.sub(/\{/, "{##{link_id} ")
+            new_link = "[#{link_text}](#{href})#{new_attrs}"
+            modified_content.sub!(full_match, new_link)
+            content_modified = true
+          end
+          
+          # Only process backlink data for internal site links
+          if target_urls.key?(normalized_href) && normalized_href != normalize_url(source_doc.url)
+            process_link(site, target_urls, backlinks_detailed, source_doc, href, link_text, source_content, snippet_char_length, ellipsis)
+          end
         end
       end
       
@@ -72,7 +151,8 @@ module Jekyll
         backlink_info = {
           'source_url' => source_doc.url,
           'source_title' => get_doc_title(source_doc),
-          'snippet' => snippet || "[No snippet available]"
+          'snippet' => snippet || "[No snippet available]",
+          'id' => "backlink-#{source_doc.url.gsub(/[^\w\-]/, '-').gsub(/-+/, '-')}"
         }
         
         backlinks_detailed[target_url] << backlink_info
@@ -95,7 +175,14 @@ module Jekyll
       # Ensure it starts with /
       href = "/" + href unless href.start_with?('/')
       
-      href
+      # Normalize trailing slashes (remove them)
+      normalize_url(href)
+    end
+    
+    def normalize_url(url)
+      # Ensure trailing slash (except for root which already has one)
+      url = url + '/' unless url.end_with?('/') || url == '/'
+      url
     end
     
     def extract_snippet(content, link_text, snippet_char_length, ellipsis)

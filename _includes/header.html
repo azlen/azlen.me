@@ -26,12 +26,10 @@
           <p class="subtitle">{{ page.subtitle }}</p>
         {% endif %}
 
-        <!-- {% assign backlinks = site.data.backlinks_detailed[page.url] %} -->
-        {% include backlinker.html %}
+        {% assign backlinks = site.data.backlinks_detailed[page.url] %}
 
-        <!-- <p>{{ backlinks | size }} backlinks (page id: {{ page.id }})</p> -->
+        {{ page.url}}
         
-
         {% if page.hide contains "date" %}
             {% unless page.hide contains "title" %}
               <style>
@@ -44,7 +42,6 @@
           <p class="page-date">
             Last updated {{ page.last_modified_at | timeago }}
 
-            <!-- {% assign backlink_count = backlinks | size %} -->
             {% if backlinks.size > 0 %}
               {% assign s = "" %}
               {% if backlinks.size > 1 %}
@@ -52,7 +49,8 @@
               {% endif %}
               — <span class="sidenote-wrapper backlinks"><label class="sidenote-clickable">{{ backlinks.size }} backlink{{ s }}</label><span class="sidenote">
                 {% for backlink in backlinks %}
-                  <a href="{{ backlink.id }}">{{ backlink.title }}</a><br>
+                  <a href="{{ backlink.source_url }}">{{ backlink.source_title }}</a>
+                  <iframe src="{{ backlink.source_url }}#link-to-{{ page.url | replace: '/', '-' | replace: '-+', '-' }}-1" class="backlink-preview" loading="lazy" title="Preview of {{ backlink.source_title }}"></iframe>
                 {% endfor %}
               </span></span>
             {% endif %}

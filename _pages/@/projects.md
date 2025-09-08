@@ -8,7 +8,7 @@ context: "Draft"
 []{.shrink-spacing}
 
 - [Cardographer]()
-- [Abstract Orange Lice](/@/word-matching-game.md) []{.date}
+- [Abstract Orange Lice](@/prose-set) []{.date}
 - [5D Set](/@/5d-set) []{.date}
 - [Computer history Balenciaga](/@/computer-history-by-balenciaga) []{.date}
 - [Revealing Poems](/@/revealing-poems) [(Nov 2022)]{.date}
@@ -19,6 +19,7 @@ context: "Draft"
 - [Peripheral Scroll](/@/peripheral-scroll) [(Mar 2021)]{.date}
 - [Multidimensional Color Picker](/@/multidimensional-color-picker) [(Mar 2021)]{.date}
 - [Cozyroom](/@/...) []{.date}
+- [Roboletter](/@/roboletter) [(Sep 2020, Aug 2025)]{.date}
 - [Parallel Pages, Visibly Connected](/@/...) [(Jun. 2020)]{.date}
 - [Personal Website](/@/personal-website) []{.date}
 - [Interhackt](/@/interhackt) []{.date}
@@ -26,6 +27,7 @@ context: "Draft"
 - [Geolograph](/writing/geological-phonograph) []{.date}
 - [Face-detection Instrument](/@/face-detection-instrument) []{.date}
 - [Micro Learning Futures](/@/micro-learning-futures) [(Nov 2019)]{.date}
+- [Robots Assist Profanity](/@/robots-assist-profanity) [(Jun 2019)]{.date}
 - ["Dear Robots" Comic](/@/dear-robots) [(Nov 2018)]{.date}
 - [Pattern Generator](/@/pattern-generator) [(Feb. 2018)]{.date}
 - [Interactive Comic Editor](/@/...) [(Sep. 2017)]{.date}
