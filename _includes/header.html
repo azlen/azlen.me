@@ -27,8 +27,6 @@
         {% endif %}
 
         {% assign backlinks = site.data.backlinks_detailed[page.url] %}
-
-        {{ page.url}}
         
         {% if page.hide contains "date" %}
             {% unless page.hide contains "title" %}
@@ -42,6 +40,7 @@
           <p class="page-date">
             Last updated {{ page.last_modified_at | timeago }}
 
+            {% comment %}
             {% if backlinks.size > 0 %}
               {% assign s = "" %}
               {% if backlinks.size > 1 %}
@@ -54,6 +53,7 @@
                 {% endfor %}
               </span></span>
             {% endif %}
+            {% endcomment %}
 
             {% comment %}
             {% if page.recording %}

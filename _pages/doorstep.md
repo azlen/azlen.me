@@ -67,3 +67,9 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 ![Diego ⁘ —]({{ "_pages/images/shoes-diego.png" | resize: "300x300>" }}){.shoe}
 
 ![Jordan ⁘ [jordanmccommons.com](https://jordanmccommons.com)]({{ "_pages/images/shoes-jordan.png" | resize: "300x300>" }}){.shoe}
+
+![Irek ⁘ [irek.gabr.pl](http://irek.gabr.pl/)]({{ "_pages/images/shoes-irek.png" | resize: "300x300>" }}){.shoe}
+
+![Rus ⁘ @rus]({{ "_pages/images/shoes-rus.png" | resize: "300x300>" }}){.shoe}
+
+![Richard ⁘ [foxandthistle.studio](https://foxandthistle.studio/)]({{ "_pages/images/shoes-richard.png" | resize: "300x300>" }}){.shoe}
