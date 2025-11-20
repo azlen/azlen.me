@@ -112,10 +112,10 @@ Printing press / news room
 [^bulletin]:
 **Bulletin** <br>
 <span class="page-date" style="font-size: 0.7em;">
-    January 2025
+    November 2025
 </span>
 <br><br>
-Nothing new. But there will be, soon.<br><br>
+Starting something new, announcing sometime early next year.<br><br>
 <br>
 
 {% comment %}

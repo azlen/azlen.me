@@ -622,9 +622,17 @@ figure {
 // only set max width/height if width is not defined
 // so that we can still overrule it easily if needed
 .shoe:not([width]), .gallery-item:not([width]) {
-  max-width: 300px;
+  max-width: 300px; 
   max-height: 300px;
+  width: auto !important; // important to prevent media rules overriding
 }
+@media (max-width: 760px) {
+  .shoe:not([width]), .gallery-item:not([width]) {
+    max-width: 250px;
+    max-height: 250px;
+  }
+}
+
 .shoe + figcaption, .gallery-item + figcaption {
   position: absolute;
   display: inline-block;
