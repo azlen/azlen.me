@@ -7,7 +7,7 @@ permalink: /
 published: true
 ---
 
-<em>Dear fellow wanderer,</em><span class="ignore">[^bulletin]</span><br>
+<em>Dear fellow wanderer,</em><br>
 Welcome to my little corner of the internet!
 
 
@@ -108,15 +108,6 @@ Printing press / news room
 
 
 -->
-
-[^bulletin]:
-**Bulletin** <br>
-<span class="page-date" style="font-size: 0.7em;">
-    November 2025
-</span>
-<br><br>
-Starting something new, announcing sometime early next year.<br><br>
-<br>
 
 {% comment %}
 <span class="page-date" style="font-size: 0.7em;">
