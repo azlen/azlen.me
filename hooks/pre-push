@@ -1,0 +1,9 @@
+#!/bin/sh
+# Pushing main publishes the site: build, then commit the built site to the deploy repo.
+# If the build fails the push is stopped. Skip with: git push --no-verify
+while read local_ref local_sha remote_ref remote_sha; do
+  if [ "$remote_ref" = "refs/heads/main" ]; then
+    exec "$(git rev-parse --show-toplevel)/deploy" < /dev/null
+  fi
+done
+exit 0

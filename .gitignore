@@ -18,3 +18,8 @@ _pages/quick-ideas/spiel.md
 cache/
 # Local Netlify folder
 .netlify
+
+# deploy
+.deploy.git/
+.deploy-build.log
+node_modules/

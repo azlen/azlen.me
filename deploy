@@ -1,0 +1,38 @@
+#!/bin/sh
+# Build the site and publish it.
+#
+#   ./deploy             build, then commit _site/ to azlen/deploy.azlen.me (Netlify serves that repo)
+#   ./deploy --dry-run   build, then only show what would change
+#
+# .deploy.git is a history-only clone of the deploy repo (no file contents), so
+# publishing uploads just the files that changed instead of downloading ~700 MB.
+# Also runs from the pre-push hook (hooks/pre-push), so pushing main publishes the site.
+set -e
+cd "$(dirname "$0")"
+ROOT=$PWD
+
+export LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8   # without this Ruby reads the pages as ASCII and the build fails
+export RBENV_VERSION="${RBENV_VERSION:-3.2.0}"
+
+echo "building…"
+bundle exec jekyll build > .deploy-build.log 2>&1 || { tail -20 .deploy-build.log; echo "build failed (full log: .deploy-build.log)"; exit 1; }
+
+source_rev=$(git rev-parse --short HEAD)
+[ -z "$(git status --porcelain -- _pages _layouts _includes _sass assets _config.yml _redirects)" ] || source_rev="$source_rev+uncommitted"
+
+[ -d .deploy.git ] || git clone -q --bare --filter=blob:none git@github.com:azlen/deploy.azlen.me.git .deploy.git
+
+export GIT_DIR="$ROOT/.deploy.git" GIT_WORK_TREE="$ROOT/_site" GIT_INDEX_FILE="$ROOT/.deploy.git/site-index"
+git fetch -q origin +main:main
+git read-tree main
+git add -A
+if git diff --cached --quiet main; then
+  echo "already live, nothing to publish"
+  exit 0
+fi
+git diff --cached --stat main | tail -1
+[ "$1" = "--dry-run" ] && exit 0
+
+git commit -q -m "auto deploy ($source_rev)"
+git push -q origin HEAD:main
+echo "published; Netlify picks it up in about 20 seconds"

@@ -35,6 +35,8 @@ exclude:
   - run
   - TODO
   - publish.sh
+  - deploy
+  - hooks
 
 include:
   - _redirects
