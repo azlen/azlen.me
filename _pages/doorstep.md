@@ -75,3 +75,5 @@ This page is a *digital shoe rack*, I invite you to pause for a moment, take a p
 ![Richard ⁘ [foxandthistle.studio](https://foxandthistle.studio/)]({{ "_pages/images/shoes-richard.png" | resize: "300x300>" }}){.shoe}
 
 ![Aaron ⁘ [aaronstrick.com](https://aaronstrick.com)]({{ "_pages/images/shoes-aaron-strick.png" | resize: "300x300>" }}){.shoe}
+
+![Lindo ⁘ @POTFES]({{ "_pages/images/shoes-lindo.jpg" | resize: "300x300>" }}){.shoe}
